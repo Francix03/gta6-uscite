@@ -1,0 +1,74 @@
+{
+ "titolo": "Clip 02 - GTA 6 pre-load: what you need",
+ "voce": "am_puck",
+ "velocita": 1.05,
+ "musica": "musica/music-originale-synthwave.mp3",
+ "volume_musica": 0.10,
+ "credito": "Footage: Rockstar Games (official trailers & videos)",
+ "fonti_video": {
+  "jason": "video-clip/Jason_Duval_Video_Clip.mp4",
+  "lucia": "video-clip/Lucia_Caminos_Video_Clip.mp4",
+  "cal": "video-clip/Cal_Hampton_Video_Clip.mp4",
+  "raul": "video-clip/Raul_Bautista_Video_Clip.mp4",
+  "dimez": "video-clip/Real_Dimez_Video_Clip.mp4",
+  "boobie": "video-clip/Boobie_Ike_Video_Clip.mp4",
+  "brian": "video-clip/Brian_Heder_Video_Clip.mp4",
+  "drequan": "video-clip/DreQuan_Priest_Video_Clip.mp4",
+  "cover": "video-clip/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "car": "extended-look/EL_car.mp4",
+  "dog": "extended-look/EL_dog.mp4",
+  "stars": "extended-look/EL_stars.mp4"
+ },
+ "scene": [
+  {"titolo": "212 GB?!\nHERE'S THE PLAN",
+   "voce": "GTA 6 is 212 gigabytes. So yes, something on your console has to die. Here's everything you need before November 19.",
+   "inquadrature": [
+    {"src": "stars", "modo": "fit", "t0": 4.4, "t1": 6.0, "cx": 0.30, "dur": 1.6},
+    {"src": "jason", "modo": "crop", "cx": 0.60, "speed": 0.45, "dur": 2.2},
+    {"src": "raul", "modo": "crop", "cx": 0.58, "speed": 0.45}
+   ]},
+  {"titolo": "#1  PRE-LOAD\nSTARTS NOV 10",
+   "voce": "Number one. Pre-load starts November 10. On PS5, it's midnight your local time. On Xbox, it's midnight UK time, so in America that's the afternoon of the ninth.",
+   "inquadrature": [
+    {"src": "car", "modo": "crop", "t0": 0, "t1": 4.3, "cx": 0.36, "dur": 3.5},
+    {"src": "lucia", "modo": "crop", "cx": 0.58, "speed": 0.5, "dur": 2.8},
+    {"src": "cal", "modo": "crop", "cx": 0.70, "speed": 0.45}
+   ]},
+  {"titolo": "#2  CLEAR UP\nTO 212 GB",
+   "voce": "Number two. You'll need up to 212 gigabytes free. Start deleting now, not at 11:59 on launch night.",
+   "inquadrature": [
+    {"src": "boobie", "modo": "crop", "cx": 0.32, "speed": 0.45, "dur": 2.2},
+    {"src": "stars", "modo": "crop", "t0": 2.5, "t1": 4.5, "cx": 0.30, "dur": 2.0},
+    {"src": "brian", "modo": "crop", "cx": 0.62, "speed": 0.45}
+   ]},
+  {"titolo": "#3  NO DISC\nIN THE BOX",
+   "voce": "Number three. Buying the boxed copy? There's no disc inside, just a download code. Those hit stores November 12, so you're downloading either way.",
+   "inquadrature": [
+    {"src": "drequan", "modo": "crop", "cx": 0.55, "speed": 0.45, "dur": 2.2},
+    {"src": "car", "modo": "fit", "t0": 4.4, "t1": 6.0, "cx": 0.5, "dur": 1.6},
+    {"src": "dimez", "modo": "crop", "cx": 0.50, "speed": 0.45}
+   ]},
+  {"titolo": "#4  LAUNCH-DAY\nBONUS",
+   "voce": "Number four. Get it by launch day and you also unlock the Vintage Vice City Pack. Free drip is still drip.",
+   "inquadrature": [
+    {"src": "dog", "modo": "crop", "t0": 1.5, "t1": 5.0, "cx": 0.40, "luce": true, "dur": 2.5},
+    {"src": "lucia", "modo": "crop", "cx": 0.50, "speed": 0.5}
+   ]},
+  {"titolo": "PS5 OR XBOX?",
+   "voce": "So where are you playing? PS5 or Xbox? Tell me in the comments. And go clear that space tonight.",
+   "inquadrature": [
+    {"src": "jason", "modo": "crop", "cx": 0.45, "speed": 0.45, "dur": 2.2},
+    {"src": "cover", "modo": "fit", "t0": 24.0, "t1": 30.0, "cx": 0.5, "fgw": 1700, "y": 520}
+   ]}
+ ],
+ "pubblicazione": {
+  "titolo_youtube": "GTA 6 Pre-Load: Everything You Need Before Nov 19 #gta6 #shorts",
+  "descrizione": "GTA 6 pre-load starts November 10 and the game needs up to 212 GB. Here's what you need before launch on November 19.\n\nSources: Rockstar Newswire (pre-load and file size), PlayStation Store listings.\nFootage: Rockstar Games official trailers and videos. Commentary and edit by this channel.",
+  "hashtag": "#gta6 #gtavi #grandtheftauto6 #rockstargames #ps5 #xbox #gaming #shorts"
+ },
+ "fonti_fatti": [
+  "Pre-load dal 10/11, PS5 mezzanotte ora locale, Xbox 00:00 GMT, fino a 212 GB, copie boxed con codice nei negozi dal 12/11: Rockstar Newswire 3/11/2026 (riportato da TechRadar, GamesRadar, Shacknews)",
+  "Nessun disco al lancio: VGC (Rockstar)",
+  "Vintage Vice City Pack per acquisti entro il 20/11: Endgame Tools / VGTimes - VERIFICARE sulla pagina preordini Rockstar prima di pubblicare"
+ ]
+}
