@@ -140,7 +140,9 @@ class VidShot:
         return self.last.resize((W, H), Image.BILINEAR, box=((W - cw) / 2, (H - ch) / 2, (W + cw) / 2, (H + ch) / 2))
 
 def render_scene(idx, durs, starts, sdur, total, only=None):
-    stat = static_layer(idx); ch = chunks(word_timings(SC[idx]["voce"], durs[idx]))
+    stat = static_layer(idx)
+    capt = re.sub(r"\bGTA [Ss]ix\b", "GTA VI", SC[idx].get("sottotitoli", SC[idx]["voce"]))  # voce dice "GTA six", a schermo "GTA VI"
+    ch = chunks(word_timings(capt, durs[idx]))
     shots = SC[idx]["inquadrature"]; fixed = sum(s.get("dur", 0) for s in shots)
     rest = max(1.0, sdur[idx] - fixed); plan, t0 = [], 0.0
     for s in shots:
