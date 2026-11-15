@@ -136,12 +136,25 @@ def calcola(video, canali, adesso):
     return video
 
 
+def titolo_utile(titolo):
+    """Scarta titoli fatti solo di hashtag o non in alfabeto latino (scenette e canali in altre lingue)."""
+    testo = re.sub(r"#\S+", " ", titolo)
+    lettere = [c for c in testo if c.isalpha()]
+    if not lettere:
+        return False
+    latine = sum(1 for c in lettere if c.isascii())
+    parole = re.findall(r"[A-Za-z]{2,}", testo)
+    return latine / len(lettere) >= 0.8 and len(parole) >= 2
+
+
 def sezione_shorts(chiave, adesso, out):
     id7 = cerca_video(chiave, adesso - dt.timedelta(days=7))
     id48 = cerca_video(chiave, adesso - dt.timedelta(hours=48))
     det = dettagli_video(chiave, id7 + id48)
     can = media_canali(chiave, [v["canale_id"] for v in det.values()])
     tutti = calcola(list(det.values()), can, adesso)
+    out["shorts_scartati"] = sum(1 for v in tutti if not titolo_utile(v["titolo"]))
+    tutti = [v for v in tutti if titolo_utile(v["titolo"])]
     lim48 = adesso - dt.timedelta(hours=48)
     out["shorts_7g"] = sorted(tutti, key=lambda v: -v["views_giorno"])
     out["shorts_48h"] = sorted([v for v in tutti if leggi_iso(v["pubblicato"]) >= lim48],
@@ -155,7 +168,7 @@ def sezione_fan(chiave, adesso, out, vecchio):
         return
     ids = cerca_video(chiave, adesso - dt.timedelta(days=7), durata="any", n=10)
     det = sorted(dettagli_video(chiave, ids).values(), key=lambda v: -v["views"])
-    scelti = [v for v in det if (v["durata_s"] or 0) > 60][:3] or det[:3]
+    scelti = [v for v in det if (v["durata_s"] or 0) > 180][:3] or det[:3]
     video = []
     for v in scelti:
         try:
