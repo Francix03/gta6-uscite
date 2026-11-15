@@ -33,7 +33,7 @@ UA = {"User-Agent": "Mozilla/5.0 (gta6-uscite raccolta dati)"}
 
 # Canali da controllare (modello-clip-gta6.md, sezione 12). Si possono aggiungere handle qui.
 CONCORRENTI = ["MrBossFTW", "GTA6Videos_", "GTASeriesVideos", "BreeZeGTA", "GrandGecko",
-               "LegacyKillaHD", "gameranx", "Glooby", "TmarTn2"]
+               "LegacyKillaHD", "gameranxTV", "TmarTn2"]
 NOSTRO = "gta-vi-news-clips"
 TWITCH_GIOCO = "Grand Theft Auto VI"
 STORICO_GIORNI = 14
@@ -210,6 +210,30 @@ def leggi_feed(cid, adesso):
     return video
 
 
+def leggi_canale_api(chiave, cid, adesso):
+    """Ultimi 15 video di un canale con l'API (1-2 unità). Si usa quando il feed RSS non risponde:
+    dai server di GitHub i feed di YouTube danno 404 (provato il 15/11)."""
+    r = yt("playlistItems", chiave, part="contentDetails", playlistId="UU" + cid[2:], maxResults=15)
+    ids = [it["contentDetails"]["videoId"] for it in r.get("items", [])]
+    video = []
+    for v in dettagli_video(chiave, ids).values():
+        short = (v["durata_s"] or 0) <= 180
+        video.append({"id": v["id"], "titolo": v["titolo"], "pubblicato": v["pubblicato"],
+                      "views": v["views"], "short": short,
+                      "link": ("https://www.youtube.com/shorts/" if short else "https://www.youtube.com/watch?v=") + v["id"],
+                      "views_giorno": round(v["views"] / ore_da(v["pubblicato"], adesso) * 24)})
+    return sorted(video, key=lambda v: v["pubblicato"], reverse=True)
+
+
+def leggi_video_canale(chiave, cid, adesso):
+    try:
+        return leggi_feed(cid, adesso)
+    except Exception:
+        if not chiave:
+            raise
+        return leggi_canale_api(chiave, cid, adesso)
+
+
 def sezione_feed(chiave, adesso, out, vecchio, errori):
     cache = dict((vecchio or {}).get("id_canali") or {})
     conc = []
@@ -219,14 +243,14 @@ def sezione_feed(chiave, adesso, out, vecchio, errori):
             if not cid:
                 errori.append(f"feed {h}: ID del canale non trovato")
                 continue
-            vid = [v for v in leggi_feed(cid, adesso) if ore_da(v["pubblicato"], adesso) <= 7 * 24]
+            vid = [v for v in leggi_video_canale(chiave, cid, adesso) if ore_da(v["pubblicato"], adesso) <= 7 * 24]
             conc.append({"canale": h, "canale_id": cid, "video": vid})
         except Exception as e:
             errori.append(f"feed {h}: {e}"[:200])
     out["concorrenti"] = conc
     try:
         cid = id_canale(NOSTRO, chiave, cache)
-        out["nostro_canale"] = leggi_feed(cid, adesso) if cid else []
+        out["nostro_canale"] = leggi_video_canale(chiave, cid, adesso) if cid else []
     except Exception as e:
         errori.append(f"feed nostro canale: {e}"[:200])
         out["nostro_canale"] = []
