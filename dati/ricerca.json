@@ -1,0 +1,30 @@
+{
+ "aggiornato": "2026-11-15T02:36:05Z",
+ "concorrenti": [],
+ "nostro_canale": [],
+ "id_canali": {
+  "MrBossFTW": "UC0PMQXAwF6O6aeTpv962miA",
+  "GTA6Videos_": "UCVXv-s3F4oQ9t1ui88j9FQg",
+  "GTASeriesVideos": "UCuWcjpKbIDAbZfHoru1toFg",
+  "BreeZeGTA": "UCtwCPBrqh935sdHb2DmA3gQ",
+  "GrandGecko": "UCkF597cv6R5Sa570_CxPoTw",
+  "LegacyKillaHD": "UCXIvhdNOzEdpdCSxTzsJm6w",
+  "TmarTn2": "UC36MGPfPwOWafAXauiV4LdA",
+  "gta-vi-news-clips": "UC26ewr_s7vSKCm89FYYHHig"
+ },
+ "nostri_risultati": [],
+ "errori": [
+  "YouTube API saltata: manca il secret YT_API_KEY",
+  "feed MrBossFTW: HTTP Error 404: Not Found",
+  "feed GTA6Videos_: HTTP Error 404: Not Found",
+  "feed GTASeriesVideos: HTTP Error 404: Not Found",
+  "feed BreeZeGTA: HTTP Error 404: Not Found",
+  "feed GrandGecko: HTTP Error 404: Not Found",
+  "feed LegacyKillaHD: HTTP Error 404: Not Found",
+  "feed gameranx: HTTP Error 404: Not Found",
+  "feed Glooby: HTTP Error 404: Not Found",
+  "feed TmarTn2: HTTP Error 404: Not Found",
+  "feed nostro canale: HTTP Error 404: Not Found",
+  "Twitch saltato: mancano i secret TWITCH_CLIENT_ID e TWITCH_CLIENT_SECRET"
+ ]
+}
