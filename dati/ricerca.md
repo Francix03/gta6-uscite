@@ -1,51 +1,51 @@
-# Dati raccolti il 2026-11-18T20:28:44Z (UTC)
+# Dati raccolti il 2026-11-18T21:50:30Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| Welcome to Vice City!  GTA 6 LIVE with Mythpat | Mythpat | 11,176,804 | 17.8 | 626,376 | x1.1 |
-| 🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE! | IShowSpeed | 24,221,931 | 45.9 | 527,653 | x4.3 |
-| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 4,377,566 | 14.0 | 313,168 | x0.8 |
-| Players Before GTA 6 Releases 😭💀 | Playmakerz | 3,035,716 | 21.3 | 142,687 | x1.4 |
-| GTA 6 codes aren’t working?? | CarterPCs | 5,030,147 | 43.9 | 114,708 | x2.3 |
-| SI JUEGAS GTA 6 ANTES DE QUE SALGA, TE QUEDAS ADENTRO!!! | SoyGelo | 3,097,290 | 29.0 | 106,915 | x0.6 |
-| [PS5 Pro] [HOURLY GIVEAWAYS] The BEST GTA VI LAUNCH Of All Time | DarkViperAU | 2,691,384 | 26.4 | 101,853 | x4.9 |
-| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 2,607,700 | 26.5 | 98,515 | x1.6 |
-| GTA 6 MARATHON DAY 1 | Lacy  | 1,075,281 | 11.1 | 97,020 | x6.1 |
-| GTA 6 GAMEPLAY DEUTSCH LIVE! | Standart Skill | 893,886 | 11.3 | 79,423 | x1.8 |
-| Teacher cancels classes for GTA 6 🐐 | John Casterline | 2,648,887 | 43.4 | 61,058 | x0.6 |
-| "BEFORE GTA 6" IS ALMOST OVER #shorts | jacobweeby | 2,553,054 | 44.3 | 57,639 | x1.0 |
-| México será el último país en jugar GTA 6 | Mente Clara | 1,478,135 | 26.0 | 56,905 | x10.3 |
-| Compré el GTA6 mas caro del mundo😱🤯😰😵‍💫 | Diosdado Juarez | 2,624,798 | 46.7 | 56,211 | x0.3 |
-| GTA 6 MARATHON | Official Trailer | Kai Cenat Live | 2,517,126 | 47.9 | 52,518 | x0.9 |
+| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 4,426,407 | 15.3 | 288,532 | x0.8 |
+| Players Before GTA 6 Releases 😭💀 | Playmakerz | 3,301,674 | 22.6 | 145,846 | x1.6 |
+| GTA 6 codes aren’t working?? | CarterPCs | 5,075,170 | 45.2 | 112,246 | x2.3 |
+| SI JUEGAS GTA 6 ANTES DE QUE SALGA, TE QUEDAS ADENTRO!!! | SoyGelo | 3,128,234 | 30.3 | 103,131 | x0.6 |
+| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 2,818,647 | 27.8 | 101,271 | x1.7 |
+| 🔴LIVE: GTA 6 EARLY ACCESS🔴 | ohnepixel | 946,040 | 9.7 | 98,021 | x1.5 |
+| Aagya GTA VI वाला Wifi 🥹🤩 #viral #trending #gta6 #new #gaming #streaming #gta6gameplay #gta #tech | Mahadev Tyagi | 2,783,356 | 36.8 | 75,566 | x1.2 |
+| CEKAMO IZLAZAK GTA VI🌴 | Nugato | 834,790 | 11.9 | 70,352 | x5.8 |
+| Teacher cancels classes for GTA 6 🐐 | John Casterline | 2,734,148 | 44.7 | 61,104 | x0.6 |
+| México será el último país en jugar GTA 6 | Mente Clara | 1,619,960 | 27.3 | 59,257 | x11.3 |
+| "BEFORE GTA 6" IS ALMOST OVER #shorts | jacobweeby | 2,558,827 | 45.7 | 56,045 | x1.0 |
+| GTA 6 Gameplay Walkthrough Part 1 FULL GAME [4K ULTRA HD PS5 PRO] No Commentary | Shirrako | 1,671,461 | 32.6 | 51,241 | x9.6 |
+| WHO PLAYS GTA 6 FIRST ? 😳 | Satishh GO VIRAL | 1,871,144 | 38.3 | 48,803 | x3.0 |
+| UNCHAINED x GTA 6 (trailer) | Unchained Gaming | 1,333,004 | 29.0 | 46,006 | x0.6 |
+| i’m so excited #gta6 #gta #gaming #plan #hype | Finn | 1,888,354 | 45.2 | 41,754 | x37.7 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Welcome to Vice City!  GTA 6 LIVE with Mythpat | Mythpat | 11,176,804 | 15,033,016 | x1.1 |
-| 🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE! | IShowSpeed | 24,221,931 | 12,663,682 | x4.3 |
-| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 4,377,566 | 7,516,031 | x0.8 |
-| Every GTA 6 Lover in India 😉🎮 | Kuldeep Singhaniaa #shorts | Kuldeep Singhania Shorts | 23,098,875 | 7,149,612 | x3.0 |
-| Players Before GTA 6 Releases 😭💀 | Playmakerz | 3,035,716 | 3,424,500 | x1.4 |
-| Deciding which game to delete for GTA 6… #gaming #gta6 | KingChris | 6,642,265 | 3,101,296 | x0.9 |
-| GTA 6 codes aren’t working?? | CarterPCs | 5,030,147 | 2,752,980 | x2.3 |
-| SI JUEGAS GTA 6 ANTES DE QUE SALGA, TE QUEDAS ADENTRO!!! | SoyGelo | 3,097,290 | 2,565,953 | x0.6 |
-| We Bought a NEW TV For GTA 6 😎 | Sick Plays | 10,445,664 | 2,536,916 | x14.9 |
-| [PS5 Pro] [HOURLY GIVEAWAYS] The BEST GTA VI LAUNCH Of All Time | DarkViperAU | 2,691,384 | 2,444,475 | x4.9 |
-| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 2,607,700 | 2,364,367 | x1.6 |
-| GTA 6 MARATHON DAY 1 | Lacy  | 1,075,281 | 2,328,486 | x6.1 |
-| GTA 6 Unboxings In 2017💀 || #shorts #gta6 #gta5 | Ryezy | 9,031,885 | 2,190,039 | x48.6 |
-| GTA 6 GAMEPLAY DEUTSCH LIVE! | Standart Skill | 893,886 | 1,906,157 | x1.8 |
-| Comprando el GTA 6! 🌴🚔 | E-MasterSensei | 5,872,545 | 1,524,965 | x1.7 |
+| Every GTA 6 Lover in India 😉🎮 | Kuldeep Singhaniaa #shorts | Kuldeep Singhania Shorts | 23,751,387 | 7,224,604 | x3.1 |
+| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 4,426,407 | 6,924,777 | x0.8 |
+| PLAYING GTA 6 FOR THE FIRST TIME | Kai Cenat Live | 7,741,550 | 3,783,950 | x2.8 |
+| Players Before GTA 6 Releases 😭💀 | Playmakerz | 3,301,674 | 3,500,308 | x1.6 |
+| Deciding which game to delete for GTA 6… #gaming #gta6 | KingChris | 6,757,205 | 3,073,478 | x0.9 |
+| GTA 6 codes aren’t working?? | CarterPCs | 5,075,170 | 2,693,903 | x2.3 |
+| We Bought a NEW TV For GTA 6 😎 | Sick Plays | 10,455,292 | 2,504,713 | x14.9 |
+| SI JUEGAS GTA 6 ANTES DE QUE SALGA, TE QUEDAS ADENTRO!!! | SoyGelo | 3,128,234 | 2,475,154 | x0.6 |
+| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 2,818,647 | 2,430,499 | x1.7 |
+| 🔴LIVE: GTA 6 EARLY ACCESS🔴 | ohnepixel | 946,040 | 2,352,507 | x1.5 |
+| GTA 6 Unboxings In 2017💀 || #shorts #gta6 #gta5 | Ryezy | 9,199,587 | 2,200,407 | x49.6 |
+| 30 FPS ON PS5 IS NOT YOUR AVERAGE 30 FPS 💀 #gta6 #shorts | ToonByte X | 7,716,881 | 2,108,444 | x118.0 |
+| Aagya GTA VI वाला Wifi 🥹🤩 #viral #trending #gta6 #new #gaming #streaming #gta6gameplay #gta #tech | Mahadev Tyagi | 2,783,356 | 1,813,589 | x1.2 |
+| CEKAMO IZLAZAK GTA VI🌴 | Nugato | 834,790 | 1,688,458 | x5.8 |
+| Comprando el GTA 6! 🌴🚔 | E-MasterSensei | 5,908,952 | 1,512,123 | x1.7 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-18T19:00 | DON'T Rush GTA 6. Reviewers Needed 135+ Hours ⏰ #GTA6 #shorts | - | - | 294 |
-| 2026-11-18T15:58 | GTA 6 Money Explained: Getting Rich Is NOTHING Like GTA 5 | - | - | 27 |
-| 2026-11-18T14:00 | GTA 6 Review Score Just Tied the All-Time Record 🤯 #GTA6 #shorts | - | - | 2256 |
-| 2026-11-18T11:01 | DON'T Panic at Hollow Wanted Stars in GTA 6 🚨 #GTA6 #shorts | - | - | 1197 |
-| 2026-11-17T22:00 | GTA 5 vs GTA 6: Rockstar Slowed Down Time 😳 #GTA6 #shorts | 1005 | - | 1005 |
+| 2026-11-18T19:00 | DON'T Rush GTA 6. Reviewers Needed 135+ Hours ⏰ #GTA6 #shorts | - | - | 756 |
+| 2026-11-18T15:58 | GTA 6 Money Explained: Getting Rich Is NOTHING Like GTA 5 | - | - | 50 |
+| 2026-11-18T14:00 | GTA 6 Review Score Just Tied the All-Time Record 🤯 #GTA6 #shorts | - | - | 2524 |
+| 2026-11-18T11:01 | DON'T Panic at Hollow Wanted Stars in GTA 6 🚨 #GTA6 #shorts | - | - | 1255 |
+| 2026-11-17T22:00 | GTA 5 vs GTA 6: Rockstar Slowed Down Time 😳 #GTA6 #shorts | 1007 | - | 1007 |
 | 2026-11-17T19:00 | GTA 6 Shows TWO Money Counters. Look Closer 👀 #GTA6 #shorts | 1325 | - | 1326 |
 | 2026-11-16T22:00 | GTA 6 Map Explained: Every Region and What You Can Actually Do | - | 4 | 4 |
 | 2026-11-16T20:00 | POV: Your GTA 6 Heist Goes Wrong 😳 #GTA6 #shorts | 927 | 939 | 939 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| ohnePixel tries out the strip club's private dance in GTA 6 | ohnePixel | 66,044 | 29,444 |
-| worth it.. (banned) | TheBurntPeanut | 1,686 | 3,372 |
-| Caminante | DjMaRiiO | 4,907 | 3,362 |
-| грязюка | ZLOYn | 27,302 | 3,347 |
-| wtf | Zoil | 21,462 | 2,430 |
-| ww | StRoGo | 12,800 | 1,993 |
-| Ohnepixel agrees with Hasan. | ohnePixel | 5,634 | 1,678 |
-| славик в стрипухе | buster | 11,297 | 1,628 |
-| AY DIOS | DjMaRiiO | 2,360 | 1,570 |
-| xQc commits Grand Theft Auto for the first time in GTA 6 | xQc | 13,165 | 1,439 |
-| Wtf | Clix | 11,227 | 1,372 |
-| fast bann | Rumathra | 10,820 | 1,256 |
-| Иван и женщины | IvanZolo578 | 3,365 | 1,188 |
-| XQC gets called a f****** P**** right after he said so to an NPC in GTA 6 | xQc | 9,135 | 1,138 |
-| Дверь держи, чтобы мама не зашла | StRoGo | 7,500 | 1,132 |
+| ohnePixel tries out the strip club's private dance in GTA 6 | ohnePixel | 123,412 | 34,226 |
+| грязюка | ZLOYn | 31,407 | 3,299 |
+| wtf | Zoil | 25,351 | 2,487 |
+| Reset | jasontheween | 1,171 | 2,342 |
+| Caminante | DjMaRiiO | 6,311 | 2,236 |
+| ww | StRoGo | 15,951 | 2,049 |
+| Lirik finds An Easter egg | LIRIK | 2,361 | 1,989 |
+| Ohnepixel agrees with Hasan. | ohnePixel | 9,306 | 1,971 |
+| worth it.. (banned) | TheBurntPeanut | 3,274 | 1,882 |
+| славик в стрипухе | buster | 13,555 | 1,632 |
+| Wtf | Clix | 14,774 | 1,547 |
+| xQc commits Grand Theft Auto for the first time in GTA 6 | xQc | 15,377 | 1,463 |
+| AY DIOS | DjMaRiiO | 4,138 | 1,444 |
+| fast bann | Rumathra | 12,745 | 1,277 |
+| horny ohne! | ohnePixel | 4,655 | 1,264 |
 
