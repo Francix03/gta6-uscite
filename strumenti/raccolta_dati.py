@@ -161,6 +161,16 @@ def sezione_shorts(chiave, adesso, out):
                                key=lambda v: -v["views_ora"])
 
 
+def sezione_gameplay(chiave, adesso, out):
+    """Video di gameplay sotto i 4 minuti delle ultime 48 ore, per views all'ora.
+    Serve all'automazione "Clip virali" (repo privato gta6-clip-virali): SOLO STUDIO, mai da ricaricare."""
+    ids = cerca_video(chiave, adesso - dt.timedelta(hours=48), q="gta 6 gameplay")
+    det = dettagli_video(chiave, ids)
+    can = media_canali(chiave, [v["canale_id"] for v in det.values()])
+    tutti = [v for v in calcola(list(det.values()), can, adesso) if titolo_utile(v["titolo"])]
+    out["gameplay_48h"] = sorted(tutti, key=lambda v: -v["views_ora"])
+
+
 def sezione_fan(chiave, adesso, out, vecchio):
     prec = (vecchio or {}).get("domande_fan") or {}
     if prec.get("aggiornato") and ore_da(prec["aggiornato"], adesso) < 20:
@@ -359,6 +369,13 @@ def sezione_twitch(cid, segreto, adesso, out):
                        "views_ora": round(c["view_count"] / ore), "durata_s": c.get("duration"),
                        "lingua": c.get("language"), "url": c["url"]})
     out["twitch_gta6"] = {"game_id": gid, "clip": sorted(tenute, key=lambda c: -c["views_ora"])[:40]}
+    try:  # chi sta trasmettendo GTA VI adesso, dal piu' seguito (per l'indice dell'automazione "Clip virali")
+        dirette = http("https://api.twitch.tv/helix/streams", {"game_id": gid, "first": 10}, headers=h).get("data", [])
+        out["twitch_gta6"]["live"] = [
+            {"streamer": s["user_name"], "spettatori": s["viewer_count"], "titolo": s["title"],
+             "lingua": s.get("language"), "url": "https://www.twitch.tv/" + s["user_login"]} for s in dirette]
+    except Exception:
+        out["twitch_gta6"]["live"] = []
 
 
 # ---------------------------------------------------------------- riassunto leggibile
@@ -415,6 +432,7 @@ def main():
     yk = os.environ.get("YT_API_KEY", "").strip()
     if yk:
         for nome, fn in (("shorts", lambda: sezione_shorts(yk, adesso, out)),
+                         ("gameplay", lambda: sezione_gameplay(yk, adesso, out)),
                          ("domande dei fan", lambda: sezione_fan(yk, adesso, out, vecchio))):
             try:
                 fn()
