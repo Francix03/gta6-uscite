@@ -162,13 +162,16 @@ def sezione_shorts(chiave, adesso, out):
 
 
 def sezione_gameplay(chiave, adesso, out):
-    """Video di gameplay sotto i 4 minuti delle ultime 48 ore, per views all'ora.
-    Serve all'automazione "Clip virali" (repo privato gta6-clip-virali): SOLO STUDIO, mai da ricaricare."""
-    ids = cerca_video(chiave, adesso - dt.timedelta(hours=48), q="gta 6 gameplay")
+    """Video di gameplay PURO (titoli "no commentary") degli ultimi 3 giorni, di qualsiasi durata, per views all'ora.
+    Serve all'automazione "Clip virali" (repo privato gta6-clip-virali), che ne prende solo il pezzo piu' rivisto.
+    SOLO STUDIO, mai da ricaricare."""
+    dopo, ids = adesso - dt.timedelta(hours=72), []
+    for q in ("gta 6 gameplay no commentary", "gta 6 4k no commentary"):
+        ids += cerca_video(chiave, dopo, durata="any", q=q)
     det = dettagli_video(chiave, ids)
     can = media_canali(chiave, [v["canale_id"] for v in det.values()])
     tutti = [v for v in calcola(list(det.values()), can, adesso) if titolo_utile(v["titolo"])]
-    out["gameplay_48h"] = sorted(tutti, key=lambda v: -v["views_ora"])
+    out["puro_72h"] = sorted(tutti, key=lambda v: -v["views_ora"])
 
 
 def sezione_fan(chiave, adesso, out, vecchio):
