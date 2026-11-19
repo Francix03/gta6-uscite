@@ -1,42 +1,42 @@
-# Dati raccolti il 2026-11-19T11:49:23Z (UTC)
+# Dati raccolti il 2026-11-19T12:50:29Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| PLAYING GTA 6 FOR THE FIRST TIME | Kai Cenat Live | 5,351,055 | 11.1 | 483,893 | x1.9 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 4,425,468 | 17.1 | 259,208 | x0.6 |
-| GTA 6 just broke the entire internet.. | Asmongold Clips | 3,457,722 | 14.9 | 231,385 | x4.3 |
-| GTA 6 - Welcome to Vice City (Day 1 Live) | Live Insaan | 1,302,246 | 5.7 | 227,290 | x0.2 |
-| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 5,970,964 | 29.3 | 203,631 | x1.1 |
-| Players Before GTA 6 Releases 😭💀 | Playmakerz | 4,779,694 | 36.6 | 130,523 | x2.3 |
-| The Biggest Problem with GTA 6… | Typical Gamer | 2,208,162 | 19.1 | 115,825 | x2.5 |
-| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 4,451,189 | 41.8 | 106,452 | x2.7 |
-| GTA Launch !! 😱#shorts #gta6 #explore #trending #gta #gtavi | EstubeGaming | 4,172,022 | 40.1 | 104,043 | x4.5 |
-| World’s First Stolen Plane in GTA 6 | Typical Gamer | 2,042,585 | 21.7 | 94,283 | x2.3 |
-| GTA 6 IS ACTUALLY OUT OMG 😭 | John Casterline | 1,899,142 | 23.2 | 81,906 | x0.4 |
-| When Jinu Plays Peek-a-Boo With Rumi 💀 | GTA 6 #shorts #k-pop | MM Toons  | 3,710,073 | 46.3 | 80,107 | x17.2 |
-| When You Try To Download GTA 6 😰 | youtwoTV | 2,445,711 | 33.2 | 73,590 | x1.0 |
-| SI JUEGAS GTA 6 ANTES DE QUE SALGA, TE QUEDAS ADENTRO!!! | SoyGelo | 3,255,272 | 44.3 | 73,459 | x0.6 |
-| GTA 6 Milegi Milegi🕺 | Yash Lalwani #shorts #gta #gta6 | Yash Lalwani | 2,942,362 | 47.2 | 62,293 | x0.8 |
+| PLAYING GTA 6 FOR THE FIRST TIME (PART 2) | Kai Cenat Live | 5,578,762 | 12.1 | 461,946 | x2.0 |
+| GTA 6 - Welcome to Vice City (Day 1 Live) | Live Insaan | 2,003,914 | 6.7 | 296,974 | x0.4 |
+| GTA 6 just broke the entire internet.. | Asmongold Clips | 3,520,720 | 16.0 | 220,570 | x4.4 |
+| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 6,127,017 | 30.3 | 201,940 | x1.1 |
+| GTA 6 jokes are over | Matthew Beaver | 2,754,474 | 20.8 | 132,462 | x2.0 |
+| Players Before GTA 6 Releases 😭💀 | Playmakerz | 4,900,888 | 37.6 | 130,212 | x2.3 |
+| iShowSpeed’s First Look At GTA 6 | IShowSpeed | 2,436,027 | 19.0 | 128,122 | x0.4 |
+| The Biggest Problem with GTA 6… | Typical Gamer | 2,263,291 | 20.1 | 112,697 | x2.6 |
+| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 4,467,536 | 42.8 | 104,302 | x2.7 |
+| World’s First Stolen Plane in GTA 6 | Typical Gamer | 2,155,956 | 22.7 | 95,048 | x2.5 |
+| When You Try To Download GTA 6 😰 | youtwoTV | 2,513,368 | 34.3 | 73,377 | x1.0 |
+| I wonder how GTA 6 will handle... | VintageGamer | 2,435,020 | 33.2 | 73,261 | x7.9 |
+| rockstar no corrigió esto en #gta6 | gta2025 | 1,360,949 | 19.2 | 70,830 | x0.7 |
+| People are stealing GTA 6 codes with flashlights?? | CarterPCs | 2,100,674 | 30.2 | 69,500 | x0.9 |
+| POV: Jeder am 19.11 , wenn GTA 6 ONLINE GEHT😱 | Lukas712 | Lukas 712 | 1,643,550 | 24.7 | 66,523 | x2.0 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| PLAYING GTA 6 FOR THE FIRST TIME | Kai Cenat Live | 5,351,055 | 11,613,443 | x1.9 |
-| Every GTA 6 Lover in India 😉🎮 | Kuldeep Singhaniaa #shorts | Kuldeep Singhania Shorts | 32,642,434 | 8,434,460 | x4.2 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 4,425,468 | 6,220,986 | x0.6 |
-| GTA 6 just broke the entire internet.. | Asmongold Clips | 3,457,722 | 5,553,231 | x4.3 |
-| GTA 6 - Welcome to Vice City (Day 1 Live) | Live Insaan | 1,302,246 | 5,454,962 | x0.2 |
-| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 5,970,964 | 4,887,139 | x1.1 |
-| Players Before GTA 6 Releases 😭💀 | Playmakerz | 4,779,694 | 3,132,561 | x2.3 |
-| Deciding which game to delete for GTA 6… #gaming #gta6 | KingChris | 7,894,109 | 2,838,473 | x1.1 |
-| The Biggest Problem with GTA 6… | Typical Gamer | 2,208,162 | 2,779,788 | x2.5 |
-| Cuando NO PUEDES Jugar GTA 6⚠️😭#comedia | Rossi | 9,530,436 | 2,655,394 | x5.0 |
-| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 4,451,189 | 2,554,841 | x2.7 |
-| GTA Launch !! 😱#shorts #gta6 #explore #trending #gta #gtavi | EstubeGaming | 4,172,022 | 2,497,040 | x4.5 |
-| Cuando Juegas GTA 6😡⚠️#comedia | YERRIKILLERXD | 10,937,779 | 2,361,527 | x2.8 |
-| World’s First Stolen Plane in GTA 6 | Typical Gamer | 2,042,585 | 2,262,788 | x2.3 |
-| We Bought a NEW TV For GTA 6 😎 | Sick Plays | 10,633,552 | 2,235,440 | x13.6 |
+| PLAYING GTA 6 FOR THE FIRST TIME (PART 2) | Kai Cenat Live | 5,578,762 | 11,086,692 | x2.0 |
+| Every GTA 6 Lover in India 😉🎮 | Kuldeep Singhaniaa #shorts | Kuldeep Singhania Shorts | 33,245,239 | 8,497,060 | x4.3 |
+| GTA 6 - Welcome to Vice City (Day 1 Live) | Live Insaan | 2,003,914 | 7,127,374 | x0.4 |
+| GTA 6 just broke the entire internet.. | Asmongold Clips | 3,520,720 | 5,293,671 | x4.4 |
+| GTA 6 Is Finally Here, But We Can't Play It 😭 | Scalpo | 6,127,017 | 4,846,551 | x1.1 |
+| GTA 6 jokes are over | Matthew Beaver | 2,754,474 | 3,179,088 | x2.0 |
+| Players Before GTA 6 Releases 😭💀 | Playmakerz | 4,900,888 | 3,125,087 | x2.3 |
+| iShowSpeed’s First Look At GTA 6 | IShowSpeed | 2,436,027 | 3,074,929 | x0.4 |
+| Deciding which game to delete for GTA 6… #gaming #gta6 | KingChris | 7,929,652 | 2,808,406 | x1.1 |
+| The Biggest Problem with GTA 6… | Typical Gamer | 2,263,291 | 2,704,717 | x2.6 |
+| Cuando NO PUEDES Jugar GTA 6⚠️😭#comedia | Rossi | 9,560,340 | 2,632,603 | x5.0 |
+| ¡2 DÍAS PARA GTA 6! 🔥 #youtubeshorts #shorts | Gasti Obeide | 4,467,536 | 2,503,260 | x2.7 |
+| Cuando Juegas GTA 6😡⚠️#comedia | YERRIKILLERXD | 11,024,131 | 2,358,564 | x2.8 |
+| World’s First Stolen Plane in GTA 6 | Typical Gamer | 2,155,956 | 2,281,156 | x2.5 |
+| We Bought a NEW TV For GTA 6 😎 | Sick Plays | 10,649,220 | 2,218,941 | x13.6 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
@@ -48,11 +48,11 @@
 | 2026-11-17T22:00 | GTA 5 vs GTA 6: Rockstar Slowed Down Time 😳 #GTA6 #shorts | 1007 | - | 1024 |
 | 2026-11-17T19:00 | GTA 6 Shows TWO Money Counters. Look Closer 👀 #GTA6 #shorts | 1325 | - | 1356 |
 | 2026-11-16T22:00 | GTA 6 Map Explained: Every Region and What You Can Actually Do | - | 4 | 4 |
-| 2026-11-16T20:00 | POV: Your GTA 6 Heist Goes Wrong 😳 #GTA6 #shorts | 927 | 939 | 942 |
-| 2026-11-16T17:00 | GTA 6 Roads Are Narrower Than GTA 5. On Purpose 👀 #GTA6 #shorts | 11259 | 17809 | 18649 |
+| 2026-11-16T20:00 | POV: Your GTA 6 Heist Goes Wrong 😳 #GTA6 #shorts | 927 | 939 | 943 |
+| 2026-11-16T17:00 | GTA 6 Roads Are Narrower Than GTA 5. On Purpose 👀 #GTA6 #shorts | 11259 | 17809 | 18674 |
 | 2026-11-15T20:00 | GTA 6 Story Choices: Even the Small Ones Add Up 😳 #GTA6 #shorts | 465 | 937 | 996 |
 | 2026-11-15T17:10 | GTA 6 NPCs Finally Come in Every Shape and Size 👀 #GTA6 #shorts | - | 1023 | 1063 |
-| 2026-11-15T17:00 | GTA 6 Safehouse: Top 3 Things You Can Do at Home 🏠 #GTA6 #shorts | - | 996 | 1006 |
+| 2026-11-15T17:00 | GTA 6 Safehouse: Top 3 Things You Can Do at Home 🏠 #GTA6 #shorts | - | 996 | 1009 |
 | 2026-11-14T18:44 | DON'T Try to Steal a Supercar on Day 1 in GTA 6 🚫 #GTA6 #shorts | 1113 | - | 1148 |
 | 2026-11-14T17:00 | GTA 6 Lets You Throw Dog Poop. South Park Showed It 💀 #GTA6 #shorts | 1037 | - | 1160 |
 | 2026-11-14T16:04 | 25 GTA 6 Gameplay Details Most Players Will NEVER Notice | 7 | - | 9 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| ohnePixel tries out the strip club's private dance in GTA 6 | ohnePixel | 392,564 | 22,321 |
-| Reset | jasontheween | 50,103 | 3,466 |
-| gta 6 borrado | IlloJuan | 42,654 | 3,336 |
-| neuron activation | ohnePixel | 60,329 | 3,026 |
-| LMAO | Dinah | 31,924 | 2,986 |
-| horny ohne! | ohnePixel | 48,399 | 2,740 |
-| AY DIOS | DjMaRiiO | 40,020 | 2,376 |
-| грязюка | ZLOYn | 49,867 | 2,122 |
-| xQc shares his thoughts on GTA VI after a 24hr stream | xQc | 11,653 | 1,916 |
-| How did they survive??? | caseoh_ | 17,375 | 1,888 |
-| Lirik finds An Easter egg | LIRIK | 26,589 | 1,753 |
-| Ohnepixel agrees with Hasan. | ohnePixel | 30,678 | 1,640 |
-| Wtf | Clix | 32,182 | 1,368 |
-| ww | StRoGo | 29,318 | 1,347 |
-| славик в стрипухе | buster | 26,855 | 1,205 |
+| ohnePixel tries out the strip club's private dance in GTA 6 | ohnePixel | 406,217 | 21,833 |
+| Reset | jasontheween | 52,046 | 3,364 |
+| gta 6 borrado | IlloJuan | 43,990 | 3,186 |
+| neuron activation | ohnePixel | 65,643 | 3,133 |
+| LMAO | Dinah | 34,713 | 2,965 |
+| horny ohne! | ohnePixel | 53,763 | 2,878 |
+| AY DIOS | DjMaRiiO | 42,535 | 2,381 |
+| xQc shares his thoughts on GTA VI after a 24hr stream | xQc | 14,345 | 2,020 |
+| How did they survive??? | caseoh_ | 17,855 | 1,747 |
+| Lirik finds An Easter egg | LIRIK | 27,806 | 1,718 |
+| Ohnepixel agrees with Hasan. | ohnePixel | 32,216 | 1,634 |
+| ww | StRoGo | 30,147 | 1,323 |
+| славик в стрипухе | buster | 28,683 | 1,231 |
+| worth it.. (banned) | TheBurntPeanut | 17,809 | 1,064 |
+| Caminante | DjMaRiiO | 17,513 | 983 |
 
