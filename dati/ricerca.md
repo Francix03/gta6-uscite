@@ -1,46 +1,47 @@
-# Dati raccolti il 2026-11-22T18:50:29Z (UTC)
+# Dati raccolti il 2026-11-22T19:35:07Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| Map of all GTA 6 Players | GelNox | 19,615,392 | 26.0 | 753,127 | x11.5 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,170,403 | 40.3 | 425,630 | x1.8 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 10,144,693 | 25.3 | 400,505 | x2.6 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 11,229,354 | 42.8 | 262,116 | x0.2 |
-| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 8,577,642 | 33.1 | 259,296 | x7.0 |
-| Get STRONGER FAST in GTA 6! (Secret Workout) | Viceprint | 10,701,608 | 47.2 | 226,957 | x42.6 |
-| ME SACARON DE LA FILA DE GTA 6 | Santy con y | 9,793,639 | 47.8 | 204,753 | x5.6 |
-| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 6,864,691 | 36.3 | 188,916 | x1.2 |
-| When GTA 6 meets dubai chocolate 🍫🌴 No Music #dubaichocolate #gta6 #day1 | Chocobundy | 6,631,472 | 43.5 | 152,577 | x2.6 |
-| Dad GETS RID of His Family to Play GTA 6 😭 | GrimaceClips | 5,149,111 | 41.2 | 125,062 | x1.9 |
-| I BEAT GTA 6! | IShowSpeed | 5,566,398 | 46.3 | 120,329 | x1.0 |
-| GTA6 Wrap in real life! #gta6 #gtavi #carwrapping | Jay The Wrap Specialist | 4,636,637 | 41.9 | 110,692 | x1.7 |
-| GTA 6 User Reviews Are Finally Out.. | Asmongold Clips | 4,321,345 | 43.0 | 100,501 | x5.3 |
-| GTA 6 expectations vs reality😭 | TheAnimeMen | 4,358,119 | 44.1 | 98,742 | x1.8 |
-| Guys 20 minutes into GTA 6 | Senpapi Gabe | 4,250,997 | 44.7 | 95,156 | x4.3 |
+| Map of all GTA 6 Players | GelNox | 20,563,092 | 26.8 | 767,590 | x12.1 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 11,046,922 | 26.1 | 423,682 | x2.8 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,268,014 | 41.1 | 420,300 | x1.8 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 11,432,550 | 43.6 | 262,305 | x0.2 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 8,797,629 | 33.8 | 260,097 | x7.2 |
+| Get STRONGER FAST in GTA 6! (Secret Workout) | Viceprint | 10,974,264 | 47.9 | 229,125 | x44.9 |
+| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 6,952,288 | 37.1 | 187,489 | x1.2 |
+| When GTA 6 meets dubai chocolate 🍫🌴 No Music #dubaichocolate #gta6 #day1 | Chocobundy | 6,921,079 | 44.2 | 156,561 | x2.7 |
+| 🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS) | IShowSpeed | 3,052,645 | 22.5 | 135,807 | x0.5 |
+| Dad GETS RID of His Family to Play GTA 6 😭 | GrimaceClips | 5,162,721 | 41.9 | 123,167 | x1.9 |
+| I BEAT GTA 6! | IShowSpeed | 5,623,970 | 47.0 | 119,650 | x1.0 |
+| GTA6 Wrap in real life! #gta6 #gtavi #carwrapping | Jay The Wrap Specialist | 4,749,876 | 42.6 | 111,417 | x1.7 |
+| GTA 6 User Reviews Are Finally Out.. | Asmongold Clips | 4,353,148 | 43.7 | 99,519 | x5.4 |
+| GTA 6 expectations vs reality😭 | TheAnimeMen | 4,398,083 | 44.9 | 97,996 | x1.8 |
+| GTA 6 VS RDR 2 VS GTA 5 - Train Comparison | IGR | 3,166,591 | 32.5 | 97,367 | x16.5 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Map of all GTA 6 Players | GelNox | 19,615,392 | 18,075,039 | x11.5 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,170,403 | 10,215,129 | x1.8 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 10,144,693 | 9,612,132 | x2.6 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 25,842,336 | 6,454,440 | x3.4 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 11,229,354 | 6,290,791 | x0.2 |
-| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 8,577,642 | 6,223,094 | x7.0 |
-| Get STRONGER FAST in GTA 6! (Secret Workout) | Viceprint | 10,701,608 | 5,446,977 | x42.6 |
-| ME SACARON DE LA FILA DE GTA 6 | Santy con y | 9,793,639 | 4,914,081 | x5.6 |
-| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 17,937,658 | 4,833,350 | x12.4 |
-| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 6,864,691 | 4,533,989 | x1.2 |
-| 5 Things You Didn’t Know About GTA 6 | JayWayyGaming | 11,154,605 | 3,880,941 | x58.0 |
-| When GTA 6 meets dubai chocolate 🍫🌴 No Music #dubaichocolate #gta6 #day1 | Chocobundy | 6,631,472 | 3,661,853 | x2.6 |
-| Dad GETS RID of His Family to Play GTA 6 😭 | GrimaceClips | 5,149,111 | 3,001,486 | x1.9 |
-| I BEAT GTA 6! | IShowSpeed | 5,566,398 | 2,887,902 | x1.0 |
-| GTA 6 Physical Edition 💀 | Gleb POV | 17,090,425 | 2,880,622 | x4.6 |
+| Map of all GTA 6 Players | GelNox | 20,563,092 | 18,422,156 | x12.1 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 11,046,922 | 10,168,370 | x2.8 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,268,014 | 10,087,193 | x1.8 |
+| POV: Giving Birth When GTA 6 Drops... | Dimucc | 25,949,120 | 6,431,322 | x3.4 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 11,432,550 | 6,295,313 | x0.2 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 8,797,629 | 6,242,323 | x7.2 |
+| Get STRONGER FAST in GTA 6! (Secret Workout) | Viceprint | 10,974,264 | 5,499,002 | x44.9 |
+| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 18,037,129 | 4,819,898 | x12.4 |
+| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 6,952,288 | 4,499,728 | x1.2 |
+| 5 Things You Didn’t Know About GTA 6 | JayWayyGaming | 11,283,961 | 3,884,061 | x58.7 |
+| When GTA 6 meets dubai chocolate 🍫🌴 No Music #dubaichocolate #gta6 #day1 | Chocobundy | 6,921,079 | 3,757,462 | x2.7 |
+| 🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS) | IShowSpeed | 3,052,645 | 3,259,374 | x0.5 |
+| Dad GETS RID of His Family to Play GTA 6 😭 | GrimaceClips | 5,162,721 | 2,956,011 | x1.9 |
+| I BEAT GTA 6! | IShowSpeed | 5,623,970 | 2,871,594 | x1.0 |
+| GTA 6 Physical Edition 💀 | Gleb POV | 17,122,878 | 2,871,093 | x4.6 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | - | - | 337 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1436 | - | 1436 |
 | 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | - | 1208 |
 | 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1074 |
@@ -60,24 +61,23 @@
 | 2026-11-15T17:10 | GTA 6 NPCs Finally Come in Every Shape and Size 👀 #GTA6 #shorts | - | 1023 | 1121 |
 | 2026-11-15T17:00 | GTA 6 Safehouse: Top 3 Things You Can Do at Home 🏠 #GTA6 #shorts | - | 996 | 1023 |
 | 2026-11-14T18:44 | DON'T Try to Steal a Supercar on Day 1 in GTA 6 🚫 #GTA6 #shorts | 1113 | - | 1159 |
-| 2026-11-14T17:00 | GTA 6 Lets You Throw Dog Poop. South Park Showed It 💀 #GTA6 #shorts | 1037 | - | 1166 |
 
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| Lud after he got his higlights D: | Ludwig | 15,248 | 725 |
-| Hulk bei GTA6 ??? | BauPenner | 869 | 575 |
-| Crash Power 🤣 | BauPenner | 1,167 | 561 |
-| Mit ganzem Körper | BauPenner | 1,217 | 484 |
-| Wenn die Frau Verständnis für die GTA sucht hat | BauPenner | 746 | 428 |
-| Halber Tank ??? | BauPenner | 1,177 | 427 |
-| Друга кнопка (не бань) | Leb1ga | 248 | 412 |
-| accumulating insurance fraud | Ludwig | 8,219 | 398 |
-| Neue Ausbildung !!! | BauPenner | 1,136 | 371 |
-| QA POWERRR | WoolieVersus | 6,370 | 325 |
-| KAI GOT MOTION 🤪 | KaiCenat | 5,739 | 324 |
-| Reggie folds | WoolieVersus | 3,432 | 321 |
-| просто убраться надо | ADM1TR1POW | 482 | 297 |
-| MANDY WALKED IN AND I FORGOT ABOUT THE MISSION 😳 | Tminnzy | 6,834 | 288 |
-| насрала в раковину? | LRU_ROSE | 382 | 253 |
+| Lud after he got his higlights D: | Ludwig | 15,838 | 727 |
+| Crash Power 🤣 | BauPenner | 1,193 | 423 |
+| algo hay | IlloJuan | 202 | 404 |
+| accumulating insurance fraud | Ludwig | 8,536 | 399 |
+| Hulk bei GTA6 ??? | BauPenner | 889 | 394 |
+| Mit ganzem Körper | BauPenner | 1,248 | 383 |
+| Halber Tank ??? | BauPenner | 1,213 | 347 |
+| KAI GOT MOTION 🤪 | KaiCenat | 6,066 | 329 |
+| perito | REVENANT | 226 | 324 |
+| QA POWERRR | WoolieVersus | 6,547 | 322 |
+| Reggie folds | WoolieVersus | 3,681 | 322 |
+| Wenn die Frau Verständnis für die GTA sucht hat | BauPenner | 762 | 307 |
+| Neue Ausbildung !!! | BauPenner | 1,163 | 305 |
+| Ohne planet naming | ohnePixel | 462 | 230 |
+| joe bart becomes a true florida man | Joe_Bartolozzi | 4,629 | 219 |
 
