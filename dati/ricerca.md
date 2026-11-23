@@ -1,47 +1,47 @@
-# Dati raccolti il 2026-11-23T12:31:37Z (UTC)
+# Dati raccolti il 2026-11-23T12:50:30Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| Map of all GTA 6 Players | GelNox | 25,411,830 | 43.7 | 581,096 | x15.0 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 20,248,437 | 43.0 | 470,727 | x5.2 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 12,969,840 | 36.5 | 355,568 | x0.2 |
-| GTA 6 Hidden Facts | Facts' Mine | 5,475,090 | 21.7 | 252,024 | x0.4 |
-| Apakah Bisa Parkour di Game GTA 6 | RINZER | 6,622,838 | 32.4 | 204,514 | x13.5 |
-| Lucia is a GHOST 💀 #gtavi #gta6 | shreeman legend live | 8,697,812 | 44.0 | 197,791 | x48.1 |
-| This is a nightmare for Rockstar.. | Asmongold Clips | 4,206,601 | 25.5 | 165,085 | x5.2 |
-| What Happens When I Try GTA 6 Lipstick?🌴💄 #lipstick | Liza Mania | 6,566,582 | 42.1 | 156,103 | x291.3 |
-| GTA 6 le lo guys 🎮😈👑 #gta6 #papabeta #hindicomedy #baniyafamily #adayinbaniya | Hrishabh Agarwal  | 7,208,236 | 47.8 | 150,723 | x8.9 |
-| Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | JB4Clips | 5,822,239 | 41.0 | 142,150 | x15.2 |
-| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,864,503 | 43.0 | 136,352 | x6.3 |
-| GTA 6 not launching on PC was a good idea.. | CarterPCs | 3,410,537 | 27.9 | 122,318 | x1.5 |
-| Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret #shorts | FactTechz | 4,126,603 | 34.9 | 118,399 | x0.9 |
-| GTA 5 vs GTA 6 Box Contents 🎮 | Gleb POV | 4,638,826 | 39.7 | 116,809 | x1.2 |
-| How-to Date Mandy in GTA VI... #gta6 #gtavi  #gta | Caramel Hydra | 3,632,327 | 32.2 | 112,644 | x244.5 |
+| Map of all GTA 6 Players | GelNox | 25,446,276 | 44.0 | 577,726 | x15.0 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 20,259,192 | 43.3 | 467,556 | x5.2 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 13,006,074 | 36.8 | 353,511 | x0.2 |
+| GTA 6 Hidden Facts | Facts' Mine | 5,681,853 | 22.0 | 257,807 | x0.5 |
+| Apakah Bisa Parkour di Game GTA 6 | RINZER | 6,637,252 | 32.7 | 202,986 | x13.5 |
+| Lucia is a GHOST 💀 #gtavi #gta6 | shreeman legend live | 8,862,563 | 44.3 | 200,106 | x49.0 |
+| This is a nightmare for Rockstar.. | Asmongold Clips | 4,215,123 | 25.8 | 163,401 | x5.2 |
+| What Happens When I Try GTA 6 Lipstick?🌴💄 #lipstick | Liza Mania | 6,619,795 | 42.4 | 156,199 | x296.8 |
+| Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | JB4Clips | 5,830,818 | 41.3 | 141,274 | x15.3 |
+| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,866,232 | 43.3 | 135,401 | x6.3 |
+| GTA 6 not launching on PC was a good idea.. | CarterPCs | 3,421,652 | 28.2 | 121,347 | x1.5 |
+| Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret #shorts | FactTechz | 4,162,355 | 35.2 | 118,356 | x0.9 |
+| GTA 5 vs GTA 6 Box Contents 🎮 | Gleb POV | 4,652,773 | 40.0 | 116,239 | x1.2 |
+| How-to Date Mandy in GTA VI... #gta6 #gtavi  #gta | Caramel Hydra | 3,655,238 | 32.6 | 112,259 | x246.1 |
+| Are GTA6 Crash Physics Broken? | Aaron Rheins | 3,704,866 | 37.1 | 99,811 | x4.6 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Map of all GTA 6 Players | GelNox | 25,411,830 | 13,946,314 | x15.0 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 20,248,437 | 11,297,439 | x5.2 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 12,969,840 | 8,533,634 | x0.2 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 19,401,211 | 8,024,398 | x2.0 |
-| GTA 6 Hidden Facts | Facts' Mine | 5,475,090 | 6,048,586 | x0.4 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 26,429,297 | 5,574,971 | x3.5 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 13,472,023 | 5,341,919 | x0.2 |
-| Apakah Bisa Parkour di Game GTA 6 | RINZER | 6,622,838 | 4,908,331 | x13.5 |
-| Lucia is a GHOST 💀 #gtavi #gta6 | shreeman legend live | 8,697,812 | 4,746,988 | x48.1 |
-| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 18,725,806 | 4,209,820 | x12.9 |
-| This is a nightmare for Rockstar.. | Asmongold Clips | 4,206,601 | 3,962,046 | x5.2 |
-| What Happens When I Try GTA 6 Lipstick?🌴💄 #lipstick | Liza Mania | 6,566,582 | 3,746,460 | x291.3 |
-| 5 Things You Didn’t Know About GTA 6 | JayWayyGaming | 13,397,676 | 3,710,138 | x68.7 |
-| GTA 6 le lo guys 🎮😈👑 #gta6 #papabeta #hindicomedy #baniyafamily #adayinbaniya | Hrishabh Agarwal  | 7,208,236 | 3,617,348 | x8.9 |
-| Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | JB4Clips | 5,822,239 | 3,411,607 | x15.2 |
+| Map of all GTA 6 Players | GelNox | 25,446,276 | 13,865,431 | x15.0 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 20,259,192 | 11,221,339 | x5.2 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 13,006,074 | 8,484,272 | x0.2 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 19,495,328 | 8,019,827 | x2.0 |
+| GTA 6 Hidden Facts | Facts' Mine | 5,681,853 | 6,187,370 | x0.5 |
+| POV: Giving Birth When GTA 6 Drops... | Dimucc | 26,431,917 | 5,560,143 | x3.5 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 13,505,407 | 5,327,455 | x0.2 |
+| Apakah Bisa Parkour di Game GTA 6 | RINZER | 6,637,252 | 4,871,667 | x13.5 |
+| Lucia is a GHOST 💀 #gtavi #gta6 | shreeman legend live | 8,862,563 | 4,802,533 | x49.0 |
+| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 18,730,975 | 4,198,604 | x12.9 |
+| This is a nightmare for Rockstar.. | Asmongold Clips | 4,215,123 | 3,921,636 | x5.2 |
+| What Happens When I Try GTA 6 Lipstick?🌴💄 #lipstick | Liza Mania | 6,619,795 | 3,748,773 | x296.8 |
+| 5 Things You Didn’t Know About GTA 6 | JayWayyGaming | 13,419,408 | 3,702,710 | x68.8 |
+| Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | JB4Clips | 5,830,818 | 3,390,581 | x15.3 |
+| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,866,232 | 3,249,636 | x6.3 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | - | - | 6059 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | - | - | 6111 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | - | 1470 |
 | 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | - | 1242 |
 | 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1088 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| Hueles a choto | Rubius | 34,446 | 3,180 |
-| xQc on GTA 6 locking players into a relationship | xQc | 6,419 | 1,005 |
-| push ping ping crazy B****😭😭😂 | drupy876 | 11,062 | 948 |
-| xQc finishes GTA 6 after 62 hours and rates it a 9/10 | xQc | 5,178 | 833 |
-| Anubis is enjoying this way too much (but won't confirm without his lawyer present). POINT | Promised_Consort_Abearbis | 2,190 | 623 |
-| xQc got the Bonnie and Clyde Ending in GTA 6 | xQc | 2,909 | 462 |
-| "Yeah me too" #slag4jesus 🛐🙏🕊️ POINT | Promised_Consort_Abearbis | 1,517 | 421 |
-| ESTAS BIEN LUCIA? | auronplay | 5,956 | 350 |
-| I thought it was an Underpass! | ZoReee | 3,720 | 266 |
-| умерла об автобус | TUSOVED | 254 | 257 |
-| Ea*ster Eggazo "Qué es este Juego?" | IlloJuan | 3,156 | 227 |
-| wwwwww | Lacy | 2,624 | 189 |
-| Lexie Shoaibi reacts to real life Florida boy | HasanAbi | 2,475 | 188 |
-| под грузовик как в жизни | TUSOVED | 397 | 188 |
-| friendship denied :( | Jerma985 | 2,915 | 178 |
+| Hueles a choto | Rubius | 34,523 | 3,097 |
+| xQc on GTA 6 locking players into a relationship | xQc | 6,923 | 1,033 |
+| push ping ping crazy B****😭😭😂 | drupy876 | 11,096 | 926 |
+| xQc finishes GTA 6 after 62 hours and rates it a 9/10 | xQc | 5,378 | 823 |
+| Anubis is enjoying this way too much (but won't confirm without his lawyer present). POINT | Promised_Consort_Abearbis | 2,231 | 582 |
+| xQc got the Bonnie and Clyde Ending in GTA 6 | xQc | 3,060 | 463 |
+| "Yeah me too" #slag4jesus 🛐🙏🕊️ POINT | Promised_Consort_Abearbis | 1,529 | 391 |
+| худшая концовка | Dmitry_Lixxx | 247 | 387 |
+| ESTAS BIEN LUCIA? | auronplay | 6,012 | 347 |
+| I thought it was an Underpass! | ZoReee | 4,441 | 310 |
+| Ea*ster Eggazo "Qué es este Juego?" | IlloJuan | 3,220 | 226 |
+| умерла об автобус | TUSOVED | 254 | 195 |
+| wwwwww | Lacy | 2,702 | 190 |
+| Lexie Shoaibi reacts to real life Florida boy | HasanAbi | 2,504 | 186 |
+| friendship denied :( | Jerma985 | 2,942 | 176 |
 
