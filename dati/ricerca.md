@@ -1,50 +1,50 @@
-# Dati raccolti il 2026-11-23T01:40:38Z (UTC)
+# Dati raccolti il 2026-11-23T03:50:29Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| GTA 6 m aa rha hu 😀 #gta6 #shorts #ps5 | Mr Kunnu | 46,959,187 | 37.2 | 1,263,240 | x34.2 |
-| Map of all GTA 6 Players | GelNox | 23,343,806 | 32.9 | 709,946 | x13.8 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 16,246,118 | 32.2 | 505,078 | x4.2 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 11,289,030 | 25.6 | 440,519 | x0.2 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,401,677 | 47.2 | 368,860 | x1.8 |
-| This is a nightmare for Rockstar.. | Asmongold Clips | 3,910,575 | 14.6 | 267,268 | x4.8 |
-| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 9,609,619 | 39.9 | 240,744 | x7.9 |
-| GTA VI: O FINAL | DIA 5 🔴 CORINGA AO VIVO | LOUD Coringa | 1,674,556 | 7.4 | 226,122 | x3.1 |
-| Apakah Bisa Parkour di Game GTA 6 | RINZER | 4,223,926 | 21.5 | 196,155 | x8.6 |
-| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,791,903 | 32.2 | 180,095 | x7.2 |
-| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 7,044,158 | 43.2 | 163,161 | x1.2 |
-| GTA 5 vs GTA 6 Box Contents 🎮 | Gleb POV | 4,294,682 | 28.9 | 148,795 | x1.2 |
-| Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret #shorts | FactTechz | 3,069,158 | 24.0 | 127,862 | x0.7 |
-| Are GTA6 Crash Physics Broken? | Aaron Rheins | 3,214,395 | 26.0 | 123,848 | x4.0 |
-| GTA 6 VS RDR 2 VS GTA 5 - Train Comparison | IGR | 3,984,202 | 38.6 | 103,180 | x20.9 |
+| GTA 6 m aa rha hu 😀 #gta6 #shorts #ps5 | Mr Kunnu | 48,907,806 | 39.3 | 1,243,278 | x35.4 |
+| Map of all GTA 6 Players | GelNox | 23,808,268 | 35.0 | 679,357 | x14.0 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 18,059,710 | 34.3 | 526,066 | x4.6 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 11,710,961 | 27.8 | 421,397 | x0.2 |
+| GTA VI: O FINAL | DIA 5 🔴 CORINGA AO VIVO | LOUD Coringa | 2,595,629 | 9.6 | 271,233 | x4.9 |
+| This is a nightmare for Rockstar.. | Asmongold Clips | 3,989,542 | 16.8 | 237,532 | x4.9 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 9,868,148 | 42.1 | 234,506 | x8.1 |
+| Apakah Bisa Parkour di Game GTA 6 | RINZER | 4,942,750 | 23.7 | 208,574 | x10.1 |
+| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,804,887 | 34.3 | 169,118 | x7.3 |
+| Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | JB4Clips | 5,342,181 | 32.3 | 165,532 | x14.0 |
+| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 7,091,540 | 45.3 | 156,418 | x1.2 |
+| GTA 5 vs GTA 6 Box Contents 🎮 | Gleb POV | 4,369,651 | 31.0 | 140,833 | x1.2 |
+| 'Gta 6 good ending' Don't cry watching this... 🥹💔 #gta5 #gtav #edit |  grizzly | 5,737,339 | 42.6 | 134,762 | x407.4 |
+| GTA 6 le lo guys 🎮😈👑 #gta6 #papabeta #hindicomedy #baniyafamily #adayinbaniya | Hrishabh Agarwal  | 5,157,046 | 39.1 | 131,763 | x6.4 |
+| Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret #shorts | FactTechz | 3,221,059 | 26.2 | 123,093 | x0.7 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| GTA 6 m aa rha hu 😀 #gta6 #shorts #ps5 | Mr Kunnu | 46,959,187 | 30,317,756 | x34.2 |
-| Map of all GTA 6 Players | GelNox | 23,343,806 | 17,038,699 | x13.8 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 16,246,118 | 12,121,875 | x4.2 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 11,289,030 | 10,572,453 | x0.2 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,401,677 | 8,852,635 | x1.8 |
-| This is a nightmare for Rockstar.. | Asmongold Clips | 3,910,575 | 6,414,430 | x4.8 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 26,260,545 | 6,123,289 | x3.5 |
-| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 9,609,619 | 5,777,849 | x7.9 |
-| GTA VI: O FINAL | DIA 5 🔴 CORINGA AO VIVO | LOUD Coringa | 1,674,556 | 5,426,918 | x3.1 |
-| Apakah Bisa Parkour di Game GTA 6 | RINZER | 4,223,926 | 4,707,721 | x8.6 |
-| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 18,486,931 | 4,626,297 | x12.7 |
-| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,791,903 | 4,322,278 | x7.2 |
-| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 7,044,158 | 3,915,863 | x1.2 |
-| 5 Things You Didn’t Know About GTA 6 | JayWayyGaming | 12,113,588 | 3,834,594 | x63.0 |
-| GTA 5 vs GTA 6 Box Contents 🎮 | Gleb POV | 4,294,682 | 3,571,083 | x1.2 |
+| GTA 6 m aa rha hu 😀 #gta6 #shorts #ps5 | Mr Kunnu | 48,907,806 | 29,838,680 | x35.4 |
+| Map of all GTA 6 Players | GelNox | 23,808,268 | 16,304,577 | x14.0 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 18,059,710 | 12,625,591 | x4.6 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 11,710,961 | 10,113,517 | x0.2 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 17,717,832 | 8,618,127 | x1.9 |
+| GTA VI: O FINAL | DIA 5 🔴 CORINGA AO VIVO | LOUD Coringa | 2,595,629 | 6,509,603 | x4.9 |
+| POV: Giving Birth When GTA 6 Drops... | Dimucc | 26,313,723 | 6,009,335 | x3.5 |
+| This is a nightmare for Rockstar.. | Asmongold Clips | 3,989,542 | 5,700,760 | x4.9 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 9,868,148 | 5,628,147 | x8.1 |
+| Apakah Bisa Parkour di Game GTA 6 | RINZER | 4,942,750 | 5,005,786 | x10.1 |
+| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 18,543,155 | 4,537,965 | x12.8 |
+| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 | ALEX VICE RUSH | 5,804,887 | 4,058,836 | x7.3 |
+| Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | JB4Clips | 5,342,181 | 3,972,771 | x14.0 |
+| 5 Things You Didn’t Know About GTA 6 | JayWayyGaming | 12,396,381 | 3,815,209 | x63.7 |
+| Can My Brother Enter the GTA 6 Military Base ? 😱 | Scalpo | 7,091,540 | 3,754,023 | x1.2 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | - | - | 4108 |
-| 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | - | 1459 |
-| 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | - | 1237 |
-| 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1078 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | - | - | 4452 |
+| 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | - | 1457 |
+| 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | - | 1236 |
+| 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1083 |
 | 2026-11-20T18:59 | KreekCraft Stole A Mobility Scooter In GTA 6 And Granny Chased Him 🛵 #GTA6 #shorts | 1035 | 1036 | 1037 |
 | 2026-11-19T19:28 | Dasgas Dom Is Renovating His Own Crib In GTA 6 🔨 #GTA6 #shorts | 260 | 307 | 307 |
 | 2026-11-19T18:55 | KreekCraft Bet He Wouldn't Get Eaten By A Crocodile In GTA 6 🐊 #GTA6 #shorts | 1061 | 1069 | 1073 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| push ping ping crazy B****😭😭😂 | drupy876 | 10,041 | 12,299 |
-| ESTAS BIEN LUCIA? | auronplay | 2,514 | 406 |
-| СКВОЗЬ СТЕНУ | frametamer666 | 785 | 337 |
-| friendship denied :( | Jerma985 | 1,754 | 316 |
-| Reggie folds | WoolieVersus | 5,366 | 306 |
-| XQC Camera Roll | xQc | 1,008 | 260 |
-| Lexie Shoaibi reacts to real life Florida boy | HasanAbi | 539 | 231 |
-| NO KILL | Silky | 4,475 | 207 |
-| Багоюз года WW | bratishkinOFF | 436 | 201 |
-| Ea*ster Eggazo "Qué es este Juego?" | IlloJuan | 601 | 196 |
-| x | Gotaga | 2,171 | 193 |
-| Monte tötet Katze wirft Leute damit ab | MontanaBlack88 | 3,152 | 185 |
-| sssssssssssss | Clix | 3,966 | 181 |
-| ФІЛІІІП | thetremba | 235 | 180 |
-| Mit ganzem Körper | BauPenner | 1,666 | 178 |
+| Hueles a choto | Rubius | 24,874 | 11,580 |
+| push ping ping crazy B****😭😭😂 | drupy876 | 10,288 | 3,452 |
+| ESTAS BIEN LUCIA? | auronplay | 3,702 | 443 |
+| Ea*ster Eggazo "Qué es este Juego?" | IlloJuan | 1,665 | 318 |
+| Reggie folds | WoolieVersus | 5,708 | 290 |
+| friendship denied :( | Jerma985 | 2,087 | 270 |
+| XQC Camera Roll | xQc | 1,385 | 229 |
+| NO KILL | Silky | 4,880 | 205 |
+| Lexie Shoaibi reacts to real life Florida boy | HasanAbi | 908 | 202 |
+| СКВОЗЬ СТЕНУ | frametamer666 | 850 | 189 |
+| x | Gotaga | 2,470 | 184 |
+| wwwwww | Lacy | 930 | 178 |
+| Monte tötet Katze wirft Leute damit ab | MontanaBlack88 | 3,393 | 177 |
+| speed finds ALIEN in gta | IShowSpeed | 1,772 | 170 |
+| Багоюз года WW | bratishkinOFF | 663 | 153 |
 
