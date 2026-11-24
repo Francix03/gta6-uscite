@@ -1,50 +1,50 @@
-# Dati raccolti il 2026-11-24T15:50:30Z (UTC)
+# Dati raccolti il 2026-11-24T18:50:31Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 11,932,018 | 43.3 | 275,573 | x4.9 |
-| Xbox Called PS5's GTA 6 Comparison UNFAIR 💀😂 | MrEagle 👑 | 9,135,443 | 47.8 | 190,978 | x23.3 |
-| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 2,997,149 | 16.4 | 182,861 | x1.2 |
-| Tree climbing in GTA 6 | Stuntfart | 5,584,416 | 31.1 | 179,520 | x4.9 |
-| si el personaje come demasiado en #gta6 | gta2025 | 3,857,250 | 21.5 | 179,212 | x1.8 |
-| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,780,504 | 35.1 | 164,635 | x9.8 |
-| Map of all GTA 6 Players | GelNox | 5,982,592 | 44.0 | 135,846 | x3.5 |
-| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 5,500,534 | 40.9 | 134,443 | x25.3 |
-| He Went to Play GTA 6 for Just ₹200... But One Crazy Mistake Got Him Kicked Out!🤡 | Dev create | 2,773,190 | 23.4 | 118,379 | x2.0 |
-| Eligió Hacer La Tarea 📚 En Vez De Jugar GTA 6 🕹️ | La Historia de Él | 4,183,108 | 41.8 | 100,021 | x1.2 |
-| Can My Brother Steal Billionaires' Cars in GTA 6 | Scalpo | 2,920,275 | 33.3 | 87,614 | x0.5 |
-| Is 30FPS on GTA 6 really horrible?? | CarterPCs | 2,803,655 | 32.3 | 86,928 | x1.2 |
-| Thoughts and prayers for the single people playing gta 6.... | Ludwig | 2,712,916 | 32.4 | 83,708 | x1.9 |
-| Cuando Juegas Demasiado GTA 6🤣⚠️#comedia | YERRIKILLERXD | 3,566,329 | 43.9 | 81,153 | x0.9 |
-| GTA VI's Attention to Detail Is Absolutely INSANE! #3 | NinjaPlay | 2,754,519 | 34.1 | 80,667 | x5.6 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 12,441,208 | 46.3 | 268,713 | x5.1 |
+| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 4,666,671 | 23.3 | 200,308 | x0.8 |
+| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 3,667,554 | 19.4 | 189,141 | x1.5 |
+| si el personaje come demasiado en #gta6 | gta2025 | 4,071,602 | 24.5 | 166,028 | x1.9 |
+| Tree climbing in GTA 6 | Stuntfart | 5,647,354 | 34.1 | 165,574 | x4.9 |
+| GTA 6-Hulk Vs Spiderman Challenge 🤣 29 #hulk #spiderman #gta | Zippy 3D | 6,293,401 | 39.3 | 160,330 | x6.8 |
+| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,806,187 | 38.1 | 152,348 | x9.8 |
+| He Went to Play GTA 6 for Just ₹200... But One Crazy Mistake Got Him Kicked Out!🤡 | Dev create | 3,527,453 | 26.4 | 133,481 | x2.6 |
+| Map of all GTA 6 Players | GelNox | 6,150,017 | 47.0 | 130,741 | x3.6 |
+| Ela destruiu o PS5 por ciúmes do GTA 6 e o pior aconteceu... #shorts #gta #arthur | E Agora? | 2,798,709 | 26.8 | 104,275 | x3.7 |
+| Eligió Hacer La Tarea 📚 En Vez De Jugar GTA 6 🕹️ | La Historia de Él | 4,208,815 | 44.8 | 93,900 | x1.2 |
+| Is 30FPS on GTA 6 really horrible?? | CarterPCs | 3,047,617 | 35.3 | 86,450 | x1.3 |
+| Can My Brother Steal Billionaires' Cars in GTA 6 | Scalpo | 2,983,806 | 36.3 | 82,127 | x0.5 |
+| Thoughts and prayers for the single people playing gta 6.... | Ludwig | 2,823,914 | 35.4 | 79,750 | x2.0 |
+| En GTA 6 sí arregla la casa pero en la vida real no 😂 | FerRelatos | 3,436,495 | 43.3 | 79,302 | x2.5 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,287,553 | 8,263,397 | x16.6 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 24,214,064 | 6,809,563 | x2.5 |
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 11,932,018 | 6,613,759 | x4.9 |
-| GTA 6 Hidden Facts | Facts' Mine | 12,852,010 | 6,289,834 | x1.0 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 16,513,687 | 6,212,911 | x0.2 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 27,290,245 | 4,642,130 | x3.6 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 16,937,222 | 4,627,583 | x0.3 |
-| Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo | Varsha & Aditya | 27,274,165 | 4,589,562 | x19.5 |
-| Xbox Called PS5's GTA 6 Comparison UNFAIR 💀😂 | MrEagle 👑 | 9,135,443 | 4,583,477 | x23.3 |
-| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 2,997,149 | 4,388,673 | x1.2 |
-| Tree climbing in GTA 6 | Stuntfart | 5,584,416 | 4,308,478 | x4.9 |
-| si el personaje come demasiado en #gta6 | gta2025 | 3,857,250 | 4,301,100 | x1.8 |
-| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,780,504 | 3,951,231 | x9.8 |
-| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 12,579,686 | 3,866,665 | x10.3 |
-| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 19,044,636 | 3,409,206 | x13.2 |
+| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,326,416 | 8,089,792 | x16.5 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 24,625,894 | 6,690,178 | x2.6 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 12,441,208 | 6,449,122 | x5.1 |
+| GTA 6 Hidden Facts | Facts' Mine | 13,437,216 | 6,197,091 | x1.1 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 17,151,324 | 6,162,947 | x0.3 |
+| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 4,666,671 | 4,807,387 | x0.8 |
+| Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo | Varsha & Aditya | 28,041,917 | 4,621,536 | x20.0 |
+| POV: Giving Birth When GTA 6 Drops... | Dimucc | 27,388,152 | 4,561,779 | x3.6 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 17,191,780 | 4,541,999 | x0.3 |
+| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 3,667,554 | 4,539,390 | x1.5 |
+| si el personaje come demasiado en #gta6 | gta2025 | 4,071,602 | 3,984,668 | x1.9 |
+| Tree climbing in GTA 6 | Stuntfart | 5,647,354 | 3,973,771 | x4.9 |
+| GTA 6-Hulk Vs Spiderman Challenge 🤣 29 #hulk #spiderman #gta | Zippy 3D | 6,293,401 | 3,847,922 | x6.8 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 12,746,957 | 3,773,098 | x10.4 |
+| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,806,187 | 3,656,348 | x9.8 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | - | 6782 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6786 | 6786 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | 1472 | 1472 |
-| 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | 1245 | 1247 |
-| 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1125 |
+| 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | 1245 | 1248 |
+| 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1126 |
 | 2026-11-20T18:59 | KreekCraft Stole A Mobility Scooter In GTA 6 And Granny Chased Him 🛵 #GTA6 #shorts | 1035 | 1036 | 1036 |
 | 2026-11-19T19:28 | Dasgas Dom Is Renovating His Own Crib In GTA 6 🔨 #GTA6 #shorts | 260 | 307 | 307 |
 | 2026-11-19T18:55 | KreekCraft Bet He Wouldn't Get Eaten By A Crocodile In GTA 6 🐊 #GTA6 #shorts | 1061 | 1069 | 1075 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| Cohh realized something about the UFO Easter Egg he found in GTA 6 | CohhCarnage | 18,081 | 826 |
-| perfectly timed npc dialogue | LIRIK | 11,976 | 580 |
-| god damnnn | AvoidingThePuddle | 8,601 | 524 |
-| Parked | eviemeowie | 5,700 | 442 |
-| 公開道歉 | 哈耿 | 475 | 391 |
-| 神エイムに動揺するきるま | 切嘛 | 4,809 | 374 |
-| Casoh's soft locked from completing the game by his chat and is now struggling to make money | caseoh_ | 4,205 | 360 |
-| slight scratch | caseoh_ | 411 | 307 |
-| Canción de mi país | IlloJuan | 3,725 | 220 |
-| 🥵Lucia GTA6🔥 | Rubius | 4,106 | 215 |
-| ohne is a dick | ohnePixel | 4,771 | 212 |
-| GTA 6 issue | pokelawls | 1,553 | 191 |
-| ✅ Умови оплати реклами ✅ | thetremba | 162 | 184 |
-| jynxzi checks on nickeh30 | Jynxzi | 2,394 | 174 |
-| They better not be callin' the cops | PatStaresAt | 1,975 | 167 |
+| perfectly timed npc dialogue | LIRIK | 15,467 | 654 |
+| в салоне чисто | ADM1TR1POW | 501 | 545 |
+| god damnnn | AvoidingThePuddle | 10,430 | 538 |
+| SALTO BOMBA | paache_ | 261 | 420 |
+| slight scratch | caseoh_ | 1,661 | 383 |
+| Parked | eviemeowie | 5,893 | 370 |
+| 神エイムに動揺するきるま | 切嘛 | 5,513 | 348 |
+| Casoh's soft locked from completing the game by his chat and is now struggling to make money | caseoh_ | 4,905 | 334 |
+| 🥵Lucia GTA6🔥 | Rubius | 5,261 | 238 |
+| Canción de mi país | IlloJuan | 4,708 | 236 |
+| 公開道歉 | 哈耿 | 980 | 232 |
+| GTA 6 issue | pokelawls | 1,948 | 175 |
+| jynxzi checks on nickeh30 | Jynxzi | 2,888 | 173 |
+| They better not be callin' the cops | PatStaresAt | 2,378 | 160 |
+| www | nagaikouji074 | 709 | 160 |
 
