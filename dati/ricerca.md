@@ -1,47 +1,47 @@
-# Dati raccolti il 2026-11-24T12:50:30Z (UTC)
+# Dati raccolti il 2026-11-24T13:39:03Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 11,579,788 | 40.3 | 287,348 | x4.7 |
-| GTA 6 Hidden Facts | Facts' Mine | 12,514,479 | 46.0 | 271,822 | x1.0 |
-| Chota bhai aur gta 6 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #gta | We r Loser | 11,753,798 | 45.7 | 257,221 | x0.7 |
-| Tree climbing in GTA 6 | Stuntfart | 5,532,296 | 28.1 | 196,826 | x4.8 |
-| Xbox Called PS5's GTA 6 Comparison UNFAIR 💀😂 | MrEagle 👑 | 8,373,331 | 44.8 | 186,759 | x21.8 |
-| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,726,885 | 32.1 | 178,346 | x9.8 |
-| “Ending That Everyone Loves..” | GTA 5 | Song - Love me not #shorts #gta #gta6 | ORIZOD | 8,308,221 | 46.8 | 177,369 | x2.2 |
-| Map of all GTA 6 Players | GelNox | 5,895,090 | 41.0 | 143,644 | x3.4 |
-| Ab toh Lucia bhi chalegi😭 #Gta6 | Raj Grover | #shorts | Raj Grover | 5,975,759 | 48.0 | 124,504 | x0.3 |
-| 3 HAL GABUT BERFAEDAH DI GTA 6 #shorts | Marcade | 5,569,411 | 47.6 | 117,123 | x3.1 |
-| Eligió Hacer La Tarea 📚 En Vez De Jugar GTA 6 🕹️ | La Historia de Él | 4,170,034 | 38.8 | 107,414 | x1.2 |
-| Is 30FPS on GTA 6 really horrible?? | CarterPCs | 2,581,755 | 29.3 | 88,258 | x1.1 |
-| Cuando Juegas Demasiado GTA 6🤣⚠️#comedia | YERRIKILLERXD | 3,552,417 | 40.9 | 86,760 | x0.9 |
-| Lock in lucia😭 - GTA 6 #gta6 #grandtheftauto6 #gta #grandtheftauto #rockstargames #gaming #explore | Nonz | 3,579,876 | 42.7 | 83,863 | x3.9 |
-| GTA VI's Attention to Detail Is Absolutely INSANE! #3 | NinjaPlay | 2,586,870 | 31.1 | 83,054 | x5.3 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 11,668,479 | 41.1 | 283,849 | x4.8 |
+| GTA 6 Hidden Facts | Facts' Mine | 12,588,065 | 46.8 | 268,698 | x1.0 |
+| Chota bhai aur gta 6 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #gta | We r Loser | 11,888,775 | 46.5 | 255,648 | x0.7 |
+| Tree climbing in GTA 6 | Stuntfart | 5,554,646 | 28.9 | 192,092 | x4.8 |
+| Xbox Called PS5's GTA 6 Comparison UNFAIR 💀😂 | MrEagle 👑 | 8,593,623 | 45.6 | 188,274 | x22.4 |
+| “Ending That Everyone Loves..” | GTA 5 | Song - Love me not #shorts #gta #gta6 | ORIZOD | 8,420,549 | 47.7 | 176,715 | x2.2 |
+| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,742,803 | 32.9 | 174,446 | x9.8 |
+| Map of all GTA 6 Players | GelNox | 5,919,954 | 41.8 | 141,461 | x3.5 |
+| Eligió Hacer La Tarea 📚 En Vez De Jugar GTA 6 🕹️ | La Historia de Él | 4,172,411 | 39.6 | 105,280 | x1.2 |
+| Is 30FPS on GTA 6 really horrible?? | CarterPCs | 2,640,425 | 30.1 | 87,834 | x1.2 |
+| Cuando Juegas Demasiado GTA 6🤣⚠️#comedia | YERRIKILLERXD | 3,555,709 | 41.8 | 85,157 | x0.9 |
+| Lock in lucia😭 - GTA 6 #gta6 #grandtheftauto6 #gta #grandtheftauto #rockstargames #gaming #explore | Nonz | 3,595,017 | 43.5 | 82,651 | x3.9 |
+| GTA VI's Attention to Detail Is Absolutely INSANE! #3 | NinjaPlay | 2,636,739 | 32.0 | 82,512 | x5.4 |
+| spider-man finally plays GTA 6 | Reeler | 2,636,001 | 35.6 | 73,957 | x5.3 |
+| What Happens If You Call Lucia While Standing Next To Her?! #shorts #gaming #gta6 #gtavi | LOLIK | 3,421,388 | 46.4 | 73,774 | x3.7 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,259,220 | 8,446,833 | x16.6 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 23,870,150 | 6,957,420 | x2.5 |
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 11,579,788 | 6,896,342 | x4.7 |
-| GTA 6 Hidden Facts | Facts' Mine | 12,514,479 | 6,523,739 | x1.0 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 16,066,482 | 6,342,960 | x0.2 |
-| Chota bhai aur gta 6 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #gta | We r Loser | 11,753,798 | 6,173,311 | x0.7 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 27,246,961 | 4,735,456 | x3.6 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 16,717,842 | 4,729,157 | x0.3 |
-| Tree climbing in GTA 6 | Stuntfart | 5,532,296 | 4,723,832 | x4.8 |
-| Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo | Varsha & Aditya | 26,682,923 | 4,586,546 | x19.1 |
-| Xbox Called PS5's GTA 6 Comparison UNFAIR 💀😂 | MrEagle 👑 | 8,373,331 | 4,482,211 | x21.8 |
-| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,726,885 | 4,280,302 | x9.8 |
-| “Ending That Everyone Loves..” | GTA 5 | Song - Love me not #shorts #gta #gta6 | ORIZOD | 8,308,221 | 4,256,861 | x2.2 |
-| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 12,428,355 | 3,972,792 | x10.1 |
-| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 19,035,778 | 3,485,616 | x13.1 |
+| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,266,519 | 8,396,475 | x16.6 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 23,939,318 | 6,909,679 | x2.5 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 11,668,479 | 6,812,375 | x4.8 |
+| GTA 6 Hidden Facts | Facts' Mine | 12,588,065 | 6,448,758 | x1.0 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 16,174,378 | 6,301,677 | x0.2 |
+| Chota bhai aur gta 6 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #gta | We r Loser | 11,888,775 | 6,135,556 | x0.7 |
+| POV: Giving Birth When GTA 6 Drops... | Dimucc | 27,256,717 | 4,709,556 | x3.6 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 16,773,347 | 4,700,032 | x0.3 |
+| Tree climbing in GTA 6 | Stuntfart | 5,554,646 | 4,610,196 | x4.8 |
+| Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo | Varsha & Aditya | 26,823,541 | 4,584,150 | x19.2 |
+| Xbox Called PS5's GTA 6 Comparison UNFAIR 💀😂 | MrEagle 👑 | 8,593,623 | 4,518,583 | x22.4 |
+| “Ending That Everyone Loves..” | GTA 5 | Song - Love me not #shorts #gta #gta6 | ORIZOD | 8,420,549 | 4,241,150 | x2.2 |
+| Bakar Mobil Si donnie Di GTA 6 #shorts #gta6 | Kentaka | 5,742,803 | 4,186,698 | x9.8 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 12,468,387 | 3,943,092 | x10.2 |
+| Did GTA 6 Finally Fix BLOCKED Car Doors? | Mr Spring | 19,038,201 | 3,464,670 | x13.1 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | - | 6767 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | - | 6768 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | 1472 | 1472 |
 | 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | 1245 | 1247 |
 | 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1125 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| bro | Tminnzy | 48,947 | 2,244 |
-| Cohh realized something about the UFO Easter Egg he found in GTA 6 | CohhCarnage | 16,169 | 856 |
-| get away | caseoh_ | 17,904 | 783 |
-| perfectly timed npc dialogue | LIRIK | 10,417 | 590 |
-| Parked | eviemeowie | 5,557 | 561 |
-| god damnnn | AvoidingThePuddle | 7,033 | 525 |
-| Casoh's soft locked from completing the game by his chat and is now struggling to make money | caseoh_ | 3,473 | 400 |
-| nice scooter | caseoh_ | 6,827 | 299 |
-| 足元何か横切る | ギルくん | 5,497 | 242 |
-| ohne is a dick | ohnePixel | 4,114 | 211 |
-| Canción de mi país | IlloJuan | 2,928 | 210 |
-| 🥵Lucia GTA6🔥 | Rubius | 3,355 | 208 |
-| GTA 6 issue | pokelawls | 994 | 194 |
-| FPSが強いCR所属の切嘛さん | 切嘛 | 4,210 | 192 |
-| is it | caseoh_ | 4,247 | 186 |
+| bro | Tminnzy | 49,553 | 2,191 |
+| Cohh realized something about the UFO Easter Egg he found in GTA 6 | CohhCarnage | 16,660 | 846 |
+| get away | caseoh_ | 18,537 | 783 |
+| perfectly timed npc dialogue | LIRIK | 10,785 | 584 |
+| god damnnn | AvoidingThePuddle | 7,419 | 522 |
+| Parked | eviemeowie | 5,577 | 520 |
+| Casoh's soft locked from completing the game by his chat and is now struggling to make money | caseoh_ | 3,672 | 387 |
+| nice scooter | caseoh_ | 7,092 | 300 |
+| 足元何か横切る | ギルくん | 5,712 | 242 |
+| Canción de mi país | IlloJuan | 3,128 | 212 |
+| ohne is a dick | ohnePixel | 4,221 | 208 |
+| 🥵Lucia GTA6🔥 | Rubius | 3,479 | 206 |
+| GTA 6 issue | pokelawls | 1,167 | 196 |
+| FPSが強いCR所属の切嘛さん | 切嘛 | 4,285 | 189 |
+| is it | caseoh_ | 4,400 | 186 |
 
