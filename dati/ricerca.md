@@ -1,42 +1,42 @@
-# Dati raccolti il 2026-11-25T15:50:35Z (UTC)
+# Dati raccolti il 2026-11-25T18:50:31Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,640,471 | 34.2 | 340,376 | x1.1 |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,312,998 | 30.5 | 207,322 | x8.5 |
-| I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts | mmmjoemele | 8,393,027 | 41.3 | 203,038 | x1.5 |
-| si caemos sobre el cableado electrico en #gta6 | gta2025 | 7,743,046 | 40.4 | 191,667 | x3.7 |
-| GANE GTA 6 Y SE LO DIERON A OTRO | Santy con y | 7,690,331 | 41.8 | 183,835 | x4.1 |
-| GTA VI MENUJU 100% APA YANG AKAN TERJADI KEPADA JASON DAN LUCIA.... GTA 6 GAMEPLAY #11 | Windah Basudara | 844,120 | 4.7 | 179,547 | x0.9 |
-| GTA V vs GTA 6... PT. 2 | Dimucc | 3,257,849 | 20.8 | 156,316 | x0.4 |
-| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 6,366,006 | 44.3 | 143,707 | x1.1 |
-| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 5,103,859 | 40.4 | 126,359 | x2.1 |
-| Cabinet Glitch 🗄️ For Free GTA 6 🎮 #GTA #GTA6 #YouTubeShorts | VerrTV | 4,764,880 | 38.6 | 123,425 | x3.3 |
-| Ela destruiu o PS5 por ciúmes do GTA 6 e o pior aconteceu... #shorts #gta #arthur | E Agora? | 5,225,465 | 47.8 | 109,226 | x6.9 |
-| si el personaje come demasiado en #gta6 | gta2025 | 4,916,815 | 45.5 | 108,003 | x2.3 |
-| Fastest $40,000 I've Made In GTA 6 #gta6 #gta | COLETHEMAN GTA | 4,171,261 | 40.8 | 102,256 | x3.6 |
-| se puede llenar la alberca de esta forma en #gta6 | gta2025 | 4,168,900 | 43.1 | 96,819 | x2.0 |
-| Cops in GTA 6😭 | TheAnimeMen | 3,536,387 | 39.2 | 90,178 | x1.4 |
+| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,840,017 | 37.2 | 318,299 | x1.1 |
+| Gangnam style Trend | VICE CITY | GTA 6 GAMEPLAY#shorts #viral | vikas magic | 10,249,243 | 33.8 | 302,881 | x46.1 |
+| Togi plays GTA6 🎮 #togi | TogiToon  | 6,590,704 | 22.3 | 295,349 | x16.6 |
+| GTA V vs GTA 6... PT. 2 | Dimucc | 3,680,954 | 23.8 | 154,401 | x0.5 |
+| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 6,451,983 | 47.3 | 136,413 | x1.1 |
+| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 5,193,583 | 43.4 | 119,694 | x2.1 |
+| Cabinet Glitch 🗄️ For Free GTA 6 🎮 #GTA #GTA6 #YouTubeShorts | VerrTV | 4,906,823 | 41.6 | 117,940 | x3.3 |
+| Fastest $40,000 I've Made In GTA 6 #gta6 #gta | COLETHEMAN GTA | 4,414,705 | 43.8 | 100,813 | x3.5 |
+| Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 | Game Forensics | 2,133,269 | 22.8 | 93,409 | x4.0 |
+| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 1,901,699 | 20.4 | 93,115 | x1.7 |
+| se puede llenar la alberca de esta forma en #gta6 | gta2025 | 4,214,821 | 46.1 | 91,512 | x2.0 |
+| Cops in GTA 6😭 | TheAnimeMen | 3,681,450 | 42.2 | 87,208 | x1.5 |
+| POV: Hopping On GTA 6 Based On How Long You Waited... | Unknown Smug | 3,566,745 | 43.8 | 81,371 | x3.4 |
+| Map of all GTA 6 Players | GelNox | 3,810,636 | 47.1 | 80,899 | x2.2 |
+| GTA V vs GTA 6... | Dimucc | 3,205,056 | 47.6 | 67,349 | x0.4 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,640,471 | 8,169,017 | x1.1 |
-| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,408,036 | 7,029,844 | x17.3 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,278,954 | 5,548,559 | x2.6 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 19,322,689 | 5,282,280 | x0.3 |
-| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 13,573,110 | 5,018,172 | x59.6 |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,312,998 | 4,975,717 | x8.5 |
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 13,793,700 | 4,918,981 | x5.6 |
-| I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts | mmmjoemele | 8,393,027 | 4,872,912 | x1.5 |
-| GTA 6 Hidden Facts | Facts' Mine | 14,060,664 | 4,620,117 | x1.1 |
-| si caemos sobre el cableado electrico en #gta6 | gta2025 | 7,743,046 | 4,600,019 | x3.7 |
-| GANE GTA 6 Y SE LO DIERON A OTRO | Santy con y | 7,690,331 | 4,412,041 | x4.1 |
-| GTA VI MENUJU 100% APA YANG AKAN TERJADI KEPADA JASON DAN LUCIA.... GTA 6 GAMEPLAY #11 | Windah Basudara | 844,120 | 4,309,127 | x0.9 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 28,117,372 | 4,087,494 | x3.7 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 17,911,597 | 3,843,595 | x0.3 |
-| GTA V vs GTA 6... PT. 2 | Dimucc | 3,257,849 | 3,751,591 | x0.4 |
+| Mom Surprised Him With GTA 6 😱 | SpinFactz | 63,344,509 | 19,531,796 | x26.9 |
+| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,840,017 | 7,639,177 | x1.1 |
+| Gangnam style Trend | VICE CITY | GTA 6 GAMEPLAY#shorts #viral | vikas magic | 10,249,243 | 7,269,146 | x46.1 |
+| Togi plays GTA6 🎮 #togi | TogiToon  | 6,590,704 | 7,088,366 | x16.6 |
+| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,430,301 | 6,902,566 | x17.3 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 27,791,691 | 6,852,961 | x7.1 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,330,397 | 5,411,434 | x2.6 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 19,713,944 | 5,211,228 | x0.3 |
+| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 13,598,283 | 4,805,479 | x58.3 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 13,890,189 | 4,742,084 | x5.7 |
+| GTA 6 Hidden Facts | Facts' Mine | 14,134,979 | 4,461,362 | x1.1 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 17,978,631 | 3,757,235 | x0.3 |
+| GTA V vs GTA 6... PT. 2 | Dimucc | 3,680,954 | 3,705,615 | x0.5 |
+| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 6,451,983 | 3,273,906 | x1.1 |
+| Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔 | Zylok | 13,248,605 | 3,025,915 | x10.8 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| Hold Square | lilypichu | 11,615 | 959 |
-| lol | KaiCenat | 12,829 | 668 |
-| LA COBRA SODOMIZAD4 | Rubius | 3,440 | 242 |
-| paid actor | ohnePixel | 256 | 212 |
-| ron and marlon? | KaiCenat | 2,408 | 139 |
-| SURVIVE | Ramez05 | 1,666 | 90 |
-| The Vice City Shoveler | BruceGreene | 1,326 | 85 |
-| NAH JYNXZI | Jynxzi | 1,320 | 85 |
-| Да кто так паркуется? | orkpod | 1,569 | 73 |
-| Neuer Flugzeug Experte !! | BauPenner | 1,246 | 68 |
-| Ommmaaaaaaaa  🤣🤣 | BauPenner | 1,239 | 68 |
-| the dog incident | Vinesauce | 767 | 68 |
-| Gratis Auto ?? | BauPenner | 1,216 | 66 |
-| Did Lucia Get In? | TheBurntPeanut | 599 | 66 |
-| курьеру не повезло 3 раза, бежит уволняться | k4rankul | 1,351 | 63 |
+| Hold Square | lilypichu | 16,606 | 1,099 |
+| lol | KaiCenat | 15,546 | 700 |
+| коллизия | frametamer666 | 904 | 689 |
+| руслан вычеркнул марка из списка друзей | RUSLANDVIP | 136 | 268 |
+| LA COBRA SODOMIZAD4 | Rubius | 4,327 | 251 |
+| sitcom | IlloJuan | 207 | 251 |
+| In which it was time sensitive. | PatStaresAt | 553 | 244 |
+| GTA 6 BRAQUAGE DAY LIVE 676h NON-STOP!! | Squeezie | 423 | 196 |
+| ron and marlon? | KaiCenat | 2,610 | 128 |
+| Refrencia Baity | IlloJuan | 121 | 123 |
+| NAH JYNXZI | Jynxzi | 1,691 | 91 |
+| SURVIVE | Ramez05 | 1,797 | 84 |
+| paid actor | ohnePixel | 355 | 84 |
+| The Vice City Shoveler | BruceGreene | 1,439 | 77 |
+| the dog incident | Vinesauce | 1,075 | 76 |
 
