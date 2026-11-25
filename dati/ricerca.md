@@ -1,47 +1,47 @@
-# Dati raccolti il 2026-11-25T08:29:00Z (UTC)
+# Dati raccolti il 2026-11-25T09:50:29Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 9,863,659 | 26.8 | 367,510 | x0.9 |
-| When you Finally take a Break from GTA 6 💀💔 | Kuldeep Singhaniaa #shorts #gta6 | Kuldeep Singhania Shorts | 13,551,631 | 43.9 | 308,574 | x1.7 |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 5,866,099 | 23.1 | 254,048 | x7.9 |
-| I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts | mmmjoemele | 8,136,297 | 34.0 | 239,461 | x1.5 |
-| si caemos sobre el cableado electrico en #gta6 | gta2025 | 7,572,529 | 33.0 | 229,202 | x3.6 |
-| GANE GTA 6 Y SE LO DIERON A OTRO | Santy con y | 7,567,563 | 34.5 | 219,521 | x4.1 |
-| GTA 6 vs GTA 5 Train Edit | GelNox | 7,496,319 | 40.7 | 184,111 | x4.4 |
-| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 6,299,048 | 36.9 | 170,526 | x1.1 |
-| Roblox GTA 6 Bundle Troll 😨 | ItsSprinkles | 6,401,047 | 41.8 | 153,291 | x3.8 |
-| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 4,923,243 | 33.0 | 149,045 | x2.0 |
-| Cabinet Glitch 🗄️ For Free GTA 6 🎮 #GTA #GTA6 #YouTubeShorts | VerrTV | 4,394,290 | 31.2 | 140,636 | x3.0 |
-| si el personaje come demasiado en #gta6 | gta2025 | 4,865,943 | 38.2 | 127,498 | x2.3 |
-| Tree climbing in GTA 6 | Stuntfart | 5,799,071 | 47.7 | 121,449 | x5.0 |
-| Ela destruiu o PS5 por ciúmes do GTA 6 e o pior aconteceu... #shorts #gta #arthur | E Agora? | 4,781,102 | 40.5 | 118,107 | x6.3 |
-| se puede llenar la alberca de esta forma en #gta6 | gta2025 | 4,108,959 | 35.7 | 115,100 | x2.0 |
+| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 10,956,199 | 28.2 | 388,556 | x1.0 |
+| When you Finally take a Break from GTA 6 💀💔 | Kuldeep Singhaniaa #shorts #gta6 | Kuldeep Singhania Shorts | 13,684,225 | 45.3 | 302,247 | x1.8 |
+| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,007,178 | 24.4 | 245,706 | x8.1 |
+| I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts | mmmjoemele | 8,178,458 | 35.3 | 231,451 | x1.5 |
+| si caemos sobre el cableado electrico en #gta6 | gta2025 | 7,665,394 | 34.4 | 222,853 | x3.7 |
+| GANE GTA 6 Y SE LO DIERON A OTRO | Santy con y | 7,586,696 | 35.8 | 211,735 | x4.1 |
+| GTA 6 vs GTA 5 Train Edit | GelNox | 7,717,479 | 42.1 | 183,424 | x4.5 |
+| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 6,313,832 | 38.3 | 164,865 | x1.1 |
+| Roblox GTA 6 Bundle Troll 😨 | ItsSprinkles | 6,490,581 | 43.1 | 150,539 | x3.9 |
+| GTA 6 FILES ARE NOW ON PC #shorts | jacobweeby | 4,960,257 | 34.4 | 144,235 | x2.0 |
+| Cabinet Glitch 🗄️ For Free GTA 6 🎮 #GTA #GTA6 #YouTubeShorts | VerrTV | 4,454,003 | 32.6 | 136,610 | x3.0 |
+| si el personaje come demasiado en #gta6 | gta2025 | 4,881,786 | 39.5 | 123,517 | x2.3 |
+| 🔴 LIVE! - BEATING GTA 6 RIGHT NOW! (PS5 PRO) | Typical Gamer | 1,077,434 | 9.2 | 116,932 | x1.2 |
+| Ela destruiu o PS5 por ciúmes do GTA 6 e o pior aconteceu... #shorts #gta #arthur | E Agora? | 4,802,506 | 41.8 | 114,785 | x6.3 |
+| se puede llenar la alberca de esta forma en #gta6 | gta2025 | 4,132,499 | 37.1 | 111,518 | x2.0 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 9,863,659 | 8,820,237 | x0.9 |
-| When you Finally take a Break from GTA 6 💀💔 | Kuldeep Singhaniaa #shorts #gta6 | Kuldeep Singhania Shorts | 13,551,631 | 7,405,778 | x1.7 |
-| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,388,723 | 7,369,233 | x17.3 |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 5,866,099 | 6,097,141 | x7.9 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,153,220 | 5,919,388 | x2.6 |
-| I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts | mmmjoemele | 8,136,297 | 5,747,072 | x1.5 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 18,614,739 | 5,554,374 | x0.3 |
-| si caemos sobre el cableado electrico en #gta6 | gta2025 | 7,572,529 | 5,500,858 | x3.6 |
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 13,590,631 | 5,441,644 | x5.6 |
-| GANE GTA 6 Y SE LO DIERON A OTRO | Santy con y | 7,567,563 | 5,268,506 | x4.1 |
-| GTA 6 Hidden Facts | Facts' Mine | 13,900,978 | 5,079,465 | x1.1 |
-| Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo | Varsha & Aditya | 29,874,905 | 4,501,909 | x21.3 |
-| GTA 6 vs GTA 5 Train Edit | GelNox | 7,496,319 | 4,418,655 | x4.4 |
-| POV: Giving Birth When GTA 6 Drops... | Dimucc | 28,056,979 | 4,269,025 | x3.7 |
-| ¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts | MrDuarte XD | 6,299,048 | 4,092,629 | x1.1 |
+| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 10,956,199 | 9,325,343 | x1.0 |
+| Husband Has the Most INSANE Reaction to GTA 6 😭 | GrimaceClips | 46,390,405 | 7,303,845 | x17.3 |
+| When you Finally take a Break from GTA 6 💀💔 | Kuldeep Singhaniaa #shorts #gta6 | Kuldeep Singhania Shorts | 13,684,225 | 7,253,924 | x1.8 |
+| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,007,178 | 5,896,951 | x8.1 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,217,406 | 5,856,505 | x2.6 |
+| I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts | mmmjoemele | 8,178,458 | 5,554,830 | x1.5 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 18,730,240 | 5,496,041 | x0.3 |
+| si caemos sobre el cableado electrico en #gta6 | gta2025 | 7,665,394 | 5,348,468 | x3.7 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 13,629,173 | 5,336,176 | x5.6 |
+| GANE GTA 6 Y SE LO DIERON A OTRO | Santy con y | 7,586,696 | 5,081,637 | x4.1 |
+| GTA 6 Hidden Facts | Facts' Mine | 13,963,311 | 4,998,882 | x1.1 |
+| Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo | Varsha & Aditya | 30,225,566 | 4,516,240 | x21.6 |
+| GTA 6 vs GTA 5 Train Edit | GelNox | 7,717,479 | 4,402,185 | x4.5 |
+| POV: Giving Birth When GTA 6 Drops... | Dimucc | 28,082,658 | 4,236,457 | x3.7 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 17,793,197 | 4,034,696 | x0.3 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6787 | 6818 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6787 | 6821 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | 1472 | 1472 |
 | 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | 1245 | 1252 |
 | 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1127 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| Hold Square | lilypichu | 3,987 | 839 |
-| lol | KaiCenat | 8,181 | 690 |
-| slight scratch | caseoh_ | 7,795 | 434 |
-| LA COBRA SODOMIZAD4 | Rubius | 2,265 | 329 |
-| Did Lucia Get In? | TheBurntPeanut | 449 | 272 |
-| ron and marlon? | KaiCenat | 2,103 | 210 |
-| www | nagaikouji074 | 2,956 | 164 |
-| The Vice City Shoveler | BruceGreene | 1,192 | 144 |
-| SURVIVE | Ramez05 | 1,548 | 139 |
-| traffic | caseoh_ | 2,087 | 117 |
-| Can't believe Dunc would do this to us | Dunc | 2,626 | 116 |
-| NAH JYNXZI | Jynxzi | 915 | 111 |
-| Neuer Flugzeug Experte !! | BauPenner | 1,173 | 107 |
-| Ommmaaaaaaaa  🤣🤣 | BauPenner | 1,116 | 103 |
-| beyond belief | caseoh_ | 1,887 | 102 |
+| Hold Square | lilypichu | 5,281 | 865 |
+| lol | KaiCenat | 8,934 | 676 |
+| slight scratch | caseoh_ | 8,175 | 423 |
+| LA COBRA SODOMIZAD4 | Rubius | 2,380 | 289 |
+| ron and marlon? | KaiCenat | 2,151 | 189 |
+| Did Lucia Get In? | TheBurntPeanut | 477 | 159 |
+| www | nagaikouji074 | 3,046 | 157 |
+| SURVIVE | Ramez05 | 1,561 | 125 |
+| The Vice City Shoveler | BruceGreene | 1,201 | 125 |
+| traffic | caseoh_ | 2,182 | 113 |
+| NAH JYNXZI | Jynxzi | 968 | 101 |
+| beyond belief | caseoh_ | 1,974 | 100 |
+| Neuer Flugzeug Experte !! | BauPenner | 1,177 | 95 |
+| Ommmaaaaaaaa  🤣🤣 | BauPenner | 1,118 | 92 |
+| 公開道歉 | 哈耿 | 1,731 | 90 |
 
