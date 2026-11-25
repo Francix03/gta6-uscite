@@ -1,6 +1,6 @@
 {
- "aggiornato": "2026-11-25T12:50:29Z",
- "shorts_scartati": 2,
+ "aggiornato": "2026-11-25T15:50:35Z",
+ "shorts_scartati": 3,
  "shorts_7g": [
   {
    "id": "PsgeDZfe4j0",
@@ -9,34 +9,16 @@
    "canale_id": "UC0SSbU6Xuz9CTedhcUi6lVQ",
    "pubblicato": "2026-11-24T05:38:39Z",
    "lingua": "hi",
-   "views": 11400608,
-   "commenti": 206,
+   "views": 11640471,
+   "commenti": 212,
    "durata_s": 51,
    "link": "https://www.youtube.com/watch?v=PsgeDZfe4j0",
-   "ore": 31.2,
-   "views_ora": 365437,
-   "views_giorno": 8770479,
+   "ore": 34.2,
+   "views_ora": 340376,
+   "views_giorno": 8169017,
    "media_canale": 10902483,
    "iscritti_canale": 3520000,
-   "outlier": 1.0
-  },
-  {
-   "id": "VSjjHRgoyY0",
-   "titolo": "Cuando Vas al TACÓN de GTA 6👠⚠️#comedia",
-   "canale": "YERRIKILLERXD",
-   "canale_id": "UCBmD4dNtecesIHGgQnI-l2A",
-   "pubblicato": "2026-11-21T17:30:42Z",
-   "lingua": "es-ES",
-   "views": 27741244,
-   "commenti": 1061,
-   "durata_s": 19,
-   "link": "https://www.youtube.com/watch?v=VSjjHRgoyY0",
-   "ore": 91.3,
-   "views_ora": 303748,
-   "views_giorno": 7289958,
-   "media_canale": 3927375,
-   "iscritti_canale": 11000000,
-   "outlier": 7.1
+   "outlier": 1.1
   },
   {
    "id": "Qm8hhyeMiW8",
@@ -45,13 +27,13 @@
    "canale_id": "UCdj4tDUy8z5fxrdm3cPXvPQ",
    "pubblicato": "2026-11-19T01:24:19Z",
    "lingua": "en",
-   "views": 46397389,
-   "commenti": 6964,
+   "views": 46408036,
+   "commenti": 6969,
    "durata_s": 29,
    "link": "https://www.youtube.com/watch?v=Qm8hhyeMiW8",
-   "ore": 155.4,
-   "views_ora": 298498,
-   "views_giorno": 7163955,
+   "ore": 158.4,
+   "views_ora": 292910,
+   "views_giorno": 7029844,
    "media_canale": 2684964,
    "iscritti_canale": 50400,
    "outlier": 17.3
@@ -63,34 +45,16 @@
    "canale_id": "UCqOMVYb-Op7j-3wYM7C5D6A",
    "pubblicato": "2026-11-21T02:30:01Z",
    "lingua": "en-IN",
-   "views": 25249332,
-   "commenti": 284,
+   "views": 25278954,
+   "commenti": 287,
    "durata_s": 60,
    "link": "https://www.youtube.com/watch?v=j1yn1Ay4YTA",
-   "ore": 106.3,
-   "views_ora": 237437,
-   "views_giorno": 5698492,
+   "ore": 109.3,
+   "views_ora": 231190,
+   "views_giorno": 5548559,
    "media_canale": 9564134,
    "iscritti_canale": 11800000,
    "outlier": 2.6
-  },
-  {
-   "id": "LI-iJgAqbkw",
-   "titolo": "What Happens When I Try GTA 6 Lipstick?🤯🌴💄",
-   "canale": "Anna Kursakina",
-   "canale_id": "UC0J96b3Up3JGzRnHxhrJMcw",
-   "pubblicato": "2026-11-24T09:23:34Z",
-   "lingua": "uk",
-   "views": 6179745,
-   "commenti": 52,
-   "durata_s": 9,
-   "link": "https://www.youtube.com/watch?v=LI-iJgAqbkw",
-   "ore": 27.4,
-   "views_ora": 225139,
-   "views_giorno": 5403329,
-   "media_canale": 739756,
-   "iscritti_canale": 466000,
-   "outlier": 8.4
   },
   {
    "id": "bpHpXic_LOQ",
@@ -99,13 +63,13 @@
    "canale_id": "UCIPPMRA040LQr5QPyJEbmXA",
    "pubblicato": "2026-11-22T00:03:02Z",
    "lingua": "en",
-   "views": 18966973,
-   "commenti": 1790,
+   "views": 19322689,
+   "commenti": 1804,
    "durata_s": 56,
    "link": "https://www.youtube.com/watch?v=bpHpXic_LOQ",
-   "ore": 84.8,
-   "views_ora": 223691,
-   "views_giorno": 5368592,
+   "ore": 87.8,
+   "views_ora": 220095,
+   "views_giorno": 5282280,
    "media_canale": 65497566,
    "iscritti_canale": 62900000,
    "outlier": 0.3
@@ -117,34 +81,34 @@
    "canale_id": "UCJ5Zg7lHzvxiiGMM-OMalqA",
    "pubblicato": "2026-11-22T22:55:41Z",
    "lingua": "en",
-   "views": 13559017,
-   "commenti": 1078,
+   "views": 13573110,
+   "commenti": 1081,
    "durata_s": 14,
    "link": "https://www.youtube.com/watch?v=13x3enmFPM0",
-   "ore": 61.9,
-   "views_ora": 219000,
-   "views_giorno": 5255999,
-   "media_canale": 227905,
-   "iscritti_canale": 57400,
-   "outlier": 59.5
+   "ore": 64.9,
+   "views_ora": 209091,
+   "views_giorno": 5018172,
+   "media_canale": 227566,
+   "iscritti_canale": 57500,
+   "outlier": 59.6
   },
   {
-   "id": "gnCnc5bxViQ",
-   "titolo": "I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts",
-   "canale": "mmmjoemele",
-   "canale_id": "UClAa0YLrW4MaIKOWaeZR9Xg",
-   "pubblicato": "2026-11-23T22:30:21Z",
-   "lingua": "en",
-   "views": 8264641,
-   "commenti": 1080,
-   "durata_s": 10,
-   "link": "https://www.youtube.com/watch?v=gnCnc5bxViQ",
-   "ore": 38.3,
-   "views_ora": 215587,
-   "views_giorno": 5174084,
-   "media_canale": 5551116,
-   "iscritti_canale": 10600000,
-   "outlier": 1.5
+   "id": "LI-iJgAqbkw",
+   "titolo": "What Happens When I Try GTA 6 Lipstick?🤯🌴💄",
+   "canale": "Anna Kursakina",
+   "canale_id": "UC0J96b3Up3JGzRnHxhrJMcw",
+   "pubblicato": "2026-11-24T09:23:34Z",
+   "lingua": "uk",
+   "views": 6312998,
+   "commenti": 56,
+   "durata_s": 9,
+   "link": "https://www.youtube.com/watch?v=LI-iJgAqbkw",
+   "ore": 30.5,
+   "views_ora": 207322,
+   "views_giorno": 4975717,
+   "media_canale": 738769,
+   "iscritti_canale": 467000,
+   "outlier": 8.5
   },
   {
    "id": "O6cgHvq1Upw",
@@ -153,34 +117,34 @@
    "canale_id": "UCIn1EsSr4rgSznqrKtteQgA",
    "pubblicato": "2026-11-22T20:32:34Z",
    "lingua": "en",
-   "views": 13690551,
-   "commenti": 633,
+   "views": 13793700,
+   "commenti": 635,
    "durata_s": 9,
    "link": "https://www.youtube.com/watch?v=O6cgHvq1Upw",
-   "ore": 64.3,
-   "views_ora": 212921,
-   "views_giorno": 5110114,
-   "media_canale": 2448460,
+   "ore": 67.3,
+   "views_ora": 204958,
+   "views_giorno": 4918981,
+   "media_canale": 2447328,
    "iscritti_canale": 4920000,
    "outlier": 5.6
   },
   {
-   "id": "wzjoW7wU6z4",
-   "titolo": "si caemos sobre el cableado electrico en #gta6",
-   "canale": "gta2025",
-   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
-   "pubblicato": "2026-11-23T23:26:41Z",
+   "id": "gnCnc5bxViQ",
+   "titolo": "I’m sleeping on the couch 😂 #Gta6 #Mandy #Shorts",
+   "canale": "mmmjoemele",
+   "canale_id": "UClAa0YLrW4MaIKOWaeZR9Xg",
+   "pubblicato": "2026-11-23T22:30:21Z",
    "lingua": "en",
-   "views": 7690900,
-   "commenti": 546,
-   "durata_s": 34,
-   "link": "https://www.youtube.com/watch?v=wzjoW7wU6z4",
-   "ore": 37.4,
-   "views_ora": 205657,
-   "views_giorno": 4935777,
-   "media_canale": 2097764,
-   "iscritti_canale": 4850000,
-   "outlier": 3.7
+   "views": 8393027,
+   "commenti": 1095,
+   "durata_s": 10,
+   "link": "https://www.youtube.com/watch?v=gnCnc5bxViQ",
+   "ore": 41.3,
+   "views_ora": 203038,
+   "views_giorno": 4872912,
+   "media_canale": 5551116,
+   "iscritti_canale": 10600000,
+   "outlier": 1.5
   },
   {
    "id": "6kL_SHjZ6YI",
@@ -189,16 +153,34 @@
    "canale_id": "UCC6gbNO098rkQKCU0ZaLITQ",
    "pubblicato": "2026-11-22T14:48:09Z",
    "lingua": "hi",
-   "views": 14015697,
-   "commenti": 915,
+   "views": 14060664,
+   "commenti": 923,
    "durata_s": 42,
    "link": "https://www.youtube.com/watch?v=6kL_SHjZ6YI",
-   "ore": 70.0,
-   "views_ora": 200113,
-   "views_giorno": 4802714,
+   "ore": 73.0,
+   "views_ora": 192505,
+   "views_giorno": 4620117,
    "media_canale": 12401948,
    "iscritti_canale": 19400000,
    "outlier": 1.1
+  },
+  {
+   "id": "wzjoW7wU6z4",
+   "titolo": "si caemos sobre el cableado electrico en #gta6",
+   "canale": "gta2025",
+   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
+   "pubblicato": "2026-11-23T23:26:41Z",
+   "lingua": "en",
+   "views": 7743046,
+   "commenti": 550,
+   "durata_s": 34,
+   "link": "https://www.youtube.com/watch?v=wzjoW7wU6z4",
+   "ore": 40.4,
+   "views_ora": 191667,
+   "views_giorno": 4600019,
+   "media_canale": 2097764,
+   "iscritti_canale": 4850000,
+   "outlier": 3.7
   },
   {
    "id": "NrQgEWc-KhI",
@@ -207,34 +189,34 @@
    "canale_id": "UCPYXgQbYkOMpjbW8ONVhQng",
    "pubblicato": "2026-11-23T22:00:37Z",
    "lingua": "es",
-   "views": 7610356,
-   "commenti": 16717,
+   "views": 7690331,
+   "commenti": 17040,
    "durata_s": 99,
    "link": "https://www.youtube.com/watch?v=NrQgEWc-KhI",
-   "ore": 38.8,
-   "views_ora": 195986,
-   "views_giorno": 4703665,
+   "ore": 41.8,
+   "views_ora": 183835,
+   "views_giorno": 4412041,
    "media_canale": 1854484,
-   "iscritti_canale": 3460000,
+   "iscritti_canale": 3470000,
    "outlier": 4.1
   },
   {
-   "id": "S3g3ooJARP8",
-   "titolo": "Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo",
-   "canale": "Varsha & Aditya",
-   "canale_id": "UCoJkyVrTmUGpQrnwqwjCwfA",
-   "pubblicato": "2026-11-18T17:13:05Z",
-   "lingua": "hi",
-   "views": 30276601,
-   "commenti": 347,
-   "durata_s": 58,
-   "link": "https://www.youtube.com/watch?v=S3g3ooJARP8",
-   "ore": 163.6,
-   "views_ora": 185038,
-   "views_giorno": 4440922,
-   "media_canale": 1401466,
-   "iscritti_canale": 913000,
-   "outlier": 21.6
+   "id": "5m-Xi8lgvWY",
+   "titolo": "GTA VI MENUJU 100% APA YANG AKAN TERJADI KEPADA JASON DAN LUCIA.... GTA 6 GAMEPLAY #11",
+   "canale": "Windah Basudara",
+   "canale_id": "UCoIiiHof6BJ85PLuLkuxuhw",
+   "pubblicato": "2026-11-25T11:08:30Z",
+   "lingua": "id",
+   "views": 844120,
+   "commenti": 0,
+   "durata_s": 0,
+   "link": "https://www.youtube.com/watch?v=5m-Xi8lgvWY",
+   "ore": 4.7,
+   "views_ora": 179547,
+   "views_giorno": 4309127,
+   "media_canale": 954523,
+   "iscritti_canale": 21100000,
+   "outlier": 0.9
   },
   {
    "id": "pcFGTiL593U",
@@ -243,34 +225,16 @@
    "canale_id": "UC9tYJpGCSkzDt4HkPC4BtkA",
    "pubblicato": "2026-11-18T18:45:00Z",
    "lingua": "en-US",
-   "views": 28097023,
-   "commenti": 3515,
+   "views": 28117372,
+   "commenti": 3516,
    "durata_s": 15,
    "link": "https://www.youtube.com/watch?v=pcFGTiL593U",
-   "ore": 162.1,
-   "views_ora": 173341,
-   "views_giorno": 4160175,
+   "ore": 165.1,
+   "views_ora": 170312,
+   "views_giorno": 4087494,
    "media_canale": 7574033,
    "iscritti_canale": 8050000,
    "outlier": 3.7
-  },
-  {
-   "id": "wI-3hGr1QHA",
-   "titolo": "GTA V vs GTA 6... PT. 2",
-   "canale": "Dimucc",
-   "canale_id": "UC9tYJpGCSkzDt4HkPC4BtkA",
-   "pubblicato": "2026-11-24T19:00:06Z",
-   "lingua": "en-US",
-   "views": 2953185,
-   "commenti": 286,
-   "durata_s": 28,
-   "link": "https://www.youtube.com/watch?v=wI-3hGr1QHA",
-   "ore": 17.8,
-   "views_ora": 165540,
-   "views_giorno": 3972956,
-   "media_canale": 7574033,
-   "iscritti_canale": 8050000,
-   "outlier": 0.4
   },
   {
    "id": "XUTsngATFUk",
@@ -279,16 +243,34 @@
    "canale_id": "UCIPPMRA040LQr5QPyJEbmXA",
    "pubblicato": "2026-11-21T00:00:01Z",
    "lingua": "en",
-   "views": 17853462,
-   "commenti": 2700,
+   "views": 17911597,
+   "commenti": 2712,
    "durata_s": 46,
    "link": "https://www.youtube.com/watch?v=XUTsngATFUk",
-   "ore": 108.8,
-   "views_ora": 164032,
-   "views_giorno": 3936776,
+   "ore": 111.8,
+   "views_ora": 160150,
+   "views_giorno": 3843595,
    "media_canale": 65497566,
    "iscritti_canale": 62900000,
    "outlier": 0.3
+  },
+  {
+   "id": "wI-3hGr1QHA",
+   "titolo": "GTA V vs GTA 6... PT. 2",
+   "canale": "Dimucc",
+   "canale_id": "UC9tYJpGCSkzDt4HkPC4BtkA",
+   "pubblicato": "2026-11-24T19:00:06Z",
+   "lingua": "en-US",
+   "views": 3257849,
+   "commenti": 310,
+   "durata_s": 28,
+   "link": "https://www.youtube.com/watch?v=wI-3hGr1QHA",
+   "ore": 20.8,
+   "views_ora": 156316,
+   "views_giorno": 3751591,
+   "media_canale": 7574033,
+   "iscritti_canale": 8050000,
+   "outlier": 0.4
   },
   {
    "id": "TTkoN9Ulbfk",
@@ -297,52 +279,16 @@
    "canale_id": "UCLZefG8N0Si_GUxIAwji6uQ",
    "pubblicato": "2026-11-23T19:32:40Z",
    "lingua": "es",
-   "views": 6323899,
-   "commenti": 3548,
+   "views": 6366006,
+   "commenti": 3584,
    "durata_s": 50,
    "link": "https://www.youtube.com/watch?v=TTkoN9Ulbfk",
-   "ore": 41.3,
-   "views_ora": 153132,
-   "views_giorno": 3675177,
-   "media_canale": 5637807,
+   "ore": 44.3,
+   "views_ora": 143707,
+   "views_giorno": 3448960,
+   "media_canale": 5641655,
    "iscritti_canale": 7590000,
    "outlier": 1.1
-  },
-  {
-   "id": "yuw8_flkzEk",
-   "titolo": "Roblox GTA 6 Bundle Troll 😨",
-   "canale": "ItsSprinkles",
-   "canale_id": "UCZsbCEAQ9_xSLStB32RWbeg",
-   "pubblicato": "2026-11-23T14:43:33Z",
-   "lingua": "en",
-   "views": 6789172,
-   "commenti": 3463,
-   "durata_s": 33,
-   "link": "https://www.youtube.com/watch?v=yuw8_flkzEk",
-   "ore": 46.1,
-   "views_ora": 147221,
-   "views_giorno": 3533301,
-   "media_canale": 1677922,
-   "iscritti_canale": 989000,
-   "outlier": 4.0
-  },
-  {
-   "id": "xVx-k3hXTlA",
-   "titolo": "GTA 6 FILES ARE NOW ON PC #shorts",
-   "canale": "jacobweeby",
-   "canale_id": "UCRFSF9WS_g0wqm32kjJ-jNw",
-   "pubblicato": "2026-11-23T23:27:05Z",
-   "lingua": "en",
-   "views": 5036155,
-   "commenti": 7480,
-   "durata_s": 62,
-   "link": "https://www.youtube.com/watch?v=xVx-k3hXTlA",
-   "ore": 37.4,
-   "views_ora": 134693,
-   "views_giorno": 3232622,
-   "media_canale": 2445740,
-   "iscritti_canale": 2370000,
-   "outlier": 2.1
   },
   {
    "id": "mXPaX_wm-3Y",
@@ -351,16 +297,34 @@
    "canale_id": "UCwJJxcke-uBJcLJ58HqrdSw",
    "pubblicato": "2026-11-21T09:45:39Z",
    "lingua": "en-US",
-   "views": 13143670,
-   "commenti": 2071,
+   "views": 13186758,
+   "commenti": 2075,
    "durata_s": 30,
    "link": "https://www.youtube.com/watch?v=mXPaX_wm-3Y",
-   "ore": 99.1,
-   "views_ora": 132656,
-   "views_giorno": 3183754,
+   "ore": 102.1,
+   "views_ora": 129178,
+   "views_giorno": 3100267,
    "media_canale": 1226053,
    "iscritti_canale": 716000,
-   "outlier": 10.7
+   "outlier": 10.8
+  },
+  {
+   "id": "xVx-k3hXTlA",
+   "titolo": "GTA 6 FILES ARE NOW ON PC #shorts",
+   "canale": "jacobweeby",
+   "canale_id": "UCRFSF9WS_g0wqm32kjJ-jNw",
+   "pubblicato": "2026-11-23T23:27:05Z",
+   "lingua": "en",
+   "views": 5103859,
+   "commenti": 7592,
+   "durata_s": 62,
+   "link": "https://www.youtube.com/watch?v=xVx-k3hXTlA",
+   "ore": 40.4,
+   "views_ora": 126359,
+   "views_giorno": 3032621,
+   "media_canale": 2445740,
+   "iscritti_canale": 2370000,
+   "outlier": 2.1
   },
   {
    "id": "5q7dwXo3R6w",
@@ -369,16 +333,16 @@
    "canale_id": "UCjAws9tKAZbnYNYkryZwC1Q",
    "pubblicato": "2026-11-24T01:14:15Z",
    "lingua": "en-GB",
-   "views": 4581583,
-   "commenti": 98,
+   "views": 4764880,
+   "commenti": 100,
    "durata_s": 17,
    "link": "https://www.youtube.com/watch?v=5q7dwXo3R6w",
-   "ore": 35.6,
-   "views_ora": 128682,
-   "views_giorno": 3088370,
+   "ore": 38.6,
+   "views_ora": 123425,
+   "views_giorno": 2962193,
    "media_canale": 1464482,
    "iscritti_canale": 113000,
-   "outlier": 3.1
+   "outlier": 3.3
   },
   {
    "id": "ZFEJNsik7kQ",
@@ -387,13 +351,13 @@
    "canale_id": "UCnEz53zTLJDKB6FK39hdJ0Q",
    "pubblicato": "2026-11-19T01:46:19Z",
    "lingua": "en-US",
-   "views": 19094856,
+   "views": 19096384,
    "commenti": 3188,
    "durata_s": 36,
    "link": "https://www.youtube.com/watch?v=ZFEJNsik7kQ",
-   "ore": 155.1,
-   "views_ora": 123137,
-   "views_giorno": 2955299,
+   "ore": 158.1,
+   "views_ora": 120809,
+   "views_giorno": 2899412,
    "media_canale": 1444444,
    "iscritti_canale": 848000,
    "outlier": 13.2
@@ -405,34 +369,16 @@
    "canale_id": "UC2u04hrt9sUTwaHUWlVPdKA",
    "pubblicato": "2026-11-19T21:51:38Z",
    "lingua": "en-US",
-   "views": 16394791,
-   "commenti": 3123,
+   "views": 16415010,
+   "commenti": 3128,
    "durata_s": 63,
    "link": "https://www.youtube.com/watch?v=T8FzQ5cW-94",
-   "ore": 135.0,
-   "views_ora": 121460,
-   "views_giorno": 2915043,
+   "ore": 138.0,
+   "views_ora": 118964,
+   "views_giorno": 2855146,
    "media_canale": 205046,
    "iscritti_canale": 120000,
-   "outlier": 80.0
-  },
-  {
-   "id": "j-px4QBZ-0o",
-   "titolo": "si el personaje come demasiado en #gta6",
-   "canale": "gta2025",
-   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
-   "pubblicato": "2026-11-23T18:19:06Z",
-   "lingua": "en",
-   "views": 4893173,
-   "commenti": 676,
-   "durata_s": 41,
-   "link": "https://www.youtube.com/watch?v=j-px4QBZ-0o",
-   "ore": 42.5,
-   "views_ora": 115071,
-   "views_giorno": 2761705,
-   "media_canale": 2097764,
-   "iscritti_canale": 4850000,
-   "outlier": 2.3
+   "outlier": 80.1
   },
   {
    "id": "tKEb4KDakDI",
@@ -441,16 +387,34 @@
    "canale_id": "UC0tVPP2WGBUh1r9cpYkPQQw",
    "pubblicato": "2026-11-23T16:00:08Z",
    "lingua": "pt-BR",
-   "views": 4944532,
-   "commenti": 397,
+   "views": 5225465,
+   "commenti": 416,
    "durata_s": 46,
    "link": "https://www.youtube.com/watch?v=tKEb4KDakDI",
-   "ore": 44.8,
-   "views_ora": 110273,
-   "views_giorno": 2646543,
-   "media_canale": 757052,
+   "ore": 47.8,
+   "views_ora": 109226,
+   "views_giorno": 2621425,
+   "media_canale": 756440,
    "iscritti_canale": 4070000,
-   "outlier": 6.5
+   "outlier": 6.9
+  },
+  {
+   "id": "j-px4QBZ-0o",
+   "titolo": "si el personaje come demasiado en #gta6",
+   "canale": "gta2025",
+   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
+   "pubblicato": "2026-11-23T18:19:06Z",
+   "lingua": "en",
+   "views": 4916815,
+   "commenti": 684,
+   "durata_s": 41,
+   "link": "https://www.youtube.com/watch?v=j-px4QBZ-0o",
+   "ore": 45.5,
+   "views_ora": 108003,
+   "views_giorno": 2592076,
+   "media_canale": 2097764,
+   "iscritti_canale": 4850000,
+   "outlier": 2.3
   },
   {
    "id": "xEIkW7NvNIg",
@@ -459,16 +423,16 @@
    "canale_id": "UCDcsKrsuHgy55hH8V4_elOQ",
    "pubblicato": "2026-11-23T23:03:03Z",
    "lingua": "en",
-   "views": 4004990,
-   "commenti": 1286,
+   "views": 4171261,
+   "commenti": 1345,
    "durata_s": 61,
    "link": "https://www.youtube.com/watch?v=xEIkW7NvNIg",
-   "ore": 37.8,
-   "views_ora": 105979,
-   "views_giorno": 2543486,
+   "ore": 40.8,
+   "views_ora": 102256,
+   "views_giorno": 2454151,
    "media_canale": 1174746,
-   "iscritti_canale": 15500,
-   "outlier": 3.4
+   "iscritti_canale": 15700,
+   "outlier": 3.6
   },
   {
    "id": "viFodrsnoYQ",
@@ -477,34 +441,16 @@
    "canale_id": "UCGdPm5Aq081vVD7ih9jZf6Q",
    "pubblicato": "2026-11-22T01:40:25Z",
    "lingua": "hi",
-   "views": 8759898,
-   "commenti": 905,
+   "views": 8777998,
+   "commenti": 908,
    "durata_s": 57,
    "link": "https://www.youtube.com/watch?v=viFodrsnoYQ",
-   "ore": 83.2,
-   "views_ora": 105328,
-   "views_giorno": 2527873,
+   "ore": 86.2,
+   "views_ora": 101869,
+   "views_giorno": 2444857,
    "media_canale": 4535799,
    "iscritti_canale": 21700000,
    "outlier": 1.9
-  },
-  {
-   "id": "0UhuXIYn4YA",
-   "titolo": "se puede llenar la alberca de esta forma en #gta6",
-   "canale": "gta2025",
-   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
-   "pubblicato": "2026-11-23T20:47:04Z",
-   "lingua": "en",
-   "views": 4148574,
-   "commenti": 626,
-   "durata_s": 34,
-   "link": "https://www.youtube.com/watch?v=0UhuXIYn4YA",
-   "ore": 40.1,
-   "views_ora": 103567,
-   "views_giorno": 2485606,
-   "media_canale": 2097764,
-   "iscritti_canale": 4850000,
-   "outlier": 2.0
   },
   {
    "id": "iBINGJyq1As",
@@ -513,16 +459,34 @@
    "canale_id": "UCyGFPi-aJarGOk_PVexnpFQ",
    "pubblicato": "2026-11-20T15:58:32Z",
    "lingua": "en-US",
-   "views": 11856630,
+   "views": 11857155,
    "commenti": 401,
    "durata_s": 53,
    "link": "https://www.youtube.com/watch?v=iBINGJyq1As",
-   "ore": 116.9,
-   "views_ora": 101455,
-   "views_giorno": 2434921,
+   "ore": 119.9,
+   "views_ora": 98919,
+   "views_giorno": 2374052,
    "media_canale": 556386,
    "iscritti_canale": 78500,
    "outlier": 21.3
+  },
+  {
+   "id": "0UhuXIYn4YA",
+   "titolo": "se puede llenar la alberca de esta forma en #gta6",
+   "canale": "gta2025",
+   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
+   "pubblicato": "2026-11-23T20:47:04Z",
+   "lingua": "en",
+   "views": 4168900,
+   "commenti": 633,
+   "durata_s": 34,
+   "link": "https://www.youtube.com/watch?v=0UhuXIYn4YA",
+   "ore": 43.1,
+   "views_ora": 96819,
+   "views_giorno": 2323661,
+   "media_canale": 2097764,
+   "iscritti_canale": 4850000,
+   "outlier": 2.0
   },
   {
    "id": "SrZs817KrWE",
@@ -531,34 +495,16 @@
    "canale_id": "UCIn1EsSr4rgSznqrKtteQgA",
    "pubblicato": "2026-11-24T00:37:38Z",
    "lingua": "en",
-   "views": 3399697,
-   "commenti": 1132,
+   "views": 3536387,
+   "commenti": 1147,
    "durata_s": 7,
    "link": "https://www.youtube.com/watch?v=SrZs817KrWE",
-   "ore": 36.2,
-   "views_ora": 93878,
-   "views_giorno": 2253061,
-   "media_canale": 2448460,
+   "ore": 39.2,
+   "views_ora": 90178,
+   "views_giorno": 2164261,
+   "media_canale": 2447328,
    "iscritti_canale": 4920000,
    "outlier": 1.4
-  },
-  {
-   "id": "w2V6DI6Jkmw",
-   "titolo": "Map of all GTA 6 Players",
-   "canale": "GelNox",
-   "canale_id": "UC_MY4n95Q-2cQm4NmCoX5Yw",
-   "pubblicato": "2026-11-23T19:44:18Z",
-   "lingua": "en",
-   "views": 3685793,
-   "commenti": 1587,
-   "durata_s": 14,
-   "link": "https://www.youtube.com/watch?v=w2V6DI6Jkmw",
-   "ore": 41.1,
-   "views_ora": 89672,
-   "views_giorno": 2152128,
-   "media_canale": 1717517,
-   "iscritti_canale": 1700000,
-   "outlier": 2.1
   },
   {
    "id": "JRnE7cCk57M",
@@ -567,16 +513,34 @@
    "canale_id": "UC5mjSCf-5voLVpqscTl4dbg",
    "pubblicato": "2026-11-23T16:24:55Z",
    "lingua": "hi",
-   "views": 3928191,
-   "commenti": 182,
+   "views": 4031837,
+   "commenti": 184,
    "durata_s": 128,
    "link": "https://www.youtube.com/watch?v=JRnE7cCk57M",
-   "ore": 44.4,
-   "views_ora": 88421,
-   "views_giorno": 2122099,
+   "ore": 47.4,
+   "views_ora": 85010,
+   "views_giorno": 2040241,
    "media_canale": 1430667,
    "iscritti_canale": 158000,
-   "outlier": 2.7
+   "outlier": 2.8
+  },
+  {
+   "id": "w2V6DI6Jkmw",
+   "titolo": "Map of all GTA 6 Players",
+   "canale": "GelNox",
+   "canale_id": "UC_MY4n95Q-2cQm4NmCoX5Yw",
+   "pubblicato": "2026-11-23T19:44:18Z",
+   "lingua": "en",
+   "views": 3742569,
+   "commenti": 1607,
+   "durata_s": 14,
+   "link": "https://www.youtube.com/watch?v=w2V6DI6Jkmw",
+   "ore": 44.1,
+   "views_ora": 84856,
+   "views_giorno": 2036554,
+   "media_canale": 1717517,
+   "iscritti_canale": 1700000,
+   "outlier": 2.2
   },
   {
    "id": "MNC72z0cPak",
@@ -585,34 +549,16 @@
    "canale_id": "UCt59681zjcwtSJzAIVip93w",
    "pubblicato": "2026-11-21T06:30:15Z",
    "lingua": "zxx",
-   "views": 8512931,
-   "commenti": 12210,
+   "views": 8564542,
+   "commenti": 12265,
    "durata_s": 153,
    "link": "https://www.youtube.com/watch?v=MNC72z0cPak",
-   "ore": 102.3,
-   "views_ora": 83185,
-   "views_giorno": 1996442,
+   "ore": 105.3,
+   "views_ora": 81305,
+   "views_giorno": 1951312,
    "media_canale": 5817201,
-   "iscritti_canale": 7790000,
+   "iscritti_canale": 7800000,
    "outlier": 1.5
-  },
-  {
-   "id": "glEDHshONoM",
-   "titolo": "GTA6 Wrap in real life! #gta6 #gtavi #carwrapping",
-   "canale": "Jay The Wrap Specialist",
-   "canale_id": "UCY5DlpdjsmXD3KKVkOyoN6g",
-   "pubblicato": "2026-11-21T00:57:13Z",
-   "lingua": "en-US",
-   "views": 8806258,
-   "commenti": 4625,
-   "durata_s": 174,
-   "link": "https://www.youtube.com/watch?v=glEDHshONoM",
-   "ore": 107.9,
-   "views_ora": 81624,
-   "views_giorno": 1958982,
-   "media_canale": 2744503,
-   "iscritti_canale": 1520000,
-   "outlier": 3.2
   },
   {
    "id": "tNIHQAgwAy8",
@@ -621,16 +567,34 @@
    "canale_id": "UCg0aloZk589SKIXxKBn_Edg",
    "pubblicato": "2026-11-23T23:00:32Z",
    "lingua": "en",
-   "views": 3081874,
-   "commenti": 279,
+   "views": 3316847,
+   "commenti": 295,
    "durata_s": 23,
    "link": "https://www.youtube.com/watch?v=tNIHQAgwAy8",
-   "ore": 37.8,
-   "views_ora": 81461,
-   "views_giorno": 1955064,
+   "ore": 40.8,
+   "views_ora": 81227,
+   "views_giorno": 1949454,
    "media_canale": 1046339,
    "iscritti_canale": 1900000,
-   "outlier": 2.9
+   "outlier": 3.2
+  },
+  {
+   "id": "glEDHshONoM",
+   "titolo": "GTA6 Wrap in real life! #gta6 #gtavi #carwrapping",
+   "canale": "Jay The Wrap Specialist",
+   "canale_id": "UCY5DlpdjsmXD3KKVkOyoN6g",
+   "pubblicato": "2026-11-21T00:57:13Z",
+   "lingua": "en-US",
+   "views": 8929962,
+   "commenti": 4718,
+   "durata_s": 174,
+   "link": "https://www.youtube.com/watch?v=glEDHshONoM",
+   "ore": 110.9,
+   "views_ora": 80530,
+   "views_giorno": 1932728,
+   "media_canale": 2744503,
+   "iscritti_canale": 1520000,
+   "outlier": 3.3
   },
   {
    "id": "zvAcsCAzlTg",
@@ -639,13 +603,13 @@
    "canale_id": "UCpMluSJRC7DY0H0NrRnb1TQ",
    "pubblicato": "2026-11-19T22:59:33Z",
    "lingua": "es-419",
-   "views": 10443321,
-   "commenti": 632,
+   "views": 10445454,
+   "commenti": 634,
    "durata_s": 52,
    "link": "https://www.youtube.com/watch?v=zvAcsCAzlTg",
-   "ore": 133.8,
-   "views_ora": 78023,
-   "views_giorno": 1872557,
+   "ore": 136.9,
+   "views_ora": 76327,
+   "views_giorno": 1831859,
    "media_canale": 2226155,
    "iscritti_canale": 9640000,
    "outlier": 4.7
@@ -657,16 +621,16 @@
    "canale_id": "UCgSeIWlJSDs5XjODclT-jAw",
    "pubblicato": "2026-11-18T23:02:14Z",
    "lingua": "en",
-   "views": 11961843,
-   "commenti": 1178,
+   "views": 11985710,
+   "commenti": 1184,
    "durata_s": 67,
    "link": "https://www.youtube.com/watch?v=MsVyjgi4eoo",
-   "ore": 157.8,
-   "views_ora": 75802,
-   "views_giorno": 1819244,
+   "ore": 160.8,
+   "views_ora": 74535,
+   "views_giorno": 1788847,
    "media_canale": 649454,
    "iscritti_canale": 350000,
-   "outlier": 18.4
+   "outlier": 18.5
   },
   {
    "id": "IoMtwYu4Ro8",
@@ -675,13 +639,13 @@
    "canale_id": "UC9tYJpGCSkzDt4HkPC4BtkA",
    "pubblicato": "2026-11-23T19:15:12Z",
    "lingua": "en-US",
-   "views": 3121318,
-   "commenti": 668,
+   "views": 3153562,
+   "commenti": 677,
    "durata_s": 29,
    "link": "https://www.youtube.com/watch?v=IoMtwYu4Ro8",
-   "ore": 41.6,
-   "views_ora": 75053,
-   "views_giorno": 1801278,
+   "ore": 44.6,
+   "views_ora": 70724,
+   "views_giorno": 1697375,
    "media_canale": 7574033,
    "iscritti_canale": 8050000,
    "outlier": 0.4
@@ -693,14 +657,14 @@
    "canale_id": "UCIn1EsSr4rgSznqrKtteQgA",
    "pubblicato": "2026-11-19T01:49:21Z",
    "lingua": "en",
-   "views": 11065796,
-   "commenti": 518,
+   "views": 11078513,
+   "commenti": 519,
    "durata_s": 10,
    "link": "https://www.youtube.com/watch?v=iH0al0JWUWo",
-   "ore": 155.0,
-   "views_ora": 71384,
-   "views_giorno": 1713205,
-   "media_canale": 2448460,
+   "ore": 158.0,
+   "views_ora": 70108,
+   "views_giorno": 1682593,
+   "media_canale": 2447328,
    "iscritti_canale": 4920000,
    "outlier": 4.5
   },
@@ -711,16 +675,34 @@
    "canale_id": "UCqkhZ--fWGqRLbjXTk7PtGw",
    "pubblicato": "2026-11-23T22:30:37Z",
    "lingua": "en-US",
-   "views": 2619969,
-   "commenti": 3613,
+   "views": 2685124,
+   "commenti": 3688,
    "durata_s": 106,
    "link": "https://www.youtube.com/watch?v=t43of8CcujI",
-   "ore": 38.3,
-   "views_ora": 68351,
-   "views_giorno": 1640424,
-   "media_canale": 3847711,
-   "iscritti_canale": 839000,
+   "ore": 41.3,
+   "views_ora": 64964,
+   "views_giorno": 1559125,
+   "media_canale": 3820422,
+   "iscritti_canale": 843000,
    "outlier": 0.7
+  },
+  {
+   "id": "6_plF_EbyKQ",
+   "titolo": "ME QUEDO SIN GASOLINA EN GTA 6",
+   "canale": "DaniRep | +6 Vídeos Diarios De GTA 5 Online!",
+   "canale_id": "UCHIwQiZhIn6fm5b_IilqBbQ",
+   "pubblicato": "2026-11-23T18:30:08Z",
+   "lingua": "es-ES",
+   "views": 2859036,
+   "commenti": 568,
+   "durata_s": 30,
+   "link": "https://www.youtube.com/watch?v=6_plF_EbyKQ",
+   "ore": 45.3,
+   "views_ora": 63057,
+   "views_giorno": 1513357,
+   "media_canale": 577304,
+   "iscritti_canale": 14200000,
+   "outlier": 5.0
   },
   {
    "id": "Ok06cqF97zk",
@@ -729,16 +711,34 @@
    "canale_id": "UCC5QkDb2DId8r3oFwY171cw",
    "pubblicato": "2026-11-19T19:22:22Z",
    "lingua": "en",
-   "views": 8638933,
-   "commenti": 2307,
+   "views": 8664425,
+   "commenti": 2311,
    "durata_s": 57,
    "link": "https://www.youtube.com/watch?v=Ok06cqF97zk",
-   "ore": 137.5,
-   "views_ora": 62843,
-   "views_giorno": 1508231,
+   "ore": 140.5,
+   "views_ora": 61682,
+   "views_giorno": 1480357,
    "media_canale": 318739,
    "iscritti_canale": 62600,
-   "outlier": 27.1
+   "outlier": 27.2
+  },
+  {
+   "id": "XUUV0WRUPu8",
+   "titolo": "LA VERDAD DE MANDY EN GTA 6!",
+   "canale": "EdgarFtw",
+   "canale_id": "UCmvQN66w-eIp6aEpi3OoqJg",
+   "pubblicato": "2026-11-23T23:20:42Z",
+   "lingua": "es-MX",
+   "views": 2370351,
+   "commenti": 126,
+   "durata_s": 62,
+   "link": "https://www.youtube.com/watch?v=XUUV0WRUPu8",
+   "ore": 40.5,
+   "views_ora": 58530,
+   "views_giorno": 1404720,
+   "media_canale": 1135164,
+   "iscritti_canale": 4240000,
+   "outlier": 2.1
   },
   {
    "id": "9PvoMZMo5Yw",
@@ -747,34 +747,16 @@
    "canale_id": "UCIpJSUXbZKW68zW5dAlQoxQ",
    "pubblicato": "2026-11-19T08:00:29Z",
    "lingua": "id",
-   "views": 8699976,
+   "views": 8702216,
    "commenti": 391,
    "durata_s": 42,
    "link": "https://www.youtube.com/watch?v=9PvoMZMo5Yw",
-   "ore": 148.8,
-   "views_ora": 58454,
-   "views_giorno": 1402908,
+   "ore": 151.8,
+   "views_ora": 57314,
+   "views_giorno": 1375527,
    "media_canale": 1799892,
    "iscritti_canale": 491000,
    "outlier": 4.8
-  },
-  {
-   "id": "RPb92VswmKE",
-   "titolo": "Tu Padre Va al TACÓN del GTA 6👠🔥#comedia",
-   "canale": "YERRIKILLERXD",
-   "canale_id": "UCBmD4dNtecesIHGgQnI-l2A",
-   "pubblicato": "2026-11-23T20:52:41Z",
-   "lingua": "es-ES",
-   "views": 2153792,
-   "commenti": 109,
-   "durata_s": 21,
-   "link": "https://www.youtube.com/watch?v=RPb92VswmKE",
-   "ore": 40.0,
-   "views_ora": 53894,
-   "views_giorno": 1293461,
-   "media_canale": 3927375,
-   "iscritti_canale": 11000000,
-   "outlier": 0.5
   },
   {
    "id": "7pKeS99QTkY",
@@ -783,34 +765,52 @@
    "canale_id": "UC59jWhPazXYi8Ny4vake45A",
    "pubblicato": "2026-11-18T18:24:06Z",
    "lingua": "en",
-   "views": 8746181,
+   "views": 8747576,
    "commenti": 785,
    "durata_s": 82,
    "link": "https://www.youtube.com/watch?v=7pKeS99QTkY",
-   "ore": 162.4,
-   "views_ora": 53843,
-   "views_giorno": 1292223,
-   "media_canale": 695524,
+   "ore": 165.4,
+   "views_ora": 52874,
+   "views_giorno": 1268980,
+   "media_canale": 693803,
    "iscritti_canale": 394000,
    "outlier": 12.6
   },
   {
-   "id": "46ED_qLpPgU",
-   "titolo": "Smiti Ke Pass GTA 6 Kaise Aageya😳",
-   "canale": "Smiti Choudhury ",
-   "canale_id": "UCfZyOJ8zBqKQMbiQ3Q8VXGA",
-   "pubblicato": "2026-11-23T15:14:50Z",
-   "lingua": "hi",
-   "views": 2263800,
-   "commenti": 40,
-   "durata_s": 25,
-   "link": "https://www.youtube.com/watch?v=46ED_qLpPgU",
-   "ore": 45.6,
-   "views_ora": 49651,
-   "views_giorno": 1191626,
-   "media_canale": 13476766,
-   "iscritti_canale": 25700000,
-   "outlier": 0.2
+   "id": "w78rPw9KyJg",
+   "titolo": "Do you KNOW who lives there 😭 #GTA6 #Dexter",
+   "canale": "BucketJosh",
+   "canale_id": "UChEH_eKDZrOJjhcdzYjI4jA",
+   "pubblicato": "2026-11-18T22:42:41Z",
+   "lingua": "en",
+   "views": 6885518,
+   "commenti": 1369,
+   "durata_s": 26,
+   "link": "https://www.youtube.com/watch?v=w78rPw9KyJg",
+   "ore": 161.1,
+   "views_ora": 42732,
+   "views_giorno": 1025574,
+   "media_canale": 2476665,
+   "iscritti_canale": 2440000,
+   "outlier": 2.8
+  },
+  {
+   "id": "qnYBzKo4F3c",
+   "titolo": "TRYING TO STEAL A JET IN GTA 6✈️🔫‼️",
+   "canale": "ItssMrO",
+   "canale_id": "UCKEnDzt7VxpVXPkRHVv35nQ",
+   "pubblicato": "2026-11-18T22:59:09Z",
+   "lingua": "en-US",
+   "views": 6752955,
+   "commenti": 2067,
+   "durata_s": 92,
+   "link": "https://www.youtube.com/watch?v=qnYBzKo4F3c",
+   "ore": 160.9,
+   "views_ora": 41981,
+   "views_giorno": 1007545,
+   "media_canale": 395119,
+   "iscritti_canale": 1090000,
+   "outlier": 17.1
   },
   {
    "id": "YQsxP_YEFTQ",
@@ -819,34 +819,16 @@
    "canale_id": "UCMwJJL5FJFuTRT55ksbQ4GQ",
    "pubblicato": "2026-11-18T20:52:46Z",
    "lingua": "en",
-   "views": 4473237,
+   "views": 4474331,
    "commenti": 18366,
    "durata_s": 217,
    "link": "https://www.youtube.com/watch?v=YQsxP_YEFTQ",
-   "ore": 160.0,
-   "views_ora": 27964,
-   "views_giorno": 671145,
+   "ore": 163.0,
+   "views_ora": 27456,
+   "views_giorno": 658944,
    "media_canale": 813635,
    "iscritti_canale": 1900000,
    "outlier": 5.5
-  },
-  {
-   "id": "te3MymEzabk",
-   "titolo": "GTA 6's EXE HAS LEAKED — Already Being Tested on PC!",
-   "canale": "Drelvak",
-   "canale_id": "UCJEwBlpM2dvuaU7BmDqsKMQ",
-   "pubblicato": "2026-11-23T17:45:02Z",
-   "lingua": "en",
-   "views": 873268,
-   "commenti": 1988,
-   "durata_s": 231,
-   "link": "https://www.youtube.com/watch?v=te3MymEzabk",
-   "ore": 43.1,
-   "views_ora": 20266,
-   "views_giorno": 486378,
-   "media_canale": 21370,
-   "iscritti_canale": 11100,
-   "outlier": 40.9
   }
  ],
  "shorts_48h": [
@@ -857,16 +839,16 @@
    "canale_id": "UC0SSbU6Xuz9CTedhcUi6lVQ",
    "pubblicato": "2026-11-24T05:38:39Z",
    "lingua": "hi",
-   "views": 11400608,
-   "commenti": 206,
+   "views": 11640471,
+   "commenti": 212,
    "durata_s": 51,
    "link": "https://www.youtube.com/watch?v=PsgeDZfe4j0",
-   "ore": 31.2,
-   "views_ora": 365437,
-   "views_giorno": 8770479,
+   "ore": 34.2,
+   "views_ora": 340376,
+   "views_giorno": 8169017,
    "media_canale": 10902483,
    "iscritti_canale": 3520000,
-   "outlier": 1.0
+   "outlier": 1.1
   },
   {
    "id": "LI-iJgAqbkw",
@@ -875,16 +857,16 @@
    "canale_id": "UC0J96b3Up3JGzRnHxhrJMcw",
    "pubblicato": "2026-11-24T09:23:34Z",
    "lingua": "uk",
-   "views": 6179745,
-   "commenti": 52,
+   "views": 6312998,
+   "commenti": 56,
    "durata_s": 9,
    "link": "https://www.youtube.com/watch?v=LI-iJgAqbkw",
-   "ore": 27.4,
-   "views_ora": 225139,
-   "views_giorno": 5403329,
-   "media_canale": 739756,
-   "iscritti_canale": 466000,
-   "outlier": 8.4
+   "ore": 30.5,
+   "views_ora": 207322,
+   "views_giorno": 4975717,
+   "media_canale": 738769,
+   "iscritti_canale": 467000,
+   "outlier": 8.5
   },
   {
    "id": "gnCnc5bxViQ",
@@ -893,13 +875,13 @@
    "canale_id": "UClAa0YLrW4MaIKOWaeZR9Xg",
    "pubblicato": "2026-11-23T22:30:21Z",
    "lingua": "en",
-   "views": 8264641,
-   "commenti": 1080,
+   "views": 8393027,
+   "commenti": 1095,
    "durata_s": 10,
    "link": "https://www.youtube.com/watch?v=gnCnc5bxViQ",
-   "ore": 38.3,
-   "views_ora": 215587,
-   "views_giorno": 5174084,
+   "ore": 41.3,
+   "views_ora": 203038,
+   "views_giorno": 4872912,
    "media_canale": 5551116,
    "iscritti_canale": 10600000,
    "outlier": 1.5
@@ -911,13 +893,13 @@
    "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
    "pubblicato": "2026-11-23T23:26:41Z",
    "lingua": "en",
-   "views": 7690900,
-   "commenti": 546,
+   "views": 7743046,
+   "commenti": 550,
    "durata_s": 34,
    "link": "https://www.youtube.com/watch?v=wzjoW7wU6z4",
-   "ore": 37.4,
-   "views_ora": 205657,
-   "views_giorno": 4935777,
+   "ore": 40.4,
+   "views_ora": 191667,
+   "views_giorno": 4600019,
    "media_canale": 2097764,
    "iscritti_canale": 4850000,
    "outlier": 3.7
@@ -929,16 +911,34 @@
    "canale_id": "UCPYXgQbYkOMpjbW8ONVhQng",
    "pubblicato": "2026-11-23T22:00:37Z",
    "lingua": "es",
-   "views": 7610356,
-   "commenti": 16717,
+   "views": 7690331,
+   "commenti": 17040,
    "durata_s": 99,
    "link": "https://www.youtube.com/watch?v=NrQgEWc-KhI",
-   "ore": 38.8,
-   "views_ora": 195986,
-   "views_giorno": 4703665,
+   "ore": 41.8,
+   "views_ora": 183835,
+   "views_giorno": 4412041,
    "media_canale": 1854484,
-   "iscritti_canale": 3460000,
+   "iscritti_canale": 3470000,
    "outlier": 4.1
+  },
+  {
+   "id": "5m-Xi8lgvWY",
+   "titolo": "GTA VI MENUJU 100% APA YANG AKAN TERJADI KEPADA JASON DAN LUCIA.... GTA 6 GAMEPLAY #11",
+   "canale": "Windah Basudara",
+   "canale_id": "UCoIiiHof6BJ85PLuLkuxuhw",
+   "pubblicato": "2026-11-25T11:08:30Z",
+   "lingua": "id",
+   "views": 844120,
+   "commenti": 0,
+   "durata_s": 0,
+   "link": "https://www.youtube.com/watch?v=5m-Xi8lgvWY",
+   "ore": 4.7,
+   "views_ora": 179547,
+   "views_giorno": 4309127,
+   "media_canale": 954523,
+   "iscritti_canale": 21100000,
+   "outlier": 0.9
   },
   {
    "id": "wI-3hGr1QHA",
@@ -947,13 +947,13 @@
    "canale_id": "UC9tYJpGCSkzDt4HkPC4BtkA",
    "pubblicato": "2026-11-24T19:00:06Z",
    "lingua": "en-US",
-   "views": 2953185,
-   "commenti": 286,
+   "views": 3257849,
+   "commenti": 310,
    "durata_s": 28,
    "link": "https://www.youtube.com/watch?v=wI-3hGr1QHA",
-   "ore": 17.8,
-   "views_ora": 165540,
-   "views_giorno": 3972956,
+   "ore": 20.8,
+   "views_ora": 156316,
+   "views_giorno": 3751591,
    "media_canale": 7574033,
    "iscritti_canale": 8050000,
    "outlier": 0.4
@@ -965,34 +965,16 @@
    "canale_id": "UCLZefG8N0Si_GUxIAwji6uQ",
    "pubblicato": "2026-11-23T19:32:40Z",
    "lingua": "es",
-   "views": 6323899,
-   "commenti": 3548,
+   "views": 6366006,
+   "commenti": 3584,
    "durata_s": 50,
    "link": "https://www.youtube.com/watch?v=TTkoN9Ulbfk",
-   "ore": 41.3,
-   "views_ora": 153132,
-   "views_giorno": 3675177,
-   "media_canale": 5637807,
+   "ore": 44.3,
+   "views_ora": 143707,
+   "views_giorno": 3448960,
+   "media_canale": 5641655,
    "iscritti_canale": 7590000,
    "outlier": 1.1
-  },
-  {
-   "id": "yuw8_flkzEk",
-   "titolo": "Roblox GTA 6 Bundle Troll 😨",
-   "canale": "ItsSprinkles",
-   "canale_id": "UCZsbCEAQ9_xSLStB32RWbeg",
-   "pubblicato": "2026-11-23T14:43:33Z",
-   "lingua": "en",
-   "views": 6789172,
-   "commenti": 3463,
-   "durata_s": 33,
-   "link": "https://www.youtube.com/watch?v=yuw8_flkzEk",
-   "ore": 46.1,
-   "views_ora": 147221,
-   "views_giorno": 3533301,
-   "media_canale": 1677922,
-   "iscritti_canale": 989000,
-   "outlier": 4.0
   },
   {
    "id": "xVx-k3hXTlA",
@@ -1001,13 +983,13 @@
    "canale_id": "UCRFSF9WS_g0wqm32kjJ-jNw",
    "pubblicato": "2026-11-23T23:27:05Z",
    "lingua": "en",
-   "views": 5036155,
-   "commenti": 7480,
+   "views": 5103859,
+   "commenti": 7592,
    "durata_s": 62,
    "link": "https://www.youtube.com/watch?v=xVx-k3hXTlA",
-   "ore": 37.4,
-   "views_ora": 134693,
-   "views_giorno": 3232622,
+   "ore": 40.4,
+   "views_ora": 126359,
+   "views_giorno": 3032621,
    "media_canale": 2445740,
    "iscritti_canale": 2370000,
    "outlier": 2.1
@@ -1019,34 +1001,16 @@
    "canale_id": "UCjAws9tKAZbnYNYkryZwC1Q",
    "pubblicato": "2026-11-24T01:14:15Z",
    "lingua": "en-GB",
-   "views": 4581583,
-   "commenti": 98,
+   "views": 4764880,
+   "commenti": 100,
    "durata_s": 17,
    "link": "https://www.youtube.com/watch?v=5q7dwXo3R6w",
-   "ore": 35.6,
-   "views_ora": 128682,
-   "views_giorno": 3088370,
+   "ore": 38.6,
+   "views_ora": 123425,
+   "views_giorno": 2962193,
    "media_canale": 1464482,
    "iscritti_canale": 113000,
-   "outlier": 3.1
-  },
-  {
-   "id": "j-px4QBZ-0o",
-   "titolo": "si el personaje come demasiado en #gta6",
-   "canale": "gta2025",
-   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
-   "pubblicato": "2026-11-23T18:19:06Z",
-   "lingua": "en",
-   "views": 4893173,
-   "commenti": 676,
-   "durata_s": 41,
-   "link": "https://www.youtube.com/watch?v=j-px4QBZ-0o",
-   "ore": 42.5,
-   "views_ora": 115071,
-   "views_giorno": 2761705,
-   "media_canale": 2097764,
-   "iscritti_canale": 4850000,
-   "outlier": 2.3
+   "outlier": 3.3
   },
   {
    "id": "tKEb4KDakDI",
@@ -1055,16 +1019,34 @@
    "canale_id": "UC0tVPP2WGBUh1r9cpYkPQQw",
    "pubblicato": "2026-11-23T16:00:08Z",
    "lingua": "pt-BR",
-   "views": 4944532,
-   "commenti": 397,
+   "views": 5225465,
+   "commenti": 416,
    "durata_s": 46,
    "link": "https://www.youtube.com/watch?v=tKEb4KDakDI",
-   "ore": 44.8,
-   "views_ora": 110273,
-   "views_giorno": 2646543,
-   "media_canale": 757052,
+   "ore": 47.8,
+   "views_ora": 109226,
+   "views_giorno": 2621425,
+   "media_canale": 756440,
    "iscritti_canale": 4070000,
-   "outlier": 6.5
+   "outlier": 6.9
+  },
+  {
+   "id": "j-px4QBZ-0o",
+   "titolo": "si el personaje come demasiado en #gta6",
+   "canale": "gta2025",
+   "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
+   "pubblicato": "2026-11-23T18:19:06Z",
+   "lingua": "en",
+   "views": 4916815,
+   "commenti": 684,
+   "durata_s": 41,
+   "link": "https://www.youtube.com/watch?v=j-px4QBZ-0o",
+   "ore": 45.5,
+   "views_ora": 108003,
+   "views_giorno": 2592076,
+   "media_canale": 2097764,
+   "iscritti_canale": 4850000,
+   "outlier": 2.3
   },
   {
    "id": "xEIkW7NvNIg",
@@ -1073,16 +1055,16 @@
    "canale_id": "UCDcsKrsuHgy55hH8V4_elOQ",
    "pubblicato": "2026-11-23T23:03:03Z",
    "lingua": "en",
-   "views": 4004990,
-   "commenti": 1286,
+   "views": 4171261,
+   "commenti": 1345,
    "durata_s": 61,
    "link": "https://www.youtube.com/watch?v=xEIkW7NvNIg",
-   "ore": 37.8,
-   "views_ora": 105979,
-   "views_giorno": 2543486,
+   "ore": 40.8,
+   "views_ora": 102256,
+   "views_giorno": 2454151,
    "media_canale": 1174746,
-   "iscritti_canale": 15500,
-   "outlier": 3.4
+   "iscritti_canale": 15700,
+   "outlier": 3.6
   },
   {
    "id": "0UhuXIYn4YA",
@@ -1091,13 +1073,13 @@
    "canale_id": "UCi1Tln5CFg1yExpz8djyxjA",
    "pubblicato": "2026-11-23T20:47:04Z",
    "lingua": "en",
-   "views": 4148574,
-   "commenti": 626,
+   "views": 4168900,
+   "commenti": 633,
    "durata_s": 34,
    "link": "https://www.youtube.com/watch?v=0UhuXIYn4YA",
-   "ore": 40.1,
-   "views_ora": 103567,
-   "views_giorno": 2485606,
+   "ore": 43.1,
+   "views_ora": 96819,
+   "views_giorno": 2323661,
    "media_canale": 2097764,
    "iscritti_canale": 4850000,
    "outlier": 2.0
@@ -1109,34 +1091,16 @@
    "canale_id": "UCIn1EsSr4rgSznqrKtteQgA",
    "pubblicato": "2026-11-24T00:37:38Z",
    "lingua": "en",
-   "views": 3399697,
-   "commenti": 1132,
+   "views": 3536387,
+   "commenti": 1147,
    "durata_s": 7,
    "link": "https://www.youtube.com/watch?v=SrZs817KrWE",
-   "ore": 36.2,
-   "views_ora": 93878,
-   "views_giorno": 2253061,
-   "media_canale": 2448460,
+   "ore": 39.2,
+   "views_ora": 90178,
+   "views_giorno": 2164261,
+   "media_canale": 2447328,
    "iscritti_canale": 4920000,
    "outlier": 1.4
-  },
-  {
-   "id": "w2V6DI6Jkmw",
-   "titolo": "Map of all GTA 6 Players",
-   "canale": "GelNox",
-   "canale_id": "UC_MY4n95Q-2cQm4NmCoX5Yw",
-   "pubblicato": "2026-11-23T19:44:18Z",
-   "lingua": "en",
-   "views": 3685793,
-   "commenti": 1587,
-   "durata_s": 14,
-   "link": "https://www.youtube.com/watch?v=w2V6DI6Jkmw",
-   "ore": 41.1,
-   "views_ora": 89672,
-   "views_giorno": 2152128,
-   "media_canale": 1717517,
-   "iscritti_canale": 1700000,
-   "outlier": 2.1
   },
   {
    "id": "JRnE7cCk57M",
@@ -1145,16 +1109,34 @@
    "canale_id": "UC5mjSCf-5voLVpqscTl4dbg",
    "pubblicato": "2026-11-23T16:24:55Z",
    "lingua": "hi",
-   "views": 3928191,
-   "commenti": 182,
+   "views": 4031837,
+   "commenti": 184,
    "durata_s": 128,
    "link": "https://www.youtube.com/watch?v=JRnE7cCk57M",
-   "ore": 44.4,
-   "views_ora": 88421,
-   "views_giorno": 2122099,
+   "ore": 47.4,
+   "views_ora": 85010,
+   "views_giorno": 2040241,
    "media_canale": 1430667,
    "iscritti_canale": 158000,
-   "outlier": 2.7
+   "outlier": 2.8
+  },
+  {
+   "id": "w2V6DI6Jkmw",
+   "titolo": "Map of all GTA 6 Players",
+   "canale": "GelNox",
+   "canale_id": "UC_MY4n95Q-2cQm4NmCoX5Yw",
+   "pubblicato": "2026-11-23T19:44:18Z",
+   "lingua": "en",
+   "views": 3742569,
+   "commenti": 1607,
+   "durata_s": 14,
+   "link": "https://www.youtube.com/watch?v=w2V6DI6Jkmw",
+   "ore": 44.1,
+   "views_ora": 84856,
+   "views_giorno": 2036554,
+   "media_canale": 1717517,
+   "iscritti_canale": 1700000,
+   "outlier": 2.2
   },
   {
    "id": "tNIHQAgwAy8",
@@ -1163,16 +1145,16 @@
    "canale_id": "UCg0aloZk589SKIXxKBn_Edg",
    "pubblicato": "2026-11-23T23:00:32Z",
    "lingua": "en",
-   "views": 3081874,
-   "commenti": 279,
+   "views": 3316847,
+   "commenti": 295,
    "durata_s": 23,
    "link": "https://www.youtube.com/watch?v=tNIHQAgwAy8",
-   "ore": 37.8,
-   "views_ora": 81461,
-   "views_giorno": 1955064,
+   "ore": 40.8,
+   "views_ora": 81227,
+   "views_giorno": 1949454,
    "media_canale": 1046339,
    "iscritti_canale": 1900000,
-   "outlier": 2.9
+   "outlier": 3.2
   },
   {
    "id": "IoMtwYu4Ro8",
@@ -1181,13 +1163,13 @@
    "canale_id": "UC9tYJpGCSkzDt4HkPC4BtkA",
    "pubblicato": "2026-11-23T19:15:12Z",
    "lingua": "en-US",
-   "views": 3121318,
-   "commenti": 668,
+   "views": 3153562,
+   "commenti": 677,
    "durata_s": 29,
    "link": "https://www.youtube.com/watch?v=IoMtwYu4Ro8",
-   "ore": 41.6,
-   "views_ora": 75053,
-   "views_giorno": 1801278,
+   "ore": 44.6,
+   "views_ora": 70724,
+   "views_giorno": 1697375,
    "media_canale": 7574033,
    "iscritti_canale": 8050000,
    "outlier": 0.4
@@ -1199,70 +1181,52 @@
    "canale_id": "UCqkhZ--fWGqRLbjXTk7PtGw",
    "pubblicato": "2026-11-23T22:30:37Z",
    "lingua": "en-US",
-   "views": 2619969,
-   "commenti": 3613,
+   "views": 2685124,
+   "commenti": 3688,
    "durata_s": 106,
    "link": "https://www.youtube.com/watch?v=t43of8CcujI",
-   "ore": 38.3,
-   "views_ora": 68351,
-   "views_giorno": 1640424,
-   "media_canale": 3847711,
-   "iscritti_canale": 839000,
+   "ore": 41.3,
+   "views_ora": 64964,
+   "views_giorno": 1559125,
+   "media_canale": 3820422,
+   "iscritti_canale": 843000,
    "outlier": 0.7
   },
   {
-   "id": "RPb92VswmKE",
-   "titolo": "Tu Padre Va al TACÓN del GTA 6👠🔥#comedia",
-   "canale": "YERRIKILLERXD",
-   "canale_id": "UCBmD4dNtecesIHGgQnI-l2A",
-   "pubblicato": "2026-11-23T20:52:41Z",
+   "id": "6_plF_EbyKQ",
+   "titolo": "ME QUEDO SIN GASOLINA EN GTA 6",
+   "canale": "DaniRep | +6 Vídeos Diarios De GTA 5 Online!",
+   "canale_id": "UCHIwQiZhIn6fm5b_IilqBbQ",
+   "pubblicato": "2026-11-23T18:30:08Z",
    "lingua": "es-ES",
-   "views": 2153792,
-   "commenti": 109,
-   "durata_s": 21,
-   "link": "https://www.youtube.com/watch?v=RPb92VswmKE",
-   "ore": 40.0,
-   "views_ora": 53894,
-   "views_giorno": 1293461,
-   "media_canale": 3927375,
-   "iscritti_canale": 11000000,
-   "outlier": 0.5
+   "views": 2859036,
+   "commenti": 568,
+   "durata_s": 30,
+   "link": "https://www.youtube.com/watch?v=6_plF_EbyKQ",
+   "ore": 45.3,
+   "views_ora": 63057,
+   "views_giorno": 1513357,
+   "media_canale": 577304,
+   "iscritti_canale": 14200000,
+   "outlier": 5.0
   },
   {
-   "id": "46ED_qLpPgU",
-   "titolo": "Smiti Ke Pass GTA 6 Kaise Aageya😳",
-   "canale": "Smiti Choudhury ",
-   "canale_id": "UCfZyOJ8zBqKQMbiQ3Q8VXGA",
-   "pubblicato": "2026-11-23T15:14:50Z",
-   "lingua": "hi",
-   "views": 2263800,
-   "commenti": 40,
-   "durata_s": 25,
-   "link": "https://www.youtube.com/watch?v=46ED_qLpPgU",
-   "ore": 45.6,
-   "views_ora": 49651,
-   "views_giorno": 1191626,
-   "media_canale": 13476766,
-   "iscritti_canale": 25700000,
-   "outlier": 0.2
-  },
-  {
-   "id": "te3MymEzabk",
-   "titolo": "GTA 6's EXE HAS LEAKED — Already Being Tested on PC!",
-   "canale": "Drelvak",
-   "canale_id": "UCJEwBlpM2dvuaU7BmDqsKMQ",
-   "pubblicato": "2026-11-23T17:45:02Z",
-   "lingua": "en",
-   "views": 873268,
-   "commenti": 1988,
-   "durata_s": 231,
-   "link": "https://www.youtube.com/watch?v=te3MymEzabk",
-   "ore": 43.1,
-   "views_ora": 20266,
-   "views_giorno": 486378,
-   "media_canale": 21370,
-   "iscritti_canale": 11100,
-   "outlier": 40.9
+   "id": "XUUV0WRUPu8",
+   "titolo": "LA VERDAD DE MANDY EN GTA 6!",
+   "canale": "EdgarFtw",
+   "canale_id": "UCmvQN66w-eIp6aEpi3OoqJg",
+   "pubblicato": "2026-11-23T23:20:42Z",
+   "lingua": "es-MX",
+   "views": 2370351,
+   "commenti": 126,
+   "durata_s": 62,
+   "link": "https://www.youtube.com/watch?v=XUUV0WRUPu8",
+   "ore": 40.5,
+   "views_ora": 58530,
+   "views_giorno": 1404720,
+   "media_canale": 1135164,
+   "iscritti_canale": 4240000,
+   "outlier": 2.1
   }
  ],
  "puro_72h": [
@@ -1273,15 +1237,15 @@
    "canale_id": "UC9q7SVpXWT-ARQQreqyqRug",
    "pubblicato": "2026-11-22T23:36:26Z",
    "lingua": "",
-   "views": 1771588,
-   "commenti": 1090,
+   "views": 1797035,
+   "commenti": 1103,
    "durata_s": 2076,
    "link": "https://www.youtube.com/watch?v=MqFGfn22BmY",
-   "ore": 61.2,
-   "views_ora": 28931,
-   "views_giorno": 694353,
-   "media_canale": 227954,
-   "iscritti_canale": 502000,
+   "ore": 64.2,
+   "views_ora": 27976,
+   "views_giorno": 671414,
+   "media_canale": 229675,
+   "iscritti_canale": 503000,
    "outlier": 7.8
   },
   {
@@ -1291,34 +1255,34 @@
    "canale_id": "UCUAt7E-ilwnSjpxYH_mLTvA",
    "pubblicato": "2026-11-23T01:37:06Z",
    "lingua": "en-US",
-   "views": 848933,
-   "commenti": 7940,
+   "views": 852605,
+   "commenti": 7975,
    "durata_s": 459,
    "link": "https://www.youtube.com/watch?v=QQ8mlZPXgZQ",
-   "ore": 59.2,
-   "views_ora": 14335,
-   "views_giorno": 344028,
-   "media_canale": 113869,
-   "iscritti_canale": 1910,
-   "outlier": 7.5
+   "ore": 62.2,
+   "views_ora": 13702,
+   "views_giorno": 328849,
+   "media_canale": 138362,
+   "iscritti_canale": 1940,
+   "outlier": 6.2
   },
   {
-   "id": "VFXleoAq6VA",
-   "titolo": "GTA 6 Walkthrough Gameplay Part 5 - VICE CITY (GRAND THEFT AUTO 6)",
-   "canale": "theRadBrad",
-   "canale_id": "UCpqXJOEqGS-TCnazcHCo0rA",
-   "pubblicato": "2026-11-22T15:00:15Z",
+   "id": "Abz2g5VHL5Q",
+   "titolo": "🚨 WELCOME TO VICE CITY!! | Playing GTA 6 Live for the FIRST TIME! 🌴🔥#shorts  #shortsfeed #gta6",
+   "canale": "D s",
+   "canale_id": "UCdB8ST7iiv6OmR9EA7SlkIw",
+   "pubblicato": "2026-11-23T07:00:57Z",
    "lingua": "en",
-   "views": 862003,
-   "commenti": 1493,
-   "durata_s": 4869,
-   "link": "https://www.youtube.com/watch?v=VFXleoAq6VA",
-   "ore": 69.8,
-   "views_ora": 12343,
-   "views_giorno": 296233,
-   "media_canale": 740734,
-   "iscritti_canale": 14100000,
-   "outlier": 1.2
+   "views": 671395,
+   "commenti": 0,
+   "durata_s": 10508,
+   "link": "https://www.youtube.com/watch?v=Abz2g5VHL5Q",
+   "ore": 56.8,
+   "views_ora": 11815,
+   "views_giorno": 283552,
+   "media_canale": 94552,
+   "iscritti_canale": 17600,
+   "outlier": 7.1
   },
   {
    "id": "jYy61uq9-_g",
@@ -1327,16 +1291,16 @@
    "canale_id": "UCBrY2UkXYINiBW_-Zj-jsew",
    "pubblicato": "2026-11-23T20:19:38Z",
    "lingua": "en-US",
-   "views": 442337,
-   "commenti": 433,
+   "views": 465527,
+   "commenti": 461,
    "durata_s": 933,
    "link": "https://www.youtube.com/watch?v=jYy61uq9-_g",
-   "ore": 40.5,
-   "views_ora": 10918,
-   "views_giorno": 262034,
+   "ore": 43.5,
+   "views_ora": 10698,
+   "views_giorno": 256749,
    "media_canale": 38849,
    "iscritti_canale": 468000,
-   "outlier": 11.4
+   "outlier": 12.0
   },
   {
    "id": "yuMlRZAEOW0",
@@ -1345,34 +1309,16 @@
    "canale_id": "UC9q7SVpXWT-ARQQreqyqRug",
    "pubblicato": "2026-11-23T23:03:41Z",
    "lingua": "en",
-   "views": 339195,
-   "commenti": 365,
+   "views": 347643,
+   "commenti": 373,
    "durata_s": 2192,
    "link": "https://www.youtube.com/watch?v=yuMlRZAEOW0",
-   "ore": 37.8,
-   "views_ora": 8978,
-   "views_giorno": 215476,
-   "media_canale": 227954,
-   "iscritti_canale": 502000,
+   "ore": 40.8,
+   "views_ora": 8524,
+   "views_giorno": 204588,
+   "media_canale": 229675,
+   "iscritti_canale": 503000,
    "outlier": 1.5
-  },
-  {
-   "id": "EUvMbxuNTqA",
-   "titolo": "GTA 6 - Lucia Gets Kidnapped by a Serial Killer",
-   "canale": "Shirrako",
-   "canale_id": "UC7eAfUjR9gdIjoaoQaS0W-A",
-   "pubblicato": "2026-11-24T20:45:22Z",
-   "lingua": "en",
-   "views": 136487,
-   "commenti": 152,
-   "durata_s": 1228,
-   "link": "https://www.youtube.com/watch?v=EUvMbxuNTqA",
-   "ore": 16.1,
-   "views_ora": 8485,
-   "views_giorno": 203645,
-   "media_canale": 176404,
-   "iscritti_canale": 2630000,
-   "outlier": 0.8
   },
   {
    "id": "bXmoalCsY74",
@@ -1381,34 +1327,34 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-24T21:28:49Z",
    "lingua": "en",
-   "views": 108309,
-   "commenti": 11,
+   "views": 109300,
+   "commenti": 15,
    "durata_s": 40120,
    "link": "https://www.youtube.com/watch?v=bXmoalCsY74",
-   "ore": 15.4,
-   "views_ora": 7051,
-   "views_giorno": 169221,
-   "media_canale": 424104,
+   "ore": 18.4,
+   "views_ora": 5952,
+   "views_giorno": 142854,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.3
   },
   {
-   "id": "D9u9raVsKws",
-   "titolo": "Grand Theft Auto VI - ALL Weapons & Their Real Names + Origins",
-   "canale": "BEQA",
-   "canale_id": "UCofG6ClpF5xb1PC2vNq6ASQ",
-   "pubblicato": "2026-11-23T12:23:32Z",
-   "lingua": "en",
-   "views": 319631,
-   "commenti": 794,
-   "durata_s": 1020,
-   "link": "https://www.youtube.com/watch?v=D9u9raVsKws",
-   "ore": 48.4,
-   "views_ora": 6597,
-   "views_giorno": 158334,
-   "media_canale": 94682,
-   "iscritti_canale": 91500,
-   "outlier": 3.4
+   "id": "Mk9MAIth17A",
+   "titolo": "GTA 6 Trolling NPCs on Vice Beach | Crazy NPC Reactions PS5 4K",
+   "canale": "Quest Route",
+   "canale_id": "UCS2e-S8o5JQjT5LhFNUbvKw",
+   "pubblicato": "2026-11-25T01:03:47Z",
+   "lingua": "en-US",
+   "views": 87058,
+   "commenti": 90,
+   "durata_s": 803,
+   "link": "https://www.youtube.com/watch?v=Mk9MAIth17A",
+   "ore": 14.8,
+   "views_ora": 5890,
+   "views_giorno": 141366,
+   "media_canale": 324,
+   "iscritti_canale": 4850,
+   "outlier": 268.7
   },
   {
    "id": "Zg2gz3VJHf4",
@@ -1417,16 +1363,16 @@
    "canale_id": "UCxeGDA6ryJktEsCbMSeGpIA",
    "pubblicato": "2026-11-23T13:00:19Z",
    "lingua": "en",
-   "views": 254403,
+   "views": 265939,
    "commenti": 69,
    "durata_s": 3271,
    "link": "https://www.youtube.com/watch?v=Zg2gz3VJHf4",
-   "ore": 47.8,
-   "views_ora": 5318,
-   "views_giorno": 127637,
-   "media_canale": 70024,
+   "ore": 50.8,
+   "views_ora": 5231,
+   "views_giorno": 125547,
+   "media_canale": 70000,
    "iscritti_canale": 505000,
-   "outlier": 3.6
+   "outlier": 3.8
   },
   {
    "id": "P9l-m-OGB0g",
@@ -1435,13 +1381,13 @@
    "canale_id": "UCLTbGGTv8pQPoIAJKSWt9Sg",
    "pubblicato": "2026-11-22T19:00:21Z",
    "lingua": "en-US",
-   "views": 346661,
+   "views": 347104,
    "commenti": 429,
    "durata_s": 1196,
    "link": "https://www.youtube.com/watch?v=P9l-m-OGB0g",
-   "ore": 65.8,
-   "views_ora": 5266,
-   "views_giorno": 126373,
+   "ore": 68.8,
+   "views_ora": 5042,
+   "views_giorno": 121017,
    "media_canale": 28291,
    "iscritti_canale": 2540,
    "outlier": 12.3
@@ -1453,34 +1399,34 @@
    "canale_id": "UCZd5FpGgzQ7aCWTT3xGX4OQ",
    "pubblicato": "2026-11-23T20:33:51Z",
    "lingua": "en-GB",
-   "views": 196292,
+   "views": 196308,
    "commenti": 1,
    "durata_s": 4754,
    "link": "https://www.youtube.com/watch?v=8yVd6d7_0K8",
-   "ore": 40.3,
-   "views_ora": 4874,
-   "views_giorno": 116965,
-   "media_canale": 35659,
+   "ore": 43.3,
+   "views_ora": 4536,
+   "views_giorno": 108861,
+   "media_canale": 35657,
    "iscritti_canale": 1270000,
    "outlier": 5.5
   },
   {
-   "id": "QiqAVJggHDs",
-   "titolo": "How to Rob Bank Vaults in GTA 6 ($100K+) #shorts",
-   "canale": "BearPig",
-   "canale_id": "UCaw1W4s20JbtmzcpeIhI78Q",
-   "pubblicato": "2026-11-22T15:34:25Z",
+   "id": "4t6I6S0JNDo",
+   "titolo": "GTA 6 - 100% Walkthrough Part 8 | 4K Livestream [No Commentary]",
+   "canale": "GTA Series Videos",
+   "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
+   "pubblicato": "2026-11-25T01:54:30Z",
    "lingua": "en",
-   "views": 283806,
-   "commenti": 103,
-   "durata_s": 95,
-   "link": "https://www.youtube.com/watch?v=QiqAVJggHDs",
-   "ore": 69.3,
-   "views_ora": 4097,
-   "views_giorno": 98334,
-   "media_canale": 27946,
-   "iscritti_canale": 244000,
-   "outlier": 10.2
+   "views": 59891,
+   "commenti": 0,
+   "durata_s": 0,
+   "link": "https://www.youtube.com/watch?v=4t6I6S0JNDo",
+   "ore": 13.9,
+   "views_ora": 4298,
+   "views_giorno": 103151,
+   "media_canale": 424038,
+   "iscritti_canale": 4160000,
+   "outlier": 0.1
   },
   {
    "id": "srvYZwYR7K8",
@@ -1489,16 +1435,16 @@
    "canale_id": "UCKThXzHZ351-auVmUFWT36Q",
    "pubblicato": "2026-11-22T21:45:11Z",
    "lingua": "en-US",
-   "views": 248697,
-   "commenti": 111,
+   "views": 255984,
+   "commenti": 117,
    "durata_s": 124119,
    "link": "https://www.youtube.com/watch?v=srvYZwYR7K8",
-   "ore": 63.1,
-   "views_ora": 3942,
-   "views_giorno": 94609,
-   "media_canale": 57847,
+   "ore": 66.1,
+   "views_ora": 3873,
+   "views_giorno": 92958,
+   "media_canale": 57832,
    "iscritti_canale": 893000,
-   "outlier": 4.3
+   "outlier": 4.4
   },
   {
    "id": "5TirWZol7sM",
@@ -1507,14 +1453,14 @@
    "canale_id": "UC7eAfUjR9gdIjoaoQaS0W-A",
    "pubblicato": "2026-11-22T20:00:00Z",
    "lingua": "en",
-   "views": 253744,
-   "commenti": 511,
+   "views": 255373,
+   "commenti": 515,
    "durata_s": 586,
    "link": "https://www.youtube.com/watch?v=5TirWZol7sM",
-   "ore": 64.8,
-   "views_ora": 3913,
-   "views_giorno": 93919,
-   "media_canale": 176404,
+   "ore": 67.8,
+   "views_ora": 3764,
+   "views_giorno": 90340,
+   "media_canale": 176390,
    "iscritti_canale": 2630000,
    "outlier": 1.4
   },
@@ -1525,14 +1471,14 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-23T21:49:11Z",
    "lingua": "en",
-   "views": 144506,
+   "views": 144868,
    "commenti": 16,
    "durata_s": 41034,
    "link": "https://www.youtube.com/watch?v=n59Ic2OiPng",
-   "ore": 39.0,
-   "views_ora": 3703,
-   "views_giorno": 88877,
-   "media_canale": 424104,
+   "ore": 42.0,
+   "views_ora": 3447,
+   "views_giorno": 82736,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.3
   },
@@ -1543,34 +1489,16 @@
    "canale_id": "UCu22OwNLoiCTfqR4HC76cvA",
    "pubblicato": "2026-11-24T04:00:00Z",
    "lingua": "en",
-   "views": 91110,
-   "commenti": 221,
+   "views": 97124,
+   "commenti": 235,
    "durata_s": 255,
    "link": "https://www.youtube.com/watch?v=SnZdzsB87gg",
-   "ore": 32.8,
-   "views_ora": 2774,
-   "views_giorno": 66582,
+   "ore": 35.8,
+   "views_ora": 2710,
+   "views_giorno": 65033,
    "media_canale": 68738,
    "iscritti_canale": 572000,
-   "outlier": 1.3
-  },
-  {
-   "id": "45w50fValJM",
-   "titolo": "GTA 6 Jason Brings a Bat to the Beach | Funny NPC Reactions & Physics PS5 4K",
-   "canale": "npcunion",
-   "canale_id": "UChks7NdBIjNDtqYqe3g5dhg",
-   "pubblicato": "2026-11-24T20:00:28Z",
-   "lingua": "en",
-   "views": 45976,
-   "commenti": 40,
-   "durata_s": 827,
-   "link": "https://www.youtube.com/watch?v=45w50fValJM",
-   "ore": 16.8,
-   "views_ora": 2731,
-   "views_giorno": 65549,
-   "media_canale": 18293,
-   "iscritti_canale": 2680,
-   "outlier": 2.5
+   "outlier": 1.4
   },
   {
    "id": "5owTdh5xlMo",
@@ -1579,14 +1507,14 @@
    "canale_id": "UC7eAfUjR9gdIjoaoQaS0W-A",
    "pubblicato": "2026-11-22T18:00:11Z",
    "lingua": "en",
-   "views": 173115,
-   "commenti": 202,
+   "views": 174091,
+   "commenti": 205,
    "durata_s": 213,
    "link": "https://www.youtube.com/watch?v=5owTdh5xlMo",
-   "ore": 66.8,
-   "views_ora": 2590,
-   "views_giorno": 62161,
-   "media_canale": 176404,
+   "ore": 69.8,
+   "views_ora": 2493,
+   "views_giorno": 59825,
+   "media_canale": 176390,
    "iscritti_canale": 2630000,
    "outlier": 1.0
   },
@@ -1597,14 +1525,14 @@
    "canale_id": "UC7eAfUjR9gdIjoaoQaS0W-A",
    "pubblicato": "2026-11-23T09:00:20Z",
    "lingua": "en",
-   "views": 133372,
-   "commenti": 331,
+   "views": 134915,
+   "commenti": 332,
    "durata_s": 488,
    "link": "https://www.youtube.com/watch?v=uCyi5F7jC0g",
-   "ore": 51.8,
-   "views_ora": 2573,
-   "views_giorno": 61751,
-   "media_canale": 176404,
+   "ore": 54.8,
+   "views_ora": 2460,
+   "views_giorno": 59046,
+   "media_canale": 176390,
    "iscritti_canale": 2630000,
    "outlier": 0.8
   },
@@ -1615,16 +1543,34 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-22T21:38:23Z",
    "lingua": "en",
-   "views": 161944,
+   "views": 162347,
    "commenti": 35,
    "durata_s": 40414,
    "link": "https://www.youtube.com/watch?v=zbSqHOPuxg4",
-   "ore": 63.2,
-   "views_ora": 2562,
-   "views_giorno": 61496,
-   "media_canale": 424104,
+   "ore": 66.2,
+   "views_ora": 2452,
+   "views_giorno": 58854,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.4
+  },
+  {
+   "id": "45w50fValJM",
+   "titolo": "GTA 6 Jason Brings a Bat to the Beach | Funny NPC Reactions & Physics PS5 4K",
+   "canale": "npcunion",
+   "canale_id": "UChks7NdBIjNDtqYqe3g5dhg",
+   "pubblicato": "2026-11-24T20:00:28Z",
+   "lingua": "en",
+   "views": 47427,
+   "commenti": 41,
+   "durata_s": 827,
+   "link": "https://www.youtube.com/watch?v=45w50fValJM",
+   "ore": 19.8,
+   "views_ora": 2391,
+   "views_giorno": 57385,
+   "media_canale": 17939,
+   "iscritti_canale": 2720,
+   "outlier": 2.6
   },
   {
    "id": "DNAkceeguMs",
@@ -1633,16 +1579,34 @@
    "canale_id": "UCu22OwNLoiCTfqR4HC76cvA",
    "pubblicato": "2026-11-23T02:00:30Z",
    "lingua": "en",
-   "views": 141409,
-   "commenti": 154,
+   "views": 144035,
+   "commenti": 157,
    "durata_s": 780,
    "link": "https://www.youtube.com/watch?v=DNAkceeguMs",
-   "ore": 58.8,
-   "views_ora": 2404,
-   "views_giorno": 57686,
+   "ore": 61.8,
+   "views_ora": 2329,
+   "views_giorno": 55905,
    "media_canale": 68738,
    "iscritti_canale": 572000,
    "outlier": 2.1
+  },
+  {
+   "id": "rpk2Pl8wnlQ",
+   "titolo": "🚨 WELCOME TO VICE CITY!! | Playing GTA 6 Live for the FIRST TIME! 🌴🔥#shorts  #shortsfeed #gta6",
+   "canale": "D s",
+   "canale_id": "UCdB8ST7iiv6OmR9EA7SlkIw",
+   "pubblicato": "2026-11-23T18:38:45Z",
+   "lingua": "en",
+   "views": 96217,
+   "commenti": 0,
+   "durata_s": 6025,
+   "link": "https://www.youtube.com/watch?v=rpk2Pl8wnlQ",
+   "ore": 45.2,
+   "views_ora": 2129,
+   "views_giorno": 51092,
+   "media_canale": 94552,
+   "iscritti_canale": 17600,
+   "outlier": 1.0
   },
   {
    "id": "IFd9iJz2XlE",
@@ -1651,16 +1615,16 @@
    "canale_id": "UCWP9xGdffwP4QHPHoty9yIw",
    "pubblicato": "2026-11-24T20:00:32Z",
    "lingua": "en",
-   "views": 38579,
+   "views": 41922,
    "commenti": 4,
    "durata_s": 46,
    "link": "https://www.youtube.com/watch?v=IFd9iJz2XlE",
-   "ore": 16.8,
-   "views_ora": 2292,
-   "views_giorno": 55006,
+   "ore": 19.8,
+   "views_ora": 2114,
+   "views_giorno": 50727,
    "media_canale": 30881,
-   "iscritti_canale": 577,
-   "outlier": 1.2
+   "iscritti_canale": 614,
+   "outlier": 1.4
   },
   {
    "id": "pUxlD-8gp94",
@@ -1669,14 +1633,14 @@
    "canale_id": "UCZU03wNQEGmDkGcNN-BT2Ng",
    "pubblicato": "2026-11-22T22:09:26Z",
    "lingua": "en",
-   "views": 133293,
+   "views": 137329,
    "commenti": 90,
    "durata_s": 14695,
    "link": "https://www.youtube.com/watch?v=pUxlD-8gp94",
-   "ore": 62.7,
-   "views_ora": 2126,
-   "views_giorno": 51034,
-   "media_canale": 481411,
+   "ore": 65.7,
+   "views_ora": 2091,
+   "views_giorno": 50177,
+   "media_canale": 481245,
    "iscritti_canale": 1620000,
    "outlier": 0.3
   },
@@ -1687,13 +1651,13 @@
    "canale_id": "UCu22OwNLoiCTfqR4HC76cvA",
    "pubblicato": "2026-11-22T20:10:11Z",
    "lingua": "en",
-   "views": 134246,
+   "views": 137294,
    "commenti": 26,
    "durata_s": 757,
    "link": "https://www.youtube.com/watch?v=97KgU6TvfYY",
-   "ore": 64.7,
-   "views_ora": 2076,
-   "views_giorno": 49819,
+   "ore": 67.7,
+   "views_ora": 2029,
+   "views_giorno": 48691,
    "media_canale": 68738,
    "iscritti_canale": 572000,
    "outlier": 2.0
@@ -1705,14 +1669,14 @@
    "canale_id": "UC7eAfUjR9gdIjoaoQaS0W-A",
    "pubblicato": "2026-11-23T15:34:12Z",
    "lingua": "en",
-   "views": 86782,
-   "commenti": 41,
+   "views": 89297,
+   "commenti": 42,
    "durata_s": 1786,
    "link": "https://www.youtube.com/watch?v=j4sQK04Llvw",
-   "ore": 45.3,
-   "views_ora": 1917,
-   "views_giorno": 46006,
-   "media_canale": 176404,
+   "ore": 48.3,
+   "views_ora": 1850,
+   "views_giorno": 44396,
+   "media_canale": 176390,
    "iscritti_canale": 2630000,
    "outlier": 0.5
   },
@@ -1723,16 +1687,16 @@
    "canale_id": "UCWxZT_wFm0_K38nMdsj5Neg",
    "pubblicato": "2026-11-23T21:33:25Z",
    "lingua": "en",
-   "views": 70061,
-   "commenti": 73,
+   "views": 74319,
+   "commenti": 84,
    "durata_s": 1174,
    "link": "https://www.youtube.com/watch?v=t7MaylH4j2A",
-   "ore": 39.3,
-   "views_ora": 1783,
-   "views_giorno": 42802,
+   "ore": 42.3,
+   "views_ora": 1758,
+   "views_giorno": 42181,
    "media_canale": 1861,
-   "iscritti_canale": 4610,
-   "outlier": 37.6
+   "iscritti_canale": 4620,
+   "outlier": 39.9
   },
   {
    "id": "p7QicVLSxlI",
@@ -1741,14 +1705,14 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-24T00:49:44Z",
    "lingua": "en",
-   "views": 61081,
+   "views": 61250,
    "commenti": 11,
    "durata_s": 14394,
    "link": "https://www.youtube.com/watch?v=p7QicVLSxlI",
-   "ore": 36.0,
-   "views_ora": 1696,
-   "views_giorno": 40707,
-   "media_canale": 424104,
+   "ore": 39.0,
+   "views_ora": 1570,
+   "views_giorno": 37679,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.1
   },
@@ -1759,14 +1723,14 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-23T00:40:35Z",
    "lingua": "en",
-   "views": 85585,
-   "commenti": 211,
+   "views": 86961,
+   "commenti": 214,
    "durata_s": 442,
    "link": "https://www.youtube.com/watch?v=fmRmM9TRphE",
-   "ore": 60.2,
-   "views_ora": 1423,
-   "views_giorno": 34140,
-   "media_canale": 424104,
+   "ore": 63.2,
+   "views_ora": 1377,
+   "views_giorno": 33041,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.2
   },
@@ -1777,34 +1741,16 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-24T15:00:22Z",
    "lingua": "en",
-   "views": 28891,
+   "views": 30257,
    "commenti": 52,
    "durata_s": 280,
    "link": "https://www.youtube.com/watch?v=UUKIre7ujEE",
-   "ore": 21.8,
-   "views_ora": 1323,
-   "views_giorno": 31755,
-   "media_canale": 424104,
+   "ore": 24.8,
+   "views_ora": 1218,
+   "views_giorno": 29237,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.1
-  },
-  {
-   "id": "V_upz-h9yak",
-   "titolo": "Raina and Jason - Intense Scene - GTA 6 - PS5 Pro - 4K",
-   "canale": "Skill Games",
-   "canale_id": "UCJDeaCeM4QtBG3jE2QysFAg",
-   "pubblicato": "2026-11-22T12:59:43Z",
-   "lingua": "en",
-   "views": 87062,
-   "commenti": 15,
-   "durata_s": 210,
-   "link": "https://www.youtube.com/watch?v=V_upz-h9yak",
-   "ore": 71.8,
-   "views_ora": 1212,
-   "views_giorno": 29083,
-   "media_canale": 19976,
-   "iscritti_canale": 148000,
-   "outlier": 4.4
   },
   {
    "id": "dckQ56Ro5_0",
@@ -1813,16 +1759,34 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "pubblicato": "2026-11-23T04:31:24Z",
    "lingua": "en",
-   "views": 63118,
-   "commenti": 175,
+   "views": 64227,
+   "commenti": 181,
    "durata_s": 837,
    "link": "https://www.youtube.com/watch?v=dckQ56Ro5_0",
-   "ore": 56.3,
-   "views_ora": 1121,
-   "views_giorno": 26898,
-   "media_canale": 424104,
+   "ore": 59.3,
+   "views_ora": 1083,
+   "views_giorno": 25985,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
-   "outlier": 0.1
+   "outlier": 0.2
+  },
+  {
+   "id": "PEs382CcjrM",
+   "titolo": "GTA 6 - Mission #73 - Starting From Zero | 4K Ultra HD",
+   "canale": "StoryDriven",
+   "canale_id": "UCbF5wdVg_nlkzeBT0zxo3uQ",
+   "pubblicato": "2026-11-22T20:40:47Z",
+   "lingua": "",
+   "views": 71493,
+   "commenti": 13,
+   "durata_s": 1552,
+   "link": "https://www.youtube.com/watch?v=PEs382CcjrM",
+   "ore": 67.2,
+   "views_ora": 1064,
+   "views_giorno": 25547,
+   "media_canale": 130051,
+   "iscritti_canale": 43400,
+   "outlier": 0.5
   },
   {
    "id": "k1FEeu29Ydc",
@@ -1831,13 +1795,13 @@
    "canale_id": "UCu22OwNLoiCTfqR4HC76cvA",
    "pubblicato": "2026-11-22T23:13:26Z",
    "lingua": "en",
-   "views": 66028,
+   "views": 67366,
    "commenti": 5,
    "durata_s": 799,
    "link": "https://www.youtube.com/watch?v=k1FEeu29Ydc",
-   "ore": 61.6,
-   "views_ora": 1072,
-   "views_giorno": 25718,
+   "ore": 64.6,
+   "views_ora": 1043,
+   "views_giorno": 25020,
    "media_canale": 68738,
    "iscritti_canale": 572000,
    "outlier": 1.0
@@ -1849,52 +1813,52 @@
    "canale_id": "UC7eAfUjR9gdIjoaoQaS0W-A",
    "pubblicato": "2026-11-22T16:00:20Z",
    "lingua": "en",
-   "views": 72787,
+   "views": 73432,
    "commenti": 96,
    "durata_s": 212,
    "link": "https://www.youtube.com/watch?v=nRgVoY0ynJY",
-   "ore": 68.8,
-   "views_ora": 1057,
-   "views_giorno": 25378,
-   "media_canale": 176404,
+   "ore": 71.8,
+   "views_ora": 1022,
+   "views_giorno": 24533,
+   "media_canale": 176390,
    "iscritti_canale": 2630000,
    "outlier": 0.4
   },
   {
-   "id": "PEs382CcjrM",
-   "titolo": "GTA 6 - Mission #73 - Starting From Zero | 4K Ultra HD",
-   "canale": "StoryDriven",
-   "canale_id": "UCbF5wdVg_nlkzeBT0zxo3uQ",
-   "pubblicato": "2026-11-22T20:40:47Z",
-   "lingua": "",
-   "views": 65207,
-   "commenti": 13,
-   "durata_s": 1552,
-   "link": "https://www.youtube.com/watch?v=PEs382CcjrM",
-   "ore": 64.2,
-   "views_ora": 1016,
-   "views_giorno": 24391,
-   "media_canale": 130540,
-   "iscritti_canale": 43300,
-   "outlier": 0.5
-  },
-  {
-   "id": "YuS9EunFmrs",
-   "titolo": "GTA 6 Mission #23 - What's in the Bag? (Chapter 2) [Full Walkthrough - PS5 4K]",
+   "id": "rT7mEeUlagU",
+   "titolo": "GTA 6 Mission #24 - Ambulance Chasers (Chapter 2) [Full Walkthrough - PS5 4K]",
    "canale": "GTA Series Videos",
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
-   "pubblicato": "2026-11-23T16:16:28Z",
+   "pubblicato": "2026-11-24T11:00:20Z",
    "lingua": "en",
-   "views": 41336,
-   "commenti": 59,
-   "durata_s": 285,
-   "link": "https://www.youtube.com/watch?v=YuS9EunFmrs",
-   "ore": 44.6,
-   "views_ora": 928,
-   "views_giorno": 22260,
-   "media_canale": 424104,
+   "views": 27214,
+   "commenti": 39,
+   "durata_s": 216,
+   "link": "https://www.youtube.com/watch?v=rT7mEeUlagU",
+   "ore": 28.8,
+   "views_ora": 944,
+   "views_giorno": 22649,
+   "media_canale": 424038,
    "iscritti_canale": 4160000,
    "outlier": 0.1
+  },
+  {
+   "id": "3ZaGmz6DfjM",
+   "titolo": "GTA 6 - Post Game (No Commentary) 100% 4K",
+   "canale": "Sirloin",
+   "canale_id": "UCfBkzAvx7_fEiJ2rfChydYQ",
+   "pubblicato": "2026-11-23T22:57:10Z",
+   "lingua": "en",
+   "views": 24840,
+   "commenti": 1,
+   "durata_s": 21781,
+   "link": "https://www.youtube.com/watch?v=3ZaGmz6DfjM",
+   "ore": 40.9,
+   "views_ora": 607,
+   "views_giorno": 14580,
+   "media_canale": 114909,
+   "iscritti_canale": 1600000,
+   "outlier": 0.2
   },
   {
    "id": "_d2-nC9KybA",
@@ -1903,14 +1867,14 @@
    "canale_id": "UCxeGDA6ryJktEsCbMSeGpIA",
    "pubblicato": "2026-11-22T20:06:33Z",
    "lingua": "",
-   "views": 36037,
+   "views": 36397,
    "commenti": 15,
    "durata_s": 2983,
    "link": "https://www.youtube.com/watch?v=_d2-nC9KybA",
-   "ore": 64.7,
-   "views_ora": 557,
-   "views_giorno": 13361,
-   "media_canale": 70024,
+   "ore": 67.7,
+   "views_ora": 537,
+   "views_giorno": 12896,
+   "media_canale": 70000,
    "iscritti_canale": 505000,
    "outlier": 0.5
   },
@@ -1921,153 +1885,101 @@
    "canale_id": "UCw8hBX9_LcMAMaLqzBe-S0A",
    "pubblicato": "2026-11-23T11:27:05Z",
    "lingua": "en",
-   "views": 26695,
+   "views": 26809,
    "commenti": 43,
    "durata_s": 21,
    "link": "https://www.youtube.com/watch?v=z3xUuwdEVCE",
-   "ore": 49.4,
-   "views_ora": 540,
-   "views_giorno": 12972,
-   "media_canale": 496,
-   "iscritti_canale": 73,
-   "outlier": 53.8
+   "ore": 52.4,
+   "views_ora": 512,
+   "views_giorno": 12281,
+   "media_canale": 487,
+   "iscritti_canale": 75,
+   "outlier": 55.0
   },
   {
-   "id": "7WqGHKQIb9Q",
-   "titolo": "GTA 6 DLSS 5 ON vs OFF – RTX 5090 4K Graphics Comparison 🤯 Part 3 #GTA6 #shorts",
-   "canale": "Average NPC",
-   "canale_id": "UCM8fgGSpwPKtQz-EVXZmeYA",
-   "pubblicato": "2026-11-22T15:27:03Z",
+   "id": "ghbdcPmdtfM",
+   "titolo": "GTA 6 Jason Crashes a Yacht Party | Chilling With NPCs PS5 4K",
+   "canale": "npcunion",
+   "canale_id": "UChks7NdBIjNDtqYqe3g5dhg",
+   "pubblicato": "2026-11-23T21:00:30Z",
    "lingua": "en",
-   "views": 35055,
-   "commenti": 11,
-   "durata_s": 12,
-   "link": "https://www.youtube.com/watch?v=7WqGHKQIb9Q",
-   "ore": 69.4,
-   "views_ora": 505,
-   "views_giorno": 12124,
-   "media_canale": 10441,
-   "iscritti_canale": 830,
-   "outlier": 3.4
-  },
-  {
-   "id": "ae7WuyLm2Ek",
-   "titolo": "GTA 6 - Military Base Raid & Free Roam PS5 Pro Gameplay! (No Commentary)",
-   "canale": "NoAnnoyingCommentary",
-   "canale_id": "UCxeGDA6ryJktEsCbMSeGpIA",
-   "pubblicato": "2026-11-22T13:00:16Z",
-   "lingua": "",
-   "views": 26731,
-   "commenti": 11,
-   "durata_s": 2695,
-   "link": "https://www.youtube.com/watch?v=ae7WuyLm2Ek",
-   "ore": 71.8,
-   "views_ora": 372,
-   "views_giorno": 8931,
-   "media_canale": 70024,
-   "iscritti_canale": 505000,
-   "outlier": 0.4
-  },
-  {
-   "id": "CzDuTtjwpbc",
-   "titolo": "GTA 6 with Licensed Music | 100% Platinum Walkthrough Part 7 | PS5 Pro 4K HDR | No Commentary",
-   "canale": "Pineapple Express",
-   "canale_id": "UCbvxoldrujLIBcVX2h-DPtg",
-   "pubblicato": "2026-11-22T14:44:23Z",
-   "lingua": "en-US",
-   "views": 24208,
-   "commenti": 161,
-   "durata_s": 12383,
-   "link": "https://www.youtube.com/watch?v=CzDuTtjwpbc",
-   "ore": 70.1,
-   "views_ora": 345,
-   "views_giorno": 8288,
-   "media_canale": 2635,
-   "iscritti_canale": 39300,
-   "outlier": 9.2
+   "views": 21398,
+   "commenti": 24,
+   "durata_s": 557,
+   "link": "https://www.youtube.com/watch?v=ghbdcPmdtfM",
+   "ore": 42.8,
+   "views_ora": 500,
+   "views_giorno": 11989,
+   "media_canale": 17939,
+   "iscritti_canale": 2720,
+   "outlier": 1.2
   }
  ],
  "domande_fan": {
-  "aggiornato": "2026-11-24T18:50:31Z",
+  "aggiornato": "2026-11-25T15:50:35Z",
   "video": [
    {
     "id": "ymCHX_Dcc-U",
     "titolo": "I Survived 100 Hours In GTA 6",
     "canale": "MrBeast Gaming",
-    "views": 70863290,
+    "views": 72366878,
     "link": "https://www.youtube.com/watch?v=ymCHX_Dcc-U",
     "commenti": [
      {
       "testo": "Jimmy got GTA 6 before the release",
-      "like": 26475
+      "like": 26781
      },
      {
       "testo": "Bro got GTA 6 before GTA 6",
-      "like": 13551
+      "like": 13762
      },
      {
       "testo": "I'm dropping another GTA 6 video tomorrow and the day after! This game is incredible lol",
-      "like": 9290
+      "like": 9350
      },
      {
       "testo": "No more \"Before GTA 6 we had ......\", the end of an era.",
-      "like": 6194
-     },
-     {
-      "testo": "It's kinda crazy how much time we spend building lives that aren't even real. People spend hours leveling up their characters in games like GTA 6 while barely doing anything to improve their own lives. And it's not just gaming, it's Netflix, social media, scrolling for hours, all that stuff. I start",
-      "like": 3528
+      "like": 6264
      },
      {
       "testo": "Mrbeast in gta6 before GTA 7.",
-      "like": 3038
-     },
-     {
-      "testo": "Jimmy got GTA 6 Before The release.",
-      "like": 1082
+      "like": 3063
      },
      {
       "testo": "Waited 13 years for GTA 6 just to watch them start with nothing and still go crazy. This is exactly how it was supposed to feel.",
-      "like": 953
+      "like": 962
      },
      {
       "testo": "Dear MrBeast team and Jimmy, we want to formally request to bring Chandler Hallow back into your upcoming videos! The videos just don't feel the same without his classic reactions, energy, and fun presence. All your loyal fans truly miss seeing him as a regular part of the crew. Please make it happe",
-      "like": 611
-     },
-     {
-      "testo": "If this game gets the option to enable a first-person view in the settings and disable the UI, it will really look like a recording from the crime scenes on behalf of the attackers.",
-      "like": 390
+      "like": 618
      },
      {
       "testo": "Bro really survived 100 hours in GTA 6 before most of us even got to play it. Absolute legend!",
-      "like": 245
+      "like": 247
      },
      {
       "testo": "For decades, I thought he was a gentle guy, but now MrBeast has revealed his true, gangster-like nature",
       "like": 236
      },
      {
-      "testo": "100 hours and the map still feels huge — the early access run was brilliant, especially the way the crew split the challenges. Looking forward to tomorrow's video.",
-      "like": 229
-     },
-     {
-      "testo": "GTA 6 before gta 7 is crazy",
-      "like": 227
+      "testo": "Jimmy got GTA VI before GTA VI",
+      "like": 195
      },
      {
       "testo": "It seems there might be a challenge. \"Win 1 million dollars if you can finish GTA VI in 24 hours\"",
       "like": 193
      },
      {
-      "testo": "Jimmy got GTA VI before GTA VI",
-      "like": 190
+      "testo": "GTA 6 has to have more players online than actual people outside 💀😭",
+      "like": 184
      },
      {
-      "testo": "GTA 6 has to have more players online than actual people outside 💀😭",
-      "like": 182
+      "testo": "Waiting for the 'I locked 100 people in Vice City for a week' video.",
+      "like": 143
      },
      {
       "testo": "Jimmy got instant karma after leaving Lucia 😭",
-      "like": 92
+      "like": 96
      },
      {
       "testo": "Jimmy playing 100hrs GTA VI before GTA VII☠️",
@@ -2075,35 +1987,43 @@
      },
      {
       "testo": "everyone says they have waited 13 years for gta6 but tbh nobody has until they told us they were making it, we were all over gta5 for so long that nobody ever thought about gta6",
-      "like": 74
+      "like": 75
      },
      {
       "testo": "Jimmy really got GTA 6 before the release",
-      "like": 73
+      "like": 74
      },
      {
       "testo": "Starting with literally $0 and robbing a guy for $20 is such a MrBeast opening 😂 the map genuinely looks unreal though",
-      "like": 55
+      "like": 65
+     },
+     {
+      "testo": "It’s a shame that not everyone can afford to play GTA VI. The system requirements are absolutely \"astronomical,\" and my specs will only be enough for the lowest settings. It’s a pity, but it’s still the best game from Rockstar.",
+      "like": 60
      },
      {
       "testo": "We got jimmy playing gta 6 before GTA 6",
-      "like": 52
+      "like": 53
      },
      {
       "testo": "We got a mr beast gta 6 video before gta 7 😂",
       "like": 40
      },
      {
+      "testo": "We may never meet in real life, but somehow we crossed paths here. I hope life is treating you well ❤",
+      "like": 38
+     },
+     {
       "testo": "Nolan tried to show us something intresting",
-      "like": 35
+      "like": 36
      },
      {
       "testo": "Imagine watching GTA 6 after 13 years of waiting, with MrBeast posting this 13 hours ago and with 13 Million views. That's a crazy coincidence😂",
       "like": 26
      },
      {
-      "testo": "We may never meet in real life, but somehow we crossed paths here. I hope life is treating you well ❤",
-      "like": 26
+      "testo": "Playing GTA VI before GTA VI is crazy",
+      "like": 25
      },
      {
       "testo": "What MrBeast6000 was doing irl instead of gta",
@@ -2114,7 +2034,7 @@
       "like": 20
      },
      {
-      "testo": "Hi, Jimmy. I'm from the Philippines, and I'm currently a college student. I want to become a livestreamer like you, but I don't have the necessary equipment. This has been my dream for a long time. Once I'm successful, I hope to be able to pay my parents' bills, as they'll be senior citizens in the ",
+      "testo": "Rip \"Before GTA VI\" Meme",
       "like": 18
      },
      {
@@ -2122,12 +2042,8 @@
       "like": 17
      },
      {
-      "testo": "Rip \"Before GTA VI\" Meme",
-      "like": 17
-     },
-     {
       "testo": "Bro built his whole career to get a GTA 6 pre release",
-      "like": 15
+      "like": 16
      },
      {
       "testo": "Jimmy playing GTA 6 before GTA 7 is crazy 😂😂",
@@ -2135,26 +2051,38 @@
      },
      {
       "testo": "Starting with $0 and having to mug people just to afford a burger is such a perfect opening for 100 hours in this game. The driving already looks noticeably smoother than GTA 5, and the selfie moment where you could actually see the photo afterwards was a great little detail — curious what the most ",
-      "like": 4
+      "like": 7
      },
      {
-      "testo": "Hi Jimmy, I’m a huge fan of yours watching all the way from Bangladesh.\nGrowing up in a middle-class family here, big dreams often feel a little far away.\nI’ve watched your videos for years and always admired your kindness and generosity.\nYou’ve changed so many lives and brought so much joy to peopl",
-      "like": 3
-     },
-     {
-      "testo": "13 years in the making, and watching them build from scratch already goes crazy. This is the exact feeling we waited for.",
-      "like": 2
+      "testo": "we got GTA6, before Nolan's Girlfrined",
+      "like": 5
      },
      {
       "testo": "Starting with $0 and having to grind your way up makes this so much more fun to watch — the map genuinely looks massive, can't wait to explore Vice City myself.",
+      "like": 4
+     },
+     {
+      "testo": "This is the only part of MrBeast that feels somewhat authentic to me.",
+      "like": 2
+     },
+     {
+      "testo": "We got MrBeast playing GTA6 before GTA6 launched",
       "like": 1
      },
      {
-      "testo": "Jimmy really treated 100 hours in GTA 6 like a challenge video and the whole city became contestants. Even the cops are probably asking for the prize money 😂",
+      "testo": "Mrbeast got  GTA 6 before the release because he is Mrbeast 😎",
       "like": 1
      },
      {
-      "testo": "The stolen Lamborghini having a built-in tracker that kept pinging the cops while you tried to drive it across the map to register it was the most stressful part — that whole escape had me on edge.",
+      "testo": "100 hours and the map still feels huge — the early access run was brilliant, especially the way the crew split the challenges. Looking forward to",
+      "like": 0
+     },
+     {
+      "testo": "Starting with nothing and still making 100 hours feel this fun is wild. That early motorbike ride through Leonida already sold me on how alive this map feels.",
+      "like": 0
+     },
+     {
+      "testo": "The fact that you got to experience GTA 6 before its official release is already insane, but what makes this video even better is how you shared the experience with everyone without spoiling anything. 100 hours well spent! Huge respect to Rockstar and Jimmy for making this happen. 🔥",
       "like": 0
      }
     ]
@@ -2163,100 +2091,104 @@
     "id": "qSyo5d-dVzA",
     "titolo": "🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!",
     "canale": "IShowSpeed",
-    "views": 70720633,
+    "views": 71032548,
     "link": "https://www.youtube.com/watch?v=qSyo5d-dVzA",
     "commenti": [
      {
       "testo": "More than 50 hours of games without sleep is crazy",
-      "like": 9406
+      "like": 9592
      },
      {
       "testo": "ts got more views than the wc final💀\n\n\n\ni meant that this had more views than his world cup final stream",
-      "like": 4195
-     },
-     {
-      "testo": "How’s the ps5 not overheating",
-      "like": 2614
+      "like": 4253
      },
      {
       "testo": "2:00:33\n8:28:48\n8:30:30\n12:18:47\n19:08:39\n14:43:32\n15:05:59\n18:19:39\n16:16:13 \n\nFor all my gooners",
-      "like": 2599
+      "like": 2707
+     },
+     {
+      "testo": "How’s the ps5 not overheating",
+      "like": 2638
      },
      {
       "testo": "60M views in 1 Day 🔥\nBro is the new Michael Jackson",
-      "like": 2555
+      "like": 2588
      },
      {
       "testo": "Streaming for 24 hours is nuts 🥀\n\n(This guy needs some grass asap🙏)",
-      "like": 2046
+      "like": 2056
      },
      {
       "testo": "54 mill is crazyyy yall don't get how mad that is for a 24 hr livestream 🔥🔥🔥\nNo sleep asw",
-      "like": 1150
+      "like": 1155
      },
      {
       "testo": "52 hours straight playing GTA 6, no sleep, no breaks!🔥🔥 Speed the GOAT🐐🐐🐐",
-      "like": 1057
+      "like": 1132
      },
      {
       "testo": "Don't blame him when he takes the awards again for the fourth time",
-      "like": 828
+      "like": 840
      },
      {
       "testo": "*The first record for the longest live stream on the IShowSpeed ​​channel (24-hour live)*",
-      "like": 545
-     },
-     {
-      "testo": "57 millions was the biggest stream😭this is crazy",
-      "like": 442
+      "like": 551
      },
      {
       "testo": "Bro passed 50hrs of gta 6 without sleep 😮",
-      "like": 438
+      "like": 447
+     },
+     {
+      "testo": "57 millions was the biggest stream😭this is crazy",
+      "like": 444
      },
      {
       "testo": "57M on desktop stream is crazy woah",
-      "like": 331
-     },
-     {
-      "testo": "there is a reason he da best.. 24 hours straight is mental work bro😪",
-      "like": 286
+      "like": 337
      },
      {
       "testo": "Speed closing 2026 with the most viewed stream ever, even winning a award!!",
-      "like": 284
+      "like": 311
+     },
+     {
+      "testo": "there is a reason he da best.. 24 hours straight is mental work bro😪",
+      "like": 287
      },
      {
       "testo": "Crazy this is now his most viewed livestream after world cup final",
-      "like": 248
+      "like": 249
      },
      {
       "testo": "The most viewed stream of all time in only only day is crazy ☠️",
-      "like": 237
+      "like": 238
      },
      {
       "testo": "we got bro playing gta 6 before 7 hits hard😭💀",
-      "like": 205
-     },
-     {
-      "testo": "This stream became speed's most-viewed stream within one day. 💀",
-      "like": 175
+      "like": 206
      },
      {
       "testo": "ديممم ‏‪2:36:07‬‏ 😭✌🏼🥀",
-      "like": 127
+      "like": 204
+     },
+     {
+      "testo": "This stream became speed's most-viewed stream within one day. 💀",
+      "like": 178
+     },
+     {
+      "testo": "Most popular stream in just 24 is crazy",
+      "like": 140
      },
      {
       "testo": "24 hrs of Gameplay imagine how huge gta6 is",
-      "like": 107
+      "like": 108
      },
      {
       "testo": "All are commenting without sleep \nI noticed he kept standing all time 😮",
-      "like": 106
+      "like": 107
      },
      {
       "testo": "Gang is gta greater than world cup 😭 this is the most viewed stream of speed",
-      "like": 81
+      "like": 82
      },
      {
       "testo": "That hospital mission was so fucking good.  Just nonstop set pieces and constant tension",
@@ -2264,66 +2196,62 @@
      },
      {
       "testo": "53 hours non stop playing is crazy",
-      "like": 52
+      "like": 56
      },
      {
       "testo": "Bro just completed 52 hours stream 😭😭🥶",
-      "like": 35
-     },
-     {
-      "testo": "64 mill views on his first stream is craaaaaaaazzzzzzzy",
-      "like": 33
-     },
-     {
-      "testo": "More than 50 hours without sleeping, pure dedication",
-      "like": 27
-     },
-     {
-      "testo": "After watch this gameplay, I can confirm speed is a low knowledge gamer",
-      "like": 25
-     },
-     {
-      "testo": "24 hours straight playing GTA 6, no sleep, no breaks!🔥🔥 Speed the GOAT🐐🐐",
-      "like": 24
-     },
-     {
-      "testo": "Speed is the Goay guys, His energy is crazy. Straight up 50 hours",
-      "like": 19
+      "like": 36
      },
      {
       "testo": "Killed 13 years of GTA team's effort within 52 hours 😂",
-      "like": 13
+      "like": 31
      },
      {
-      "testo": "Can’t believe it’s taking me one week to finish this damn vid",
-      "like": 12
+      "testo": "Chapter Breakdown\n\nThe story spans roughly 91 to 93 main missions—depending on how optional jobs are counted—across the following five chapters:\n• Chapter 1: Just Like Paradise (~22 missions)\n• Chapter 2: Paradise Lost (~11–13 missions)\n• Chapter 3: Tits, Ass, Drug Money (26 missions — the longest c",
+      "like": 28
+     },
+     {
+      "testo": "More than 50 hours without sleeping, pure dedication",
+      "like": 28
+     },
+     {
+      "testo": "24 hours straight playing GTA 6, no sleep, no breaks!🔥🔥 Speed the GOAT🐐🐐",
+      "like": 26
      },
      {
       "testo": "70m views in 5 days is crazy 🔥",
-      "like": 9
+      "like": 20
      },
      {
-      "testo": "speed not looking at the game when it started chapter 2 was killing me😅",
+      "testo": "Speed is the Goay guys, His energy is crazy. Straight up 50 hours",
+      "like": 20
+     },
+     {
+      "testo": "2:02:55 \nThe Sink Moment which every one searching 😅",
+      "like": 17
+     },
+     {
+      "testo": "Can’t believe it’s taking me one week to finish this damn vid",
+      "like": 17
+     },
+     {
+      "testo": "Speed it’s my first time watched your stream and I don’t have Much patient on you dude. Srysly?!",
       "like": 6
-     },
-     {
-      "testo": "Bro went a day playing gta 6 with no shower or sleep",
-      "like": 5
      },
      {
       "testo": "You're so crazy 52 hour  more than game without sleep it's crazy 🤯",
       "like": 5
      },
      {
-      "testo": "Bro just Got Next 10 years content 😂",
+      "testo": "Bro went a day playing gta 6 with no shower or sleep",
       "like": 5
      },
      {
-      "testo": "Has anybody else noticed that the continuation mark on YouTube is now GTA VI themed?",
-      "like": 4
+      "testo": "This is currently speed's biggest stream of all time",
+      "like": 3
      },
      {
-      "testo": "This is currently speed's biggest stream of all time",
+      "testo": "IShowSpeed nearly became the 1993 Beavis and Butt-Head and YouTube became the 1993 MTV btw.",
       "like": 2
      }
     ]
@@ -2332,135 +2260,131 @@
     "id": "QQV-0OUGxGs",
     "titolo": "Whatever You Steal in GTA 6, You Keep!",
     "canale": "MrBeast Gaming",
-    "views": 51439424,
+    "views": 54742924,
     "link": "https://www.youtube.com/watch?v=QQV-0OUGxGs",
     "commenti": [
      {
       "testo": "Mr Beast got a heart attack when he saw the bank has 100k",
-      "like": 13763
+      "like": 14440
      },
      {
       "testo": "Tareq robbed half of GTA 6 just so he could call his mom and tell her he got her $44k. She said he’s the best son ever. Absolute cinema.",
-      "like": 10956
+      "like": 11426
      },
      {
-      "testo": "Bro turned GTA 6 into a real-life shopping spree\nEdit: MrBeast for how many likes can I get a PS5?",
-      "like": 9026
+      "testo": "Bro turned GTA 6 into a real-life shopping spree\nEdit: MrBeast for how many likes can I get a PS5? Do not ghost me bro",
+      "like": 9154
      },
      {
       "testo": "What videos do you guys want to see in GTA 6?",
-      "like": 7352
+      "like": 7586
      },
      {
       "testo": "after all these years, more gta vids😭",
-      "like": 4257
-     },
-     {
-      "testo": "I got stressed because I thought I was going to lose, bro.",
-      "like": 2797
+      "like": 4309
      },
      {
       "testo": "The most intense mrbeast gaming video I've ever seen, bro was almost at the edge of losing $45000",
-      "like": 2605
+      "like": 2915
      },
      {
-      "testo": "4:35 are we gonna ignore how that bird just hit himslef on the sign?",
-      "like": 932
+      "testo": "I got stressed because I thought I was going to lose, bro.",
+      "like": 2867
      },
      {
       "testo": "Mrbeast really wanted Tareq not to make money by robbing the most secure bank😂😂",
-      "like": 927
+      "like": 959
      },
      {
       "testo": "No way Jimmy chose the most innocent person from his team for this challenge😂",
-      "like": 848
+      "like": 859
      },
      {
       "testo": "It gave me stresses, I thought I’m losing the $44k. 10 seconds ending was brutal",
-      "like": 691
-     },
-     {
-      "testo": "15:15 MrBeast gaslighting Tareq to lose everything 😭🙏",
-      "like": 684
+      "like": 708
      },
      {
       "testo": "Jimmy turned GTA 6 into a shopping store",
-      "like": 543
+      "like": 546
      },
      {
       "testo": "its crazy that he robbed the bank that we rob as lucia at the start, and the security got higher BECAUSE of lucia. It shows how much detail the game has",
-      "like": 477
+      "like": 502
      },
      {
       "testo": "Got to be the most close call ever",
-      "like": 357
+      "like": 359
      },
      {
       "testo": "Mr Beast really wanted him to rob that high security bank😂",
-      "like": 241
+      "like": 256
      },
      {
       "testo": "Imagine being a mom and seeing your son on a public platform saying he's robbing places for you",
-      "like": 223
+      "like": 224
+     },
+     {
+      "testo": "Bro I thought he would get hundreds of thousands after the plane😭",
+      "like": 193
+     },
+     {
+      "testo": "My anxiety at the end 📈📈📈",
+      "like": 163
      },
      {
       "testo": "Let's be honest, 90% of players would steal the most expensive car and never touch the actual story 😂",
-      "like": 139
+      "like": 140
      },
      {
       "testo": "That airport escape was so tense, the timing was perfect. Loved seeing the Vice City streets in this one.",
       "like": 118
      },
      {
-      "testo": "17:35 \"this is very illegal\" that is a very strange place to draw that line",
-      "like": 72
+      "testo": "I can imagine Mom's reaction when she found out HOW the money was received.",
+      "like": 70
      },
      {
       "testo": "Bro turned Mother's Day into a federal investigation💀",
-      "like": 69
-     },
-     {
-      "testo": "I’d love to see MrBeast create content involving crocodiles in the swamp grassrivers of GTA 6.🐊🙏🏻",
-      "like": 64
+      "like": 70
      },
      {
       "testo": "15:20 Bro Mr Beast knew he wouldn’t make it if he tried to rob the big banks. Kept pressuring him",
-      "like": 57
-     },
-     {
-      "testo": "20:56 holly ship",
-      "like": 54
+      "like": 58
      },
      {
       "testo": "bro was almost at the edge of losing $45000",
-      "like": 50
+      "like": 54
      },
      {
-      "testo": "I can imagine Mom's reaction when she found out HOW the money was received.",
-      "like": 42
-     },
-     {
-      "testo": "The funniest part is how quickly a simple GTA challenge turned into a full scale heist operation. But the real highlight was Tareq thinking beyond the prize money and wanting to make sure his mom got something out of it.",
-      "like": 33
+      "testo": "MrBeast, you're offering $1,000, but I don't even have a PS5.",
+      "like": 45
      },
      {
       "testo": "Bro imagine stealing a $3 million Bugatti in GTA and then realizing you can't even afford the insurance in real life 😭💀",
-      "like": 30
+      "like": 31
      },
      {
-      "testo": "Gta 6 about to show out the real mrbeast gaming of 2 years ago.",
-      "like": 22
-     },
-     {
-      "testo": "Bro just robbed the whole banks in GTA 6 😂",
-      "like": 20
+      "testo": "Definitely the second most innocent mrbeast contestant",
+      "like": 28
      },
      {
       "testo": "﴿الأَخِلّاءُ يَومَئِذٍ بَعضُهُم لِبَعضٍ عَدُوٌّ إِلَّا المُتَّقينَ﴾ [الزخرف: ٦٧]\n(67) Close friends, that Day, will be enemies to each other, except for the righteous",
-      "like": 15
+      "like": 24
      },
      {
-      "testo": "My anxiety at the end 📈📈📈",
+      "testo": "Gta 6 about to show out the real mrbeast gaming of 2 years ago.",
+      "like": 23
+     },
+     {
+      "testo": "Bro just robbed the whole banks in GTA 6 😂",
+      "like": 21
+     },
+     {
+      "testo": "Bro really turned GTA 6 into a real life bank heist before the rest of us even got to play it 😭🔥",
+      "like": 14
+     },
+     {
+      "testo": "Tareq robbed half of Vice City just to call his mom and say 'look, I got you $44k' — meanwhile my mom still thinks GTA is a driving test 😂",
       "like": 12
      },
      {
@@ -2468,23 +2392,27 @@
       "like": 11
      },
      {
-      "testo": "Tareq robbed half of Vice City just to call his mom and say 'look, I got you $44k' — meanwhile my mom still thinks GTA is a driving test 😂",
+      "testo": "MrBeast can't do such a challenge in real life, so he does it in GTA 6.",
       "like": 10
      },
      {
-      "testo": "MrBeast can't do such a challenge in real life, so he does it in GTA 6.",
-      "like": 2
+      "testo": "crazy how mr beast tells you not to rob the 100k one at the start of the vid, but tells you later when 10 min is left",
+      "like": 8
      },
      {
-      "testo": "Mrbeast didn't loose anything. The vid will cost around 93k in a week",
-      "like": 2
-     },
-     {
-      "testo": "i almost had a heart attack cause of how stressful this video was W tareq",
-      "like": 1
+      "testo": "Hey MrBeast! 🔥\n\nI have a crazy idea for GTA 6!\n\nHere's the twist: I've never played GTA before. I don't even know where to start!\n\nI want to go from a complete beginner to becoming one of the most dedicated GTA 6 players, taking on insane challenges, completing missions, exploring everything, and pu",
+      "like": 3
      },
      {
       "testo": "Instead of giving a new person a chance you lack judgement and I think you forgot what being in the need means",
+      "like": 2
+     },
+     {
+      "testo": "I laughed so hard at the end of the clip when your mom asked what you’d been up to! Hahaha—she must really love you a lot!",
+      "like": 1
+     },
+     {
+      "testo": "you could see the way Mrbeast was talking him into things he didn't want to do lol",
       "like": 1
      },
      {
@@ -2492,8 +2420,8 @@
       "like": 1
      },
      {
-      "testo": "This is the best game in gaming history, bro. It’s beautiful.",
-      "like": 1
+      "testo": "I thought MrBeast was a child friendly channel.",
+      "like": 0
      }
     ]
    }
@@ -2509,135 +2437,135 @@
      "titolo": "DO NOT Go To The Pet Cemetery At Night In GTA 6 Or Else THIS Will Happen To You!",
      "link": "https://www.youtube.com/watch?v=BRKZJbVWXyQ",
      "pubblicato": "2026-11-24T21:34:34+00:00",
-     "views": 13243,
+     "views": 14519,
      "short": false,
-     "views_giorno": 20821
+     "views_giorno": 19076
     },
     {
      "id": "AVTqgJL5qT0",
      "titolo": "If You Scan These Mysterious Symbols You Can Get The FASTEST Car In GTA 6 For FREE!",
      "link": "https://www.youtube.com/watch?v=AVTqgJL5qT0",
      "pubblicato": "2026-11-24T18:35:51+00:00",
-     "views": 8749,
+     "views": 9111,
      "short": false,
-     "views_giorno": 11509
+     "views_giorno": 10292
     },
     {
      "id": "_C_aI_OSaaY",
      "titolo": "What Happens If Lucia Meets Mandy In GTA 6? (SECRET Encounter)",
      "link": "https://www.youtube.com/watch?v=_C_aI_OSaaY",
      "pubblicato": "2026-11-24T15:33:28+00:00",
-     "views": 155764,
+     "views": 161768,
      "short": false,
-     "views_giorno": 175644
+     "views_giorno": 159868
     },
     {
      "id": "gy2CRCCf3UM",
      "titolo": "How To MAX OUT ALL Of Yours Stats FAST & EASY In GTA 6 Using This Simple Trick + Gain Weight QUICK!",
      "link": "https://www.youtube.com/watch?v=gy2CRCCf3UM",
      "pubblicato": "2026-11-23T23:07:17+00:00",
-     "views": 19891,
+     "views": 20362,
      "short": false,
-     "views_giorno": 12656
+     "views_giorno": 12001
     },
     {
      "id": "5sN7uvizcBI",
      "titolo": "GTA 6 Just Got A NEW Update - EVERYTHING That Was Changed, Records Broken, Cyberleek Returns & MORE!",
      "link": "https://www.youtube.com/watch?v=5sN7uvizcBI",
      "pubblicato": "2026-11-23T20:10:50+00:00",
-     "views": 39842,
+     "views": 40024,
      "short": false,
-     "views_giorno": 23517
+     "views_giorno": 22000
     },
     {
      "id": "2K6iCDQlabQ",
      "titolo": "GTA 6 NEW Topless Glitch - Play As NAKED Lucia In Free Roam! (Works In ANY Chapter)",
      "link": "https://www.youtube.com/watch?v=2K6iCDQlabQ",
      "pubblicato": "2026-11-23T17:10:29+00:00",
-     "views": 421623,
+     "views": 440359,
      "short": false,
-     "views_giorno": 231732
+     "views_giorno": 226462
     },
     {
      "id": "PPRsFFUm_Ug",
      "titolo": "Can You Romance Mandy And Vicki In GTA 6? (SECRET Encounter)",
      "link": "https://www.youtube.com/watch?v=PPRsFFUm_Ug",
      "pubblicato": "2026-11-22T22:21:55+00:00",
-     "views": 265554,
+     "views": 273563,
      "short": false,
-     "views_giorno": 102012
+     "views_giorno": 100271
     },
     {
      "id": "Bon9YIs1eeU",
      "titolo": "25+ HIDDEN Features In GTA 6 That The Game DOESN'T Tell You About!",
      "link": "https://www.youtube.com/watch?v=Bon9YIs1eeU",
      "pubblicato": "2026-11-22T19:30:29+00:00",
-     "views": 31135,
+     "views": 31403,
      "short": false,
-     "views_giorno": 11437
+     "views_giorno": 11029
     },
     {
      "id": "_IQFSPtz2GM",
      "titolo": "GTA 6 Topless Glitch - How To Play As Naked Lucia In Free Roam! (Super Rare)",
      "link": "https://www.youtube.com/watch?v=_IQFSPtz2GM",
      "pubblicato": "2026-11-22T16:00:23+00:00",
-     "views": 854177,
+     "views": 888469,
      "short": false,
-     "views_giorno": 297817
+     "views_giorno": 296830
     },
     {
      "id": "WcCHJNKw36I",
      "titolo": "Grand Theft Auto 6 Serial Killer Guide SOLVED - Every Clue & Location Revealed! (GTA 6)",
      "link": "https://www.youtube.com/watch?v=WcCHJNKw36I",
      "pubblicato": "2026-11-21T23:17:04+00:00",
-     "views": 43270,
+     "views": 43842,
      "short": false,
-     "views_giorno": 12138
+     "views_giorno": 11881
     },
     {
      "id": "NKqtM22CK40",
      "titolo": "If You Go To This Location You Can PERMANENTLY Boost Your Stamina Stat In GTA 6!",
      "link": "https://www.youtube.com/watch?v=NKqtM22CK40",
      "pubblicato": "2026-11-21T19:37:48+00:00",
-     "views": 58160,
+     "views": 58415,
      "short": false,
-     "views_giorno": 15646
+     "views_giorno": 15203
     },
     {
      "id": "Z1OJcfGsVqw",
      "titolo": "How To Get Paul Walker's Car From The Fast And The Furious In GTA 6 (Brian's Eclipse)",
      "link": "https://www.youtube.com/watch?v=Z1OJcfGsVqw",
      "pubblicato": "2026-11-21T16:00:31+00:00",
-     "views": 62986,
+     "views": 63428,
      "short": false,
-     "views_giorno": 16284
+     "views_giorno": 15884
     },
     {
      "id": "GPjl9Q-5hUI",
      "titolo": "I Found Dexter Morgan In GTA 6! (Bay Harbor Butcher Easter Egg)",
      "link": "https://www.youtube.com/watch?v=GPjl9Q-5hUI",
      "pubblicato": "2026-11-20T22:01:29+00:00",
-     "views": 36649,
+     "views": 36861,
      "short": false,
-     "views_giorno": 7937
+     "views_giorno": 7773
     },
     {
      "id": "y8MfhIlj7es",
      "titolo": "The Bigfoot Mystery In GTA 6 Is DEEPER Than You Think & Has A SECRET Ending That Most Fans Missed!",
      "link": "https://www.youtube.com/watch?v=y8MfhIlj7es",
      "pubblicato": "2026-11-20T18:30:22+00:00",
-     "views": 22501,
+     "views": 22773,
      "short": false,
-     "views_giorno": 4723
+     "views_giorno": 4658
     },
     {
      "id": "RLtTRjKOC3w",
      "titolo": "GTA 6 UNLIMITED Money Glitch - Cash & Stash Bags Just Keep Respawning!",
      "link": "https://www.youtube.com/watch?v=RLtTRjKOC3w",
      "pubblicato": "2026-11-20T15:15:49+00:00",
-     "views": 60273,
+     "views": 60413,
      "short": false,
-     "views_giorno": 12303
+     "views_giorno": 12025
     }
    ]
   },
@@ -2650,72 +2578,63 @@
      "titolo": "GTA 6: Jason Escapes (NEW Best Ending)",
      "link": "https://www.youtube.com/watch?v=gfpRu7byiW8",
      "pubblicato": "2026-11-24T14:30:26+00:00",
-     "views": 3055,
+     "views": 3385,
      "short": false,
-     "views_giorno": 3283
+     "views_giorno": 3207
     },
     {
      "id": "pOHiAYKRXCw",
      "titolo": "Make $1 Million EASY in GTA 6! (UNLIMITED MONEY GLITCH & Works in Any Chapter)",
      "link": "https://www.youtube.com/watch?v=pOHiAYKRXCw",
      "pubblicato": "2026-11-23T14:00:14+00:00",
-     "views": 935,
+     "views": 949,
      "short": false,
-     "views_giorno": 479
+     "views_giorno": 457
     },
     {
      "id": "9VOAl5rH5aU",
      "titolo": "GTA 6 - Best Ending (True Ending)",
      "link": "https://www.youtube.com/watch?v=9VOAl5rH5aU",
      "pubblicato": "2026-11-21T14:45:07+00:00",
-     "views": 88072,
+     "views": 88559,
      "short": false,
-     "views_giorno": 22465
+     "views_giorno": 21891
     },
     {
      "id": "G1FfS733ySU",
      "titolo": "GTA 6 - ALL Endings: Bad, Good and Secret & Cutscenes",
      "link": "https://www.youtube.com/watch?v=G1FfS733ySU",
      "pubblicato": "2026-11-20T17:00:00+00:00",
-     "views": 896461,
+     "views": 897147,
      "short": false,
-     "views_giorno": 185729
+     "views_giorno": 181176
     },
     {
      "id": "ctmnPB0mmjU",
      "titolo": "GTA 6 - Niko Bellic RETURNS! (4K CUTSCENES & HEIST)",
      "link": "https://www.youtube.com/watch?v=ctmnPB0mmjU",
      "pubblicato": "2026-11-20T12:48:36+00:00",
-     "views": 11506,
+     "views": 11510,
      "short": false,
-     "views_giorno": 2301
+     "views_giorno": 2245
     },
     {
      "id": "1FFMPqTRetE",
      "titolo": "All GTA 6 Cheat Codes! (with $250.000 Money Cheat...)",
      "link": "https://www.youtube.com/watch?v=1FFMPqTRetE",
      "pubblicato": "2026-11-19T19:00:32+00:00",
-     "views": 21711,
+     "views": 21753,
      "short": false,
-     "views_giorno": 3780
+     "views_giorno": 3707
     },
     {
      "id": "wzgxXd4uhtU",
      "titolo": "How to \"Romance\" in GTA 6...",
      "link": "https://www.youtube.com/watch?v=wzgxXd4uhtU",
      "pubblicato": "2026-11-19T15:15:28+00:00",
-     "views": 12869,
+     "views": 12986,
      "short": false,
-     "views_giorno": 2181
-    },
-    {
-     "id": "rroMWZDL_hA",
-     "titolo": "GTA 6 Launch Stream (Playing GTA 6 For The First Time)",
-     "link": "https://www.youtube.com/watch?v=rroMWZDL_hA",
-     "pubblicato": "2026-11-18T14:11:45+00:00",
-     "views": 19860,
-     "short": false,
-     "views_giorno": 2860
+     "views_giorno": 2156
     }
    ]
   },
@@ -2724,139 +2643,139 @@
    "canale_id": "UCuWcjpKbIDAbZfHoru1toFg",
    "video": [
     {
+     "id": "sad_2h4bqTU",
+     "titolo": "GTA 6 Mission #29 - Slam Dunk (Chapter 2) [Full Walkthrough - PS5 4K]",
+     "link": "https://www.youtube.com/watch?v=sad_2h4bqTU",
+     "pubblicato": "2026-11-25T13:00:25+00:00",
+     "views": 3081,
+     "short": false,
+     "views_giorno": 26072
+    },
+    {
      "id": "9NJ9qrfpG7c",
      "titolo": "GTA 6 Mission #28 - Daily Driver (Chapter 2) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=9NJ9qrfpG7c",
      "pubblicato": "2026-11-25T09:30:20+00:00",
-     "views": 3566,
+     "views": 8465,
      "short": false,
-     "views_giorno": 25656
+     "views_giorno": 32057
     },
     {
      "id": "4t6I6S0JNDo",
      "titolo": "GTA 6 - 100% Walkthrough Part 8 | 4K Livestream [No Commentary]",
      "link": "https://www.youtube.com/watch?v=4t6I6S0JNDo",
      "pubblicato": "2026-11-25T01:54:30+00:00",
-     "views": 17677,
+     "views": 58863,
      "short": false,
-     "views_giorno": 38804
+     "views_giorno": 101381
     },
     {
      "id": "h6u6UoA-Kss",
      "titolo": "GTA 6 Mission #27 - Moses (Chapter 2) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=h6u6UoA-Kss",
      "pubblicato": "2026-11-25T03:00:24+00:00",
-     "views": 17215,
+     "views": 20567,
      "short": false,
-     "views_giorno": 42010
+     "views_giorno": 38454
     },
     {
      "id": "I3LZ5yDLClE",
      "titolo": "GTA 6 Mission #26 - Girls' Trip (Chapter 2) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=I3LZ5yDLClE",
      "pubblicato": "2026-11-24T23:00:05+00:00",
-     "views": 17541,
+     "views": 19741,
      "short": false,
-     "views_giorno": 30418
+     "views_giorno": 28132
     },
     {
      "id": "bXmoalCsY74",
      "titolo": "GTA 6 - 100% Walkthrough Part 7 | 4K Livestream [No Commentary]",
      "link": "https://www.youtube.com/watch?v=bXmoalCsY74",
      "pubblicato": "2026-11-24T21:28:49+00:00",
-     "views": 108309,
+     "views": 109283,
      "short": false,
-     "views_giorno": 169221
+     "views_giorno": 142832
     },
     {
      "id": "PIfk0s6Qe8Y",
      "titolo": "GTA 6 - Tommy Vercetti Shirt Unlock & Full Malibu Club Easter Egg Guide (All Kent Paul Calls)",
      "link": "https://www.youtube.com/watch?v=PIfk0s6Qe8Y",
      "pubblicato": "2026-11-24T18:16:21+00:00",
-     "views": 35611,
+     "views": 38793,
      "short": false,
-     "views_giorno": 46027
+     "views_giorno": 43162
     },
     {
      "id": "UUKIre7ujEE",
      "titolo": "GTA 6 Mission #25 - Just Moved In (Chapter 2) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=UUKIre7ujEE",
      "pubblicato": "2026-11-24T15:00:22+00:00",
-     "views": 28891,
+     "views": 30176,
      "short": false,
-     "views_giorno": 31755
+     "views_giorno": 29159
     },
     {
      "id": "rT7mEeUlagU",
      "titolo": "GTA 6 Mission #24 - Ambulance Chasers (Chapter 2) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=rT7mEeUlagU",
      "pubblicato": "2026-11-24T11:00:20+00:00",
-     "views": 26286,
+     "views": 27170,
      "short": false,
-     "views_giorno": 24418
+     "views_giorno": 22612
     },
     {
      "id": "p7QicVLSxlI",
      "titolo": "GTA 6 - 100% Walkthrough Part 6 - 2 | 4K Livestream [No Commentary]",
      "link": "https://www.youtube.com/watch?v=p7QicVLSxlI",
      "pubblicato": "2026-11-24T00:49:44+00:00",
-     "views": 61081,
+     "views": 61235,
      "short": false,
-     "views_giorno": 40707
+     "views_giorno": 37669
     },
     {
      "id": "n59Ic2OiPng",
      "titolo": "GTA 6 - 100% Walkthrough Part 6 - 1 | 4K Livestream [No Commentary]",
      "link": "https://www.youtube.com/watch?v=n59Ic2OiPng",
      "pubblicato": "2026-11-23T21:49:11+00:00",
-     "views": 144506,
+     "views": 144845,
      "short": false,
-     "views_giorno": 88877
+     "views_giorno": 82723
     },
     {
      "id": "YuS9EunFmrs",
      "titolo": "GTA 6 Mission #23 - What's in the Bag? (Chapter 2) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=YuS9EunFmrs",
      "pubblicato": "2026-11-23T16:16:28+00:00",
-     "views": 41336,
+     "views": 42036,
      "short": false,
-     "views_giorno": 22260
+     "views_giorno": 21209
     },
     {
      "id": "OVaGLUysMXk",
      "titolo": "GTA 6 - All 36 NINE1NINE Dancers Card Locations (Collectibles Guide)",
      "link": "https://www.youtube.com/watch?v=OVaGLUysMXk",
      "pubblicato": "2026-11-23T11:44:26+00:00",
-     "views": 25628,
+     "views": 26023,
      "short": false,
-     "views_giorno": 12527
+     "views_giorno": 11987
     },
     {
      "id": "dckQ56Ro5_0",
      "titolo": "GTA 6 Mission #22 - Discharge Time (Chapter 1) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=dckQ56Ro5_0",
      "pubblicato": "2026-11-23T04:31:24+00:00",
-     "views": 63118,
+     "views": 64161,
      "short": false,
-     "views_giorno": 26898
+     "views_giorno": 25959
     },
     {
      "id": "fmRmM9TRphE",
      "titolo": "GTA 6 Mission #21 - Home Sweet Home (Chapter 1) [Full Walkthrough - PS5 4K]",
      "link": "https://www.youtube.com/watch?v=fmRmM9TRphE",
      "pubblicato": "2026-11-23T00:40:35+00:00",
-     "views": 85585,
+     "views": 86849,
      "short": false,
-     "views_giorno": 34140
-    },
-    {
-     "id": "zbSqHOPuxg4",
-     "titolo": "GTA 6 - 100% Walkthrough Part 5 | 4K Livestream [No Commentary]",
-     "link": "https://www.youtube.com/watch?v=zbSqHOPuxg4",
-     "pubblicato": "2026-11-22T21:38:23+00:00",
-     "views": 161944,
-     "short": false,
-     "views_giorno": 61496
+     "views_giorno": 32998
     }
    ]
   },
@@ -2869,36 +2788,36 @@
      "titolo": "GTA 6: 30 SECRET Unique Weapon Locations You MISSED",
      "link": "https://www.youtube.com/watch?v=qbO9HQ3HyDc",
      "pubblicato": "2026-11-24T16:00:30+00:00",
-     "views": 947,
+     "views": 1108,
      "short": false,
-     "views_giorno": 1091
+     "views_giorno": 1116
     },
     {
      "id": "IdWOGi2IHyM",
      "titolo": "20 Things You NEED To Do FIRST In GTA 6",
      "link": "https://www.youtube.com/watch?v=IdWOGi2IHyM",
      "pubblicato": "2026-11-20T23:42:42+00:00",
-     "views": 43574,
+     "views": 43844,
      "short": false,
-     "views_giorno": 9583
+     "views_giorno": 9384
     },
     {
      "id": "vOfCoIMY1SA",
      "titolo": "GTA 6: How To Steal A Fighter Jet From Military Base (No Weapons Needed)",
      "link": "https://www.youtube.com/watch?v=vOfCoIMY1SA",
      "pubblicato": "2026-11-18T19:17:16+00:00",
-     "views": 74387,
+     "views": 74497,
      "short": false,
-     "views_giorno": 11051
+     "views_giorno": 10865
     },
     {
      "id": "RC1dsZTZSMA",
      "titolo": "How To Steal A Jet From The Military Base In GTA 6",
      "link": "https://www.youtube.com/shorts/RC1dsZTZSMA",
      "pubblicato": "2026-11-18T16:06:06+00:00",
-     "views": 224888,
+     "views": 225083,
      "short": true,
-     "views_giorno": 32763
+     "views_giorno": 32204
     }
    ]
   },
@@ -2911,9 +2830,9 @@
      "titolo": "GTA 6: 150+ Crazy Features Explained",
      "link": "https://www.youtube.com/watch?v=6HxhfV9rJW0",
      "pubblicato": "2026-11-18T18:38:55+00:00",
-     "views": 67275,
+     "views": 67316,
      "short": false,
-     "views_giorno": 9955
+     "views_giorno": 9780
     }
    ]
   },
@@ -2922,40 +2841,49 @@
    "canale_id": "UCXIvhdNOzEdpdCSxTzsJm6w",
    "video": [
     {
+     "id": "ZShXZhkRmKM",
+     "titolo": "GTA 6 Hack Escalates, Rockstar Shuts Down Playable PC Build Projects...",
+     "link": "https://www.youtube.com/watch?v=ZShXZhkRmKM",
+     "pubblicato": "2026-11-25T15:30:01+00:00",
+     "views": 2999,
+     "short": false,
+     "views_giorno": 143952
+    },
+    {
      "id": "hzOHcW-mUkY",
      "titolo": "Rockstar in Full Panic as GTA 6 Crisis Worsens...",
      "link": "https://www.youtube.com/watch?v=hzOHcW-mUkY",
      "pubblicato": "2026-11-23T19:00:21+00:00",
-     "views": 704572,
+     "views": 706730,
      "short": false,
-     "views_giorno": 404195
+     "views_giorno": 378291
     },
     {
      "id": "KTQEWG4WnWY",
      "titolo": "GTA 6 User Reviews TANK as Hacker Leaks Build of the Game...",
      "link": "https://www.youtube.com/watch?v=KTQEWG4WnWY",
      "pubblicato": "2026-11-21T15:15:08+00:00",
-     "views": 965319,
+     "views": 965865,
      "short": false,
-     "views_giorno": 247546
+     "views_giorno": 239989
     },
     {
      "id": "5z0Xp9XqAL0",
      "titolo": "GTA 6 Faces Mass Criticism, Launch Compared to Cyberpunk...",
      "link": "https://www.youtube.com/watch?v=5z0Xp9XqAL0",
      "pubblicato": "2026-11-19T18:30:04+00:00",
-     "views": 401826,
+     "views": 401926,
      "short": false,
-     "views_giorno": 69711
+     "views_giorno": 68247
     },
     {
      "id": "h5w6IACopDE",
      "titolo": "I Played GTA 6... (Spoiler-Free Gameplay & Impressions)",
      "link": "https://www.youtube.com/watch?v=h5w6IACopDE",
      "pubblicato": "2026-11-18T20:05:03+00:00",
-     "views": 223568,
+     "views": 223704,
      "short": false,
-     "views_giorno": 33377
+     "views_giorno": 32785
     }
    ]
   },
@@ -2968,72 +2896,63 @@
      "titolo": "GTA 6: 10 Secret Locations You NEED TO VISIT",
      "link": "https://www.youtube.com/watch?v=as4GFUWe9cs",
      "pubblicato": "2026-11-24T17:47:48+00:00",
-     "views": 407837,
+     "views": 433277,
      "short": false,
-     "views_giorno": 513953
+     "views_giorno": 471671
     },
     {
      "id": "FTchJ8Swn8Q",
      "titolo": "Elder Scrolls 6 Sentinel: 10 Things We DON'T WANT",
      "link": "https://www.youtube.com/watch?v=FTchJ8Swn8Q",
      "pubblicato": "2026-11-23T17:47:39+00:00",
-     "views": 555760,
+     "views": 570002,
      "short": false,
-     "views_giorno": 309851
+     "views_giorno": 297077
     },
     {
      "id": "H3DQNv21hmk",
      "titolo": "GTA 6 Has Exposed a BIG Problem With AAA Games",
      "link": "https://www.youtube.com/watch?v=H3DQNv21hmk",
      "pubblicato": "2026-11-22T18:28:22+00:00",
-     "views": 1732019,
+     "views": 1742558,
      "short": false,
-     "views_giorno": 626327
+     "views_giorno": 602872
     },
     {
      "id": "gucDbIbsOAc",
      "titolo": "Top 10 NEW Games of December 2026",
      "link": "https://www.youtube.com/watch?v=gucDbIbsOAc",
      "pubblicato": "2026-11-21T18:03:31+00:00",
-     "views": 685486,
+     "views": 694344,
      "short": false,
-     "views_giorno": 181220
+     "views_giorno": 177687
     },
     {
      "id": "Xqd3KSBYvn8",
      "titolo": "GTA6 LEAKER GUILTY, UBISOFT IN BIG TROUBLE? & MORE",
      "link": "https://www.youtube.com/watch?v=Xqd3KSBYvn8",
      "pubblicato": "2026-11-20T22:27:41+00:00",
-     "views": 543685,
+     "views": 544795,
      "short": false,
-     "views_giorno": 118214
+     "views_giorno": 115319
     },
     {
      "id": "rDJVx4dw848",
      "titolo": "GTA 6: 20 MISTAKES YOU SHOULDN'T MAKE",
      "link": "https://www.youtube.com/watch?v=rDJVx4dw848",
      "pubblicato": "2026-11-20T17:05:07+00:00",
-     "views": 2425048,
+     "views": 2433245,
      "short": false,
-     "views_giorno": 502791
+     "views_giorno": 491739
     },
     {
      "id": "1yBSK22csvI",
      "titolo": "GTA 6: 10 Things The Game DOESN'T TELL YOU",
      "link": "https://www.youtube.com/watch?v=1yBSK22csvI",
      "pubblicato": "2026-11-19T17:13:18+00:00",
-     "views": 3221091,
+     "views": 3226338,
      "short": false,
-     "views_giorno": 553691
-    },
-    {
-     "id": "vVVIWEGciKk",
-     "titolo": "GTA 6 - Before You Buy",
-     "link": "https://www.youtube.com/watch?v=vVVIWEGciKk",
-     "pubblicato": "2026-11-18T15:47:51+00:00",
-     "views": 6449352,
-     "short": false,
-     "views_giorno": 937838
+     "views_giorno": 542921
     }
    ]
   },
@@ -3042,139 +2961,139 @@
    "canale_id": "UC36MGPfPwOWafAXauiV4LdA",
    "video": [
     {
+     "id": "H3vRpOieHUw",
+     "titolo": "GTA 6 - Part 24 - Jason The Pool Boy",
+     "link": "https://www.youtube.com/watch?v=H3vRpOieHUw",
+     "pubblicato": "2026-11-25T14:00:38+00:00",
+     "views": 10075,
+     "short": false,
+     "views_giorno": 131951
+    },
+    {
      "id": "oeyVoOikKB4",
      "titolo": "GTA 6 - Part 23 - Lucia Joins a Cult",
      "link": "https://www.youtube.com/watch?v=oeyVoOikKB4",
      "pubblicato": "2026-11-25T02:20:05+00:00",
-     "views": 78155,
+     "views": 97078,
      "short": false,
-     "views_giorno": 178527
+     "views_giorno": 172477
     },
     {
      "id": "M8pBDGPt9ts",
      "titolo": "GTA 6 - Part 22 - First Bank Robbery",
      "link": "https://www.youtube.com/watch?v=M8pBDGPt9ts",
      "pubblicato": "2026-11-24T22:11:31+00:00",
-     "views": 112401,
+     "views": 126454,
      "short": false,
-     "views_giorno": 184145
+     "views_giorno": 171938
     },
     {
      "id": "4EtKZt_kyKQ",
      "titolo": "GTA 6 - Part 21 - Using the Key Cloner to Steal Supercars",
      "link": "https://www.youtube.com/watch?v=4EtKZt_kyKQ",
      "pubblicato": "2026-11-24T17:55:05+00:00",
-     "views": 165457,
+     "views": 173712,
      "short": false,
-     "views_giorno": 209845
+     "views_giorno": 190152
     },
     {
      "id": "g2Z39gr_b1I",
      "titolo": "GTA 6 Hurricane Gameplay - How to Spawn Severe Weather",
      "link": "https://www.youtube.com/watch?v=g2Z39gr_b1I",
      "pubblicato": "2026-11-24T03:58:16+00:00",
-     "views": 360091,
+     "views": 367778,
      "short": false,
-     "views_giorno": 262918
+     "views_giorno": 246061
     },
     {
      "id": "QZKINBRnvB0",
      "titolo": "GTA 6 - Part 20 - Yago's R32 GTR Build & Street Racing",
      "link": "https://www.youtube.com/watch?v=QZKINBRnvB0",
      "pubblicato": "2026-11-24T00:44:35+00:00",
-     "views": 236303,
+     "views": 242198,
      "short": false,
-     "views_giorno": 157106
+     "views_giorno": 148664
     },
     {
      "id": "h84GUi3OSIY",
      "titolo": "GTA 6 - Part 19 - Mini Golf Date with Lucia",
      "link": "https://www.youtube.com/watch?v=h84GUi3OSIY",
      "pubblicato": "2026-11-23T22:45:19+00:00",
-     "views": 270610,
+     "views": 276627,
      "short": false,
-     "views_giorno": 170525
+     "views_giorno": 161582
     },
     {
      "id": "5BW8LOnL1GE",
      "titolo": "GTA 6 - Play as Tommy Vercetti GTA Multiverse Easter Egg Guide",
      "link": "https://www.youtube.com/watch?v=5BW8LOnL1GE",
      "pubblicato": "2026-11-23T17:41:02+00:00",
-     "views": 362964,
+     "views": 366279,
      "short": false,
-     "views_giorno": 201845
+     "views_giorno": 190443
     },
     {
      "id": "NixKoHGHxko",
      "titolo": "GTA 6 - Part 18 - Jason's Impossible Test",
      "link": "https://www.youtube.com/watch?v=NixKoHGHxko",
      "pubblicato": "2026-11-23T04:07:45+00:00",
-     "views": 348504,
+     "views": 353940,
      "short": false,
-     "views_giorno": 147483
+     "views_giorno": 142254
     },
     {
      "id": "0RC2gChCwqQ",
      "titolo": "GTA 6 - Part 17 - Lucia's Shopping Spree",
      "link": "https://www.youtube.com/watch?v=0RC2gChCwqQ",
      "pubblicato": "2026-11-22T23:52:57+00:00",
-     "views": 800369,
+     "views": 808492,
      "short": false,
-     "views_giorno": 315112
+     "views_giorno": 303371
     },
     {
      "id": "pIA_YxjyGFQ",
      "titolo": "GTA 6 - Part 16 - Returning Home After the Fire",
      "link": "https://www.youtube.com/watch?v=pIA_YxjyGFQ",
      "pubblicato": "2026-11-22T20:31:10+00:00",
-     "views": 260187,
+     "views": 263417,
      "short": false,
-     "views_giorno": 97082
+     "views_giorno": 93905
     },
     {
      "id": "QT8vnXcsirk",
      "titolo": "GTA 6 - Part 15 - Working for Boobie",
      "link": "https://www.youtube.com/watch?v=QT8vnXcsirk",
      "pubblicato": "2026-11-22T17:48:11+00:00",
-     "views": 242252,
+     "views": 245344,
      "short": false,
-     "views_giorno": 86727
+     "views_giorno": 84070
     },
     {
      "id": "qyTkAFvu4c8",
      "titolo": "GTA 6 - Part 14 - Moving to Vice City",
      "link": "https://www.youtube.com/watch?v=qyTkAFvu4c8",
      "pubblicato": "2026-11-22T05:01:46+00:00",
-     "views": 298529,
+     "views": 301560,
      "short": false,
-     "views_giorno": 89770
+     "views_giorno": 87394
     },
     {
      "id": "n5e0dgTUJ-s",
      "titolo": "GTA 6 - Part 13 - The Delights Heist",
      "link": "https://www.youtube.com/watch?v=n5e0dgTUJ-s",
      "pubblicato": "2026-11-22T02:37:24+00:00",
-     "views": 268157,
+     "views": 271277,
      "short": false,
-     "views_giorno": 78277
+     "views_giorno": 76398
     },
     {
      "id": "fHnW3AX6FpQ",
      "titolo": "GTA 6 - Part 12 - Jason's Miraculous Comeback",
      "link": "https://www.youtube.com/watch?v=fHnW3AX6FpQ",
      "pubblicato": "2026-11-21T23:27:45+00:00",
-     "views": 316560,
+     "views": 319328,
      "short": false,
-     "views_giorno": 88985
-    },
-    {
-     "id": "xyJ2IL5NsJY",
-     "titolo": "GTA 6 - The Self Aware NPC",
-     "link": "https://www.youtube.com/watch?v=xyJ2IL5NsJY",
-     "pubblicato": "2026-11-21T22:17:35+00:00",
-     "views": 916166,
-     "short": false,
-     "views_giorno": 254054
+     "views_giorno": 86714
     }
    ]
   }
@@ -3187,25 +3106,25 @@
    "pubblicato": "2026-11-22T18:59:50+00:00",
    "views": 6823,
    "short": true,
-   "views_giorno": 2487
+   "views_giorno": 2379
   },
   {
    "id": "Rff4nh3g1QA",
    "titolo": "AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts",
    "link": "https://www.youtube.com/shorts/Rff4nh3g1QA",
    "pubblicato": "2026-11-21T20:59:34+00:00",
-   "views": 1472,
+   "views": 1473,
    "short": true,
-   "views_giorno": 402
+   "views_giorno": 389
   },
   {
    "id": "KX08XxhZozc",
    "titolo": "KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts",
    "link": "https://www.youtube.com/shorts/KX08XxhZozc",
    "pubblicato": "2026-11-21T19:00:49+00:00",
-   "views": 1252,
+   "views": 1253,
    "short": true,
-   "views_giorno": 335
+   "views_giorno": 324
   },
   {
    "id": "xJK0XSgIQj4",
@@ -3214,7 +3133,7 @@
    "pubblicato": "2026-11-20T21:00:42+00:00",
    "views": 1127,
    "short": true,
-   "views_giorno": 242
+   "views_giorno": 236
   },
   {
    "id": "vZoJTV1xRP0",
@@ -3223,7 +3142,7 @@
    "pubblicato": "2026-11-20T18:59:35+00:00",
    "views": 1036,
    "short": true,
-   "views_giorno": 218
+   "views_giorno": 213
   },
   {
    "id": "oBcs6zpxzSo",
@@ -3232,7 +3151,7 @@
    "pubblicato": "2026-11-19T19:28:35+00:00",
    "views": 307,
    "short": true,
-   "views_giorno": 54
+   "views_giorno": 52
   },
   {
    "id": "403sSi59kJ4",
@@ -3241,7 +3160,7 @@
    "pubblicato": "2026-11-19T18:55:50+00:00",
    "views": 1075,
    "short": true,
-   "views_giorno": 187
+   "views_giorno": 183
   },
   {
    "id": "LTgpBhq5H24",
@@ -3250,7 +3169,7 @@
    "pubblicato": "2026-11-18T19:00:04+00:00",
    "views": 1255,
    "short": true,
-   "views_giorno": 186
+   "views_giorno": 183
   },
   {
    "id": "1DOTRQBDwBI",
@@ -3268,7 +3187,7 @@
    "pubblicato": "2026-11-18T14:00:03+00:00",
    "views": 3148,
    "short": true,
-   "views_giorno": 453
+   "views_giorno": 445
   },
   {
    "id": "yXOdTp_a-xI",
@@ -3277,7 +3196,7 @@
    "pubblicato": "2026-11-18T11:01:26+00:00",
    "views": 1444,
    "short": true,
-   "views_giorno": 204
+   "views_giorno": 201
   },
   {
    "id": "_8J-Sim2snU",
@@ -3286,7 +3205,7 @@
    "pubblicato": "2026-11-17T22:00:06+00:00",
    "views": 1049,
    "short": true,
-   "views_giorno": 138
+   "views_giorno": 135
   },
   {
    "id": "JeKGDEC_fvg",
@@ -3295,7 +3214,7 @@
    "pubblicato": "2026-11-17T19:00:13+00:00",
    "views": 1508,
    "short": true,
-   "views_giorno": 195
+   "views_giorno": 192
   },
   {
    "id": "gg231R5MpY8",
@@ -3313,7 +3232,7 @@
    "pubblicato": "2026-11-16T20:00:33+00:00",
    "views": 955,
    "short": true,
-   "views_giorno": 110
+   "views_giorno": 108
   }
  ],
  "id_canali": {
@@ -3344,7 +3263,7 @@
    "short": true,
    "views_24h": 1437,
    "views_48h": 1472,
-   "views_ultime": 1472
+   "views_ultime": 1473
   },
   {
    "id": "KX08XxhZozc",
@@ -3353,7 +3272,7 @@
    "short": true,
    "views_24h": 1208,
    "views_48h": 1245,
-   "views_ultime": 1252
+   "views_ultime": 1253
   },
   {
    "id": "xJK0XSgIQj4",
@@ -3641,10 +3560,10 @@
    {
     "titolo": "Hold Square",
     "streamer": "lilypichu",
-    "views": 7814,
+    "views": 11615,
     "creata": "2026-11-25T03:43:58Z",
-    "ore": 9.1,
-    "views_ora": 858,
+    "ore": 12.1,
+    "views_ora": 959,
     "durata_s": 27.3,
     "lingua": "en",
     "url": "https://www.twitch.tv/lilypichu/clip/RelievedTolerantMetalPunchTrees-1SrUQSJUwg6PKugm"
@@ -3652,76 +3571,54 @@
    {
     "titolo": "lol",
     "streamer": "KaiCenat",
-    "views": 10611,
+    "views": 12829,
     "creata": "2026-11-24T20:37:40Z",
-    "ore": 16.2,
-    "views_ora": 654,
+    "ore": 19.2,
+    "views_ora": 668,
     "durata_s": 19.4,
     "lingua": "en",
     "url": "https://www.twitch.tv/kaicenat/clip/MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh"
    },
    {
-    "titolo": "slight scratch",
-    "streamer": "caseoh_",
-    "views": 9283,
-    "creata": "2026-11-24T14:30:10Z",
-    "ore": 22.3,
-    "views_ora": 416,
-    "durata_s": 60,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/caseoh_/clip/LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd"
-   },
-   {
     "titolo": "LA COBRA SODOMIZAD4",
     "streamer": "Rubius",
-    "views": 2653,
+    "views": 3440,
     "creata": "2026-11-25T01:36:15Z",
-    "ore": 11.2,
-    "views_ora": 236,
+    "ore": 14.2,
+    "views_ora": 242,
     "durata_s": 17,
     "lingua": "es",
     "url": "https://www.twitch.tv/rubius/clip/SquarePhilanthropicGarbageOSsloth-Cc0LdBQc6lRbz2B8"
    },
    {
+    "titolo": "paid actor",
+    "streamer": "ohnePixel",
+    "views": 256,
+    "creata": "2026-11-25T14:38:05Z",
+    "ore": 1.2,
+    "views_ora": 212,
+    "durata_s": 31.8,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/ohnepixel/clip/CuteBillowingNewtFutureMan-tke0qzRbN2y_lJpx"
+   },
+   {
     "titolo": "ron and marlon?",
     "streamer": "KaiCenat",
-    "views": 2273,
+    "views": 2408,
     "creata": "2026-11-24T22:27:30Z",
-    "ore": 14.4,
-    "views_ora": 158,
+    "ore": 17.4,
+    "views_ora": 139,
     "durata_s": 40.4,
     "lingua": "en",
     "url": "https://www.twitch.tv/kaicenat/clip/BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u"
    },
    {
-    "titolo": "www",
-    "streamer": "nagaikouji074",
-    "views": 3252,
-    "creata": "2026-11-24T14:25:17Z",
-    "ore": 22.4,
-    "views_ora": 145,
-    "durata_s": 30,
-    "lingua": "ja",
-    "url": "https://www.twitch.tv/nagaikouji074/clip/InventiveBlitheNostrilChocolateRain-nPLYpX5GXlKSIWcy"
-   },
-   {
-    "titolo": "traffic",
-    "streamer": "caseoh_",
-    "views": 2518,
-    "creata": "2026-11-24T14:34:35Z",
-    "ore": 22.3,
-    "views_ora": 113,
-    "durata_s": 60,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/caseoh_/clip/RelatedExpensiveEelBleedPurple-EER18eheN5qmhA_W"
-   },
-   {
     "titolo": "SURVIVE",
     "streamer": "Ramez05",
-    "views": 1601,
+    "views": 1666,
     "creata": "2026-11-24T21:21:31Z",
-    "ore": 15.5,
-    "views_ora": 103,
+    "ore": 18.5,
+    "views_ora": 90,
     "durata_s": 60,
     "lingua": "en",
     "url": "https://www.twitch.tv/ramez05/clip/TangibleBumblingDogeNomNom-EUJ2XEuUn3_fltsp"
@@ -3729,87 +3626,43 @@
    {
     "titolo": "The Vice City Shoveler",
     "streamer": "BruceGreene",
-    "views": 1251,
+    "views": 1326,
     "creata": "2026-11-25T00:12:57Z",
-    "ore": 12.6,
-    "views_ora": 99,
+    "ore": 15.6,
+    "views_ora": 85,
     "durata_s": 31,
     "lingua": "en",
     "url": "https://www.twitch.tv/brucegreene/clip/FunnyAverageDiamond4Head-rUU4lEnhtbjGMkPr"
    },
    {
-    "titolo": "beyond belief",
-    "streamer": "caseoh_",
-    "views": 2233,
-    "creata": "2026-11-24T14:00:19Z",
-    "ore": 22.8,
-    "views_ora": 98,
-    "durata_s": 60,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/caseoh_/clip/CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b"
-   },
-   {
     "titolo": "NAH JYNXZI",
     "streamer": "Jynxzi",
-    "views": 1130,
+    "views": 1320,
     "creata": "2026-11-25T00:15:51Z",
-    "ore": 12.6,
-    "views_ora": 90,
+    "ore": 15.6,
+    "views_ora": 85,
     "durata_s": 11.4,
     "lingua": "en",
     "url": "https://www.twitch.tv/jynxzi/clip/LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra"
    },
    {
-    "titolo": "Did Lucia Get In?",
-    "streamer": "TheBurntPeanut",
-    "views": 535,
-    "creata": "2026-11-25T06:49:56Z",
-    "ore": 6.0,
-    "views_ora": 89,
-    "durata_s": 22.9,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/theburntpeanut/clip/GloriousShortRamenANELE-1Bn-506RuvLm-UJb"
-   },
-   {
-    "titolo": "s1mple",
-    "streamer": "ohnePixel",
-    "views": 1989,
-    "creata": "2026-11-24T13:33:34Z",
-    "ore": 23.3,
-    "views_ora": 85,
-    "durata_s": 39.2,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/ohnepixel/clip/UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z"
-   },
-   {
-    "titolo": "公開道歉",
-    "streamer": "哈耿",
-    "views": 1889,
-    "creata": "2026-11-24T14:37:35Z",
-    "ore": 22.2,
-    "views_ora": 85,
-    "durata_s": 37.6,
-    "lingua": "zh",
-    "url": "https://www.twitch.tv/ennaouii/clip/SpotlessFunnyPepperKlappa-mQATN1LY0PvYEIRg"
-   },
-   {
-    "titolo": "heated",
-    "streamer": "caseoh_",
-    "views": 1795,
-    "creata": "2026-11-24T13:58:52Z",
-    "ore": 22.9,
-    "views_ora": 79,
-    "durata_s": 60,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/caseoh_/clip/BlindingAgreeableTurtleKreygasm-OFxrS3_6aayEoRV3"
+    "titolo": "Да кто так паркуется?",
+    "streamer": "orkpod",
+    "views": 1569,
+    "creata": "2026-11-24T18:16:22Z",
+    "ore": 21.6,
+    "views_ora": 73,
+    "durata_s": 44.3,
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/orkpod/clip/ColdbloodedAntsyPidgeonOpieOP-4W_OaqBuKwPGb8au"
    },
    {
     "titolo": "Neuer Flugzeug Experte !!",
     "streamer": "BauPenner",
-    "views": 1203,
+    "views": 1246,
     "creata": "2026-11-24T21:29:20Z",
-    "ore": 15.4,
-    "views_ora": 78,
+    "ore": 18.4,
+    "views_ora": 68,
     "durata_s": 16.6,
     "lingua": "de",
     "url": "https://www.twitch.tv/baupenner/clip/ProtectiveHappyPancakeDxAbomb-oenrYWL3AZ2DUQ8s"
@@ -3817,338 +3670,404 @@
    {
     "titolo": "Ommmaaaaaaaa  🤣🤣",
     "streamer": "BauPenner",
-    "views": 1165,
+    "views": 1239,
     "creata": "2026-11-24T21:37:32Z",
-    "ore": 15.2,
-    "views_ora": 77,
+    "ore": 18.2,
+    "views_ora": 68,
     "durata_s": 15,
     "lingua": "de",
     "url": "https://www.twitch.tv/baupenner/clip/SavageAntediluvianGullTBTacoRight-Qs0aggL7mLjspke-"
    },
    {
-    "titolo": "Да кто так паркуется?",
-    "streamer": "orkpod",
-    "views": 1370,
-    "creata": "2026-11-24T18:16:22Z",
-    "ore": 18.6,
-    "views_ora": 74,
-    "durata_s": 44.3,
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/orkpod/clip/ColdbloodedAntsyPidgeonOpieOP-4W_OaqBuKwPGb8au"
-   },
-   {
-    "titolo": "Gratis Auto ??",
-    "streamer": "BauPenner",
-    "views": 1151,
-    "creata": "2026-11-24T21:21:28Z",
-    "ore": 15.5,
-    "views_ora": 74,
-    "durata_s": 19.9,
-    "lingua": "de",
-    "url": "https://www.twitch.tv/baupenner/clip/HomelyCrazyCucumberStinkyCheese-JD80845bdynviMLG"
-   },
-   {
-    "titolo": "курьеру не повезло 3 раза, бежит уволняться",
-    "streamer": "k4rankul",
-    "views": 1309,
-    "creata": "2026-11-24T18:33:05Z",
-    "ore": 18.3,
-    "views_ora": 72,
-    "durata_s": 48.2,
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/k4rankul/clip/WonderfulCuriousLobsterChefFrank-qfyn1_cjxtYuxS6o"
-   },
-   {
-    "titolo": "УПС",
-    "streamer": "Terablade",
-    "views": 158,
-    "creata": "2026-11-25T10:28:48Z",
-    "ore": 2.4,
-    "views_ora": 67,
-    "durata_s": 35.1,
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/terablade/clip/SincereCalmShingleKeepo-7gDT2egqL2CM3vfd"
-   },
-   {
-    "titolo": "wheelie crash",
-    "streamer": "caseoh_",
-    "views": 1436,
-    "creata": "2026-11-24T15:00:32Z",
-    "ore": 21.8,
-    "views_ora": 66,
-    "durata_s": 60,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/caseoh_/clip/SneakyZanyReindeerGrammarKing-kpyL3xCv90okawFH"
-   },
-   {
-    "titolo": "Keine 5 Sekunden",
-    "streamer": "BauPenner",
-    "views": 986,
-    "creata": "2026-11-24T21:06:51Z",
-    "ore": 15.7,
-    "views_ora": 63,
-    "durata_s": 16.9,
-    "lingua": "de",
-    "url": "https://www.twitch.tv/baupenner/clip/HappyBlightedWheelPeanutButterJellyTime-AXek7C_R9bRjmB27"
-   },
-   {
     "titolo": "the dog incident",
     "streamer": "Vinesauce",
-    "views": 519,
+    "views": 767,
     "creata": "2026-11-25T04:36:19Z",
-    "ore": 8.2,
-    "views_ora": 63,
+    "ore": 11.2,
+    "views_ora": 68,
     "durata_s": 30,
     "lingua": "en",
     "url": "https://www.twitch.tv/vinesauce/clip/AbnegatePuzzledVelociraptorLitty-2y3OGd2JIlxxVqJ6"
    },
    {
+    "titolo": "Gratis Auto ??",
+    "streamer": "BauPenner",
+    "views": 1216,
+    "creata": "2026-11-24T21:21:28Z",
+    "ore": 18.5,
+    "views_ora": 66,
+    "durata_s": 19.9,
+    "lingua": "de",
+    "url": "https://www.twitch.tv/baupenner/clip/HomelyCrazyCucumberStinkyCheese-JD80845bdynviMLG"
+   },
+   {
+    "titolo": "Did Lucia Get In?",
+    "streamer": "TheBurntPeanut",
+    "views": 599,
+    "creata": "2026-11-25T06:49:56Z",
+    "ore": 9.0,
+    "views_ora": 66,
+    "durata_s": 22.9,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/theburntpeanut/clip/GloriousShortRamenANELE-1Bn-506RuvLm-UJb"
+   },
+   {
+    "titolo": "курьеру не повезло 3 раза, бежит уволняться",
+    "streamer": "k4rankul",
+    "views": 1351,
+    "creata": "2026-11-24T18:33:05Z",
+    "ore": 21.3,
+    "views_ora": 63,
+    "durata_s": 48.2,
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/k4rankul/clip/WonderfulCuriousLobsterChefFrank-qfyn1_cjxtYuxS6o"
+   },
+   {
     "titolo": "un dia tranquilo",
     "streamer": "TheGrefg",
-    "views": 962,
+    "views": 1218,
     "creata": "2026-11-24T20:32:18Z",
-    "ore": 16.3,
-    "views_ora": 59,
+    "ore": 19.3,
+    "views_ora": 63,
     "durata_s": 5.4,
     "lingua": "es",
     "url": "https://www.twitch.tv/thegrefg/clip/TangibleBlatantCrabSuperVinlin-LvUVIxqU_zb_ZKvq"
    },
    {
-    "titolo": "Cohhs GTA Racing Experience",
-    "streamer": "CohhCarnage",
-    "views": 719,
-    "creata": "2026-11-25T00:35:35Z",
-    "ore": 12.2,
-    "views_ora": 59,
-    "durata_s": 32,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/cohhcarnage/clip/ObliviousRoughDelicataFutureMan-CS3ZEl3poE2C9fMP"
-   },
-   {
-    "titolo": "jorkin",
-    "streamer": "Rubius",
-    "views": 639,
-    "creata": "2026-11-25T01:44:24Z",
-    "ore": 11.1,
-    "views_ora": 58,
+    "titolo": "забил шар",
+    "streamer": "ZLOYn",
+    "views": 237,
+    "creata": "2026-11-25T12:04:37Z",
+    "ore": 3.8,
+    "views_ora": 63,
     "durata_s": 30,
-    "lingua": "es",
-    "url": "https://www.twitch.tv/rubius/clip/RelievedFriendlyOtterBloodTrail-FHpFzbyVZMfXcpER"
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/zloyn/clip/SuspiciousPatientKaleUWot-CqYRtdYU5Mh0-EoQ"
    },
    {
-    "titolo": "DROPS GTA 6 CAMPAÑA Y EXPLORANDO #7 GTAVI !redes",
-    "streamer": "Delt4Forc3",
-    "views": 545,
-    "creata": "2026-11-25T03:27:38Z",
-    "ore": 9.4,
-    "views_ora": 58,
-    "durata_s": 30,
-    "lingua": "es",
-    "url": "https://www.twitch.tv/delt4forc3/clip/LuckyAdorableGerbilCoolStoryBro-XVtynYHef6t11mFT"
-   },
-   {
-    "titolo": "It was such as good idea!",
-    "streamer": "Maximilian_DOOD",
-    "views": 212,
-    "creata": "2026-11-25T08:51:23Z",
-    "ore": 4.0,
-    "views_ora": 53,
-    "durata_s": 31.4,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/maximilian_dood/clip/LuckyPoliteGullHoneyBadger-Sa0aukYe2KCGDfNQ"
+    "titolo": "Krabbe greift Monte an",
+    "streamer": "MontanaBlack88",
+    "views": 236,
+    "creata": "2026-11-25T11:54:43Z",
+    "ore": 3.9,
+    "views_ora": 60,
+    "durata_s": 60,
+    "lingua": "de",
+    "url": "https://www.twitch.tv/montanablack88/clip/ImpossibleLazyAntelopeJonCarnage-YbwyOQkfvvWWgrKI"
    },
    {
     "titolo": "Mikkaa jumpscared!",
     "streamer": "MissMikkaa",
-    "views": 864,
+    "views": 1148,
     "creata": "2026-11-24T20:21:35Z",
-    "ore": 16.5,
-    "views_ora": 52,
+    "ore": 19.5,
+    "views_ora": 59,
     "durata_s": 19.6,
     "lingua": "en",
     "url": "https://www.twitch.tv/missmikkaa/clip/GoodDoubtfulEchidnaRiPepperonis-UgSmJQBGeUFobRRo"
    },
    {
-    "titolo": "ai",
-    "streamer": "alanzoka",
-    "views": 738,
-    "creata": "2026-11-24T22:46:51Z",
+    "titolo": "Cohhs GTA Racing Experience",
+    "streamer": "CohhCarnage",
+    "views": 847,
+    "creata": "2026-11-25T00:35:35Z",
+    "ore": 15.2,
+    "views_ora": 56,
+    "durata_s": 32,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/cohhcarnage/clip/ObliviousRoughDelicataFutureMan-CS3ZEl3poE2C9fMP"
+   },
+   {
+    "titolo": "Keine 5 Sekunden",
+    "streamer": "BauPenner",
+    "views": 1032,
+    "creata": "2026-11-24T21:06:51Z",
+    "ore": 18.7,
+    "views_ora": 55,
+    "durata_s": 16.9,
+    "lingua": "de",
+    "url": "https://www.twitch.tv/baupenner/clip/HappyBlightedWheelPeanutButterJellyTime-AXek7C_R9bRjmB27"
+   },
+   {
+    "titolo": "УПС",
+    "streamer": "Terablade",
+    "views": 293,
+    "creata": "2026-11-25T10:28:48Z",
+    "ore": 5.4,
+    "views_ora": 55,
+    "durata_s": 35.1,
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/terablade/clip/SincereCalmShingleKeepo-7gDT2egqL2CM3vfd"
+   },
+   {
+    "titolo": "DROPS GTA 6 CAMPAÑA Y EXPLORANDO #7 GTAVI !redes",
+    "streamer": "Delt4Forc3",
+    "views": 656,
+    "creata": "2026-11-25T03:27:38Z",
+    "ore": 12.4,
+    "views_ora": 53,
+    "durata_s": 30,
+    "lingua": "es",
+    "url": "https://www.twitch.tv/delt4forc3/clip/LuckyAdorableGerbilCoolStoryBro-XVtynYHef6t11mFT"
+   },
+   {
+    "titolo": "jorkin",
+    "streamer": "Rubius",
+    "views": 733,
+    "creata": "2026-11-25T01:44:24Z",
     "ore": 14.1,
     "views_ora": 52,
-    "durata_s": 11.8,
-    "lingua": "pt",
-    "url": "https://www.twitch.tv/alanzoka/clip/SquareRoughBottleSmoocherZ--_CWHVGhg2a_jWg-"
+    "durata_s": 30,
+    "lingua": "es",
+    "url": "https://www.twitch.tv/rubius/clip/RelievedFriendlyOtterBloodTrail-FHpFzbyVZMfXcpER"
+   },
+   {
+    "titolo": "addicted",
+    "streamer": "ohnePixel",
+    "views": 344,
+    "creata": "2026-11-25T09:15:24Z",
+    "ore": 6.6,
+    "views_ora": 52,
+    "durata_s": 60,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/ohnepixel/clip/ScrumptiousScrumptiousTermiteOneHand-Xwoh07RAjNVlEb9H"
+   },
+   {
+    "titolo": "W",
+    "streamer": "Symfuhny",
+    "views": 1149,
+    "creata": "2026-11-24T16:41:44Z",
+    "ore": 23.1,
+    "views_ora": 50,
+    "durata_s": 35.4,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/symfuhny/clip/TrustworthyWrongSkirretHeyGuys-DMt2o7edaEgPSvMx"
    },
    {
     "titolo": "Nick goes psycho",
     "streamer": "NickEh30",
-    "views": 978,
+    "views": 1137,
     "creata": "2026-11-24T17:17:08Z",
-    "ore": 19.6,
+    "ore": 22.6,
     "views_ora": 50,
     "durata_s": 18.6,
     "lingua": "en",
     "url": "https://www.twitch.tv/nickeh30/clip/ModernPrettySalmonFloof-NOA94s2iCBKUu7Kb"
    },
    {
-    "titolo": "W",
-    "streamer": "Symfuhny",
-    "views": 974,
-    "creata": "2026-11-24T16:41:44Z",
-    "ore": 20.1,
-    "views_ora": 48,
-    "durata_s": 35.4,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/symfuhny/clip/TrustworthyWrongSkirretHeyGuys-DMt2o7edaEgPSvMx"
-   },
-   {
-    "titolo": "addicted",
-    "streamer": "ohnePixel",
-    "views": 168,
-    "creata": "2026-11-25T09:15:24Z",
-    "ore": 3.6,
-    "views_ora": 47,
-    "durata_s": 60,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/ohnepixel/clip/ScrumptiousScrumptiousTermiteOneHand-Xwoh07RAjNVlEb9H"
-   },
-   {
-    "titolo": "caught... its not about her hair",
-    "streamer": "ohnePixel",
-    "views": 1029,
-    "creata": "2026-11-24T14:30:53Z",
-    "ore": 22.3,
-    "views_ora": 46,
-    "durata_s": 11.9,
-    "lingua": "en",
-    "url": "https://www.twitch.tv/ohnepixel/clip/VictoriousFineMochaPipeHype-CLBGE7MJJVbPRXRI"
-   },
-   {
-    "titolo": "le plongeon",
-    "streamer": "Domingo",
-    "views": 1008,
-    "creata": "2026-11-24T13:12:06Z",
-    "ore": 23.6,
-    "views_ora": 43,
-    "durata_s": 31.9,
-    "lingua": "fr",
-    "url": "https://www.twitch.tv/domingo/clip/ThankfulElatedFennelAMPTropPunch-gelypkKS3DBTheQn"
-   },
-   {
     "titolo": "винм",
     "streamer": "egorkreed",
-    "views": 657,
+    "views": 924,
     "creata": "2026-11-24T21:27:03Z",
-    "ore": 15.4,
-    "views_ora": 43,
+    "ore": 18.4,
+    "views_ora": 50,
     "durata_s": 33.8,
     "lingua": "ru",
     "url": "https://www.twitch.tv/egorkreed/clip/DirtyAuspiciousRadishDoggo-dyqcs_i3ghy3I8Ek"
    },
    {
+    "titolo": "ai",
+    "streamer": "alanzoka",
+    "views": 828,
+    "creata": "2026-11-24T22:46:51Z",
+    "ore": 17.1,
+    "views_ora": 49,
+    "durata_s": 11.8,
+    "lingua": "pt",
+    "url": "https://www.twitch.tv/alanzoka/clip/SquareRoughBottleSmoocherZ--_CWHVGhg2a_jWg-"
+   },
+   {
+    "titolo": "ほんとに見せられないよ！",
+    "streamer": "かしわねこ",
+    "views": 537,
+    "creata": "2026-11-25T04:45:47Z",
+    "ore": 11.1,
+    "views_ora": 48,
+    "durata_s": 57.1,
+    "lingua": "ja",
+    "url": "https://www.twitch.tv/kashi_neko/clip/EmpathicPlausibleLettuceJebaited-fIHwmlgYiOQlqYL3"
+   },
+   {
+    "titolo": "It was such as good idea!",
+    "streamer": "Maximilian_DOOD",
+    "views": 334,
+    "creata": "2026-11-25T08:51:23Z",
+    "ore": 7.0,
+    "views_ora": 48,
+    "durata_s": 31.4,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/maximilian_dood/clip/LuckyPoliteGullHoneyBadger-Sa0aukYe2KCGDfNQ"
+   },
+   {
+    "titolo": "WHIFFLE",
+    "streamer": "HutchMF",
+    "views": 923,
+    "creata": "2026-11-24T18:12:05Z",
+    "ore": 21.6,
+    "views_ora": 43,
+    "durata_s": 60,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/hutchmf/clip/DeliciousPlayfulTrollYouWHY-WbmZTC6YKNepJHhB"
+   },
+   {
+    "titolo": "gioco folle per una morte folle",
+    "streamer": "Tumblurr",
+    "views": 592,
+    "creata": "2026-11-25T02:02:30Z",
+    "ore": 13.8,
+    "views_ora": 43,
+    "durata_s": 37.7,
+    "lingua": "it",
+    "url": "https://www.twitch.tv/tumblurr/clip/AmericanBlushingYakThunBeast-Cbda8v5hlX9BebuJ"
+   },
+   {
+    "titolo": "Oh m****",
+    "streamer": "samueletienne",
+    "views": 841,
+    "creata": "2026-11-24T19:29:56Z",
+    "ore": 20.3,
+    "views_ora": 41,
+    "durata_s": 22.1,
+    "lingua": "fr",
+    "url": "https://www.twitch.tv/samueletienne/clip/PleasantEsteemedGiraffeCurseLit-4UC6glw4XB2tRoD8"
+   },
+   {
     "titolo": "Parachute WASTED",
     "streamer": "HasanAbi",
-    "views": 421,
+    "views": 550,
     "creata": "2026-11-25T02:34:27Z",
-    "ore": 10.3,
+    "ore": 13.3,
     "views_ora": 41,
     "durata_s": 20,
     "lingua": "en",
     "url": "https://www.twitch.tv/hasanabi/clip/GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR"
    },
    {
-    "titolo": "ТАЙЗЕР? ИПУГАЛСЯ? ОБОСРАЛСЯ! - GTA 6",
-    "streamer": "BorcoVski",
-    "views": 328,
-    "creata": "2026-11-25T04:55:08Z",
-    "ore": 7.9,
-    "views_ora": 41,
-    "durata_s": 24.7,
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/borcovski/clip/PerfectRamshacklePrariedogFreakinStinkin-NRUu-EtNCgLzGWUy"
+    "titolo": "Pool boy😂😂",
+    "streamer": "Squeezie",
+    "views": 782,
+    "creata": "2026-11-24T20:30:41Z",
+    "ore": 19.3,
+    "views_ora": 40,
+    "durata_s": 60,
+    "lingua": "fr",
+    "url": "https://www.twitch.tv/squeezie/clip/HorribleIronicSeahorseKippa-jomOUpme93oe5E1-"
    },
    {
-    "titolo": "gioco folle per una morte folle",
-    "streamer": "Tumblurr",
-    "views": 436,
-    "creata": "2026-11-25T02:02:30Z",
-    "ore": 10.8,
-    "views_ora": 40,
-    "durata_s": 37.7,
-    "lingua": "it",
-    "url": "https://www.twitch.tv/tumblurr/clip/AmericanBlushingYakThunBeast-Cbda8v5hlX9BebuJ"
+    "titolo": "надо",
+    "streamer": "frametamer666",
+    "views": 937,
+    "creata": "2026-11-24T16:07:11Z",
+    "ore": 23.7,
+    "views_ora": 39,
+    "durata_s": 60,
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/frametamer666/clip/ProductivePerfectHerdCharlieBitMe-elzEsoFq-jQdwkAE"
+   },
+   {
+    "titolo": "аудитория",
+    "streamer": "rejiboi",
+    "views": 304,
+    "creata": "2026-11-25T07:57:06Z",
+    "ore": 7.9,
+    "views_ora": 39,
+    "durata_s": 33.6,
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/rejiboi/clip/AverageGloriousEelSoBayed-jIbuzyobtfnL3_Bi"
+   },
+   {
+    "titolo": "locked in",
+    "streamer": "ohnePixel",
+    "views": 660,
+    "creata": "2026-11-24T22:23:55Z",
+    "ore": 17.4,
+    "views_ora": 38,
+    "durata_s": 38.5,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/ohnepixel/clip/FitBlitheDonkeyBrokeBack-lrhv-en2MLsbUAQc"
+   },
+   {
+    "titolo": "EHHHMAZING!!!!",
+    "streamer": "NickEh30",
+    "views": 834,
+    "creata": "2026-11-24T16:56:40Z",
+    "ore": 22.9,
+    "views_ora": 36,
+    "durata_s": 20.1,
+    "lingua": "en",
+    "url": "https://www.twitch.tv/nickeh30/clip/BlindingNeighborlyOxChocolateRain-ALweatmVZn5Z-rVQ"
    }
   ],
   "live": [
    {
-    "streamer": "MontanaBlack88",
-    "spettatori": 22834,
-    "titolo": "[DROPS] GTA6 NACH 13 JAHREN STORY & EASTER EGGS | GTA6 DROPS AKTIV !drops !abzeichen !flink",
-    "lingua": "de",
-    "url": "https://www.twitch.tv/montanablack88"
+    "streamer": "ohnePixel",
+    "spettatori": 33335,
+    "titolo": "🔴[DROPS] GTA 6 FULL PLAYTHROUGH🔴",
+    "lingua": "en",
+    "url": "https://www.twitch.tv/ohnepixel"
+   },
+   {
+    "streamer": "Tumblurr",
+    "spettatori": 21374,
+    "titolo": "🤯MARATONA GTA6 FINALE DA 80% A 100%🤯 🚨FINIAMO VERSO MEZZANOTTE🚨 DROP CODICI GTA ORE ⏰18.00/20.00/21.45/23.15/00.30/2.00⏰",
+    "lingua": "it",
+    "url": "https://www.twitch.tv/tumblurr"
+   },
+   {
+    "streamer": "alanzoka",
+    "spettatori": 20922,
+    "titolo": "gta 6 vivendo a vida curtindo adoidado é",
+    "lingua": "pt",
+    "url": "https://www.twitch.tv/alanzoka"
+   },
+   {
+    "streamer": "Squeezie",
+    "spettatori": 16236,
+    "titolo": "GTA 6 BRAQUAGE DAY LIVE 676h NON-STOP!!",
+    "lingua": "fr",
+    "url": "https://www.twitch.tv/squeezie"
+   },
+   {
+    "streamer": "bratishkinOFF",
+    "spettatori": 15655,
+    "titolo": "🔴 2K 60 FPS 🔴 САМОЕ ДОЛГОЕ ПРОХОЖДЕНИЕ 🔴 ГЛАВА II 🔴 DAY 7 🔴",
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/bratishkinoff"
+   },
+   {
+    "streamer": "CohhCarnage",
+    "spettatori": 12491,
+    "titolo": "[Drops] A GREAT DAY OF GTA 6! - !SubGift - !Beanie is BACK in the store! - PS5 Pro - !Emberville (Jan 7th!)",
+    "lingua": "en",
+    "url": "https://www.twitch.tv/cohhcarnage"
+   },
+   {
+    "streamer": "Recrent",
+    "spettatori": 9828,
+    "titolo": "[1440p] Финал GTA VI в 60 fps | !pari !ggsel !tg !мерч",
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/recrent"
+   },
+   {
+    "streamer": "sasavot",
+    "spettatori": 9695,
+    "titolo": "ФИНАЛ/НАДЕЮСЬ",
+    "lingua": "ru",
+    "url": "https://www.twitch.tv/sasavot"
    },
    {
     "streamer": "Domingo",
-    "spettatori": 7967,
+    "spettatori": 8230,
     "titolo": "GTA VI : LE MILLION POUR JASON & LUCIA (71%)",
     "lingua": "fr",
     "url": "https://www.twitch.tv/domingo"
    },
    {
-    "streamer": "餐餐自由配",
-    "spettatori": 7357,
-    "titolo": "PS5 GTA6 11/25",
-    "lingua": "zh",
-    "url": "https://www.twitch.tv/blusewilly_retry"
-   },
-   {
     "streamer": "老皮",
-    "spettatori": 5635,
+    "spettatori": 6978,
     "titolo": "【老皮】GTA6 這麼多彩蛋嗎?",
     "lingua": "zh",
     "url": "https://www.twitch.tv/mobilmobil"
-   },
-   {
-    "streamer": "frametamer666",
-    "spettatori": 5394,
-    "titolo": "GTA 6 ДОНАТОФОН 24/7 [DAY 8]",
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/frametamer666"
-   },
-   {
-    "streamer": "leva2k",
-    "spettatori": 5211,
-    "titolo": "ИЗОЛЯЦИЯ ДЕНЬ 10 | !tg !donate !winline !ggsel",
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/leva2k"
-   },
-   {
-    "streamer": "ZLOYn",
-    "spettatori": 5176,
-    "titolo": "МАРАФОН | GTA VI 🤯 | ДЕНЬ 8 | ЛУЧШАЯ КОНЦОВКА | !tg !прогресс",
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/zloyn"
-   },
-   {
-    "streamer": "Kyedae",
-    "spettatori": 4167,
-    "titolo": "GTAVI time (live on YT)",
-    "lingua": "en",
-    "url": "https://www.twitch.tv/kyedae"
-   },
-   {
-    "streamer": "BlackUFA",
-    "spettatori": 3676,
-    "titolo": "[DROPS] GTA 6 [PS5Pro] Точно последний стрим по игре",
-    "lingua": "ru",
-    "url": "https://www.twitch.tv/blackufa"
-   },
-   {
-    "streamer": "singsing",
-    "spettatori": 3355,
-    "titolo": "GTA 6 DAY 8 - 1  !GTATHOUGHTS",
-    "lingua": "en",
-    "url": "https://www.twitch.tv/singsing"
    }
   ]
  },
