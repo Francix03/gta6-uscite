@@ -1,47 +1,47 @@
-# Dati raccolti il 2026-11-26T15:50:29Z (UTC)
+# Dati raccolti il 2026-11-26T16:51:08Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| Togi plays GTA6 🎮 #togi | TogiToon  | 12,180,355 | 43.3 | 281,208 | x24.7 |
-| POV: One Of The Best Side Missions (GTA 6) 💀 | #shorts #gta6 | VertyGoose | 6,288,184 | 25.4 | 247,407 | x28.9 |
-| " YOU FINALLY FINISHED GTA 6 " | CONZO ZX | 4,907,439 | 25.8 | 190,510 | x42.1 |
-| When Your Own Dad Is In GTA 6 😱🎮 | SpinFactz | 3,729,229 | 26.8 | 138,960 | x1.3 |
-| GTA 6 vs GTA 5 Physics Comparasion | ViceCityX | 4,059,772 | 29.9 | 135,978 | x45.7 |
-| GTA 6 Online better come out fast | Verzen | 6,008,536 | 44.5 | 134,920 | x2.6 |
-| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 4,693,453 | 41.4 | 113,307 | x4.1 |
-| Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 | Game Forensics | 4,776,694 | 43.8 | 108,964 | x8.9 |
-| GTA V vs GTA 6... PT. 2 | Dimucc | 4,661,054 | 44.8 | 103,949 | x0.6 |
-| ESTO PASA SI JASON SIGUE 24 HORAS A UN NPC EN GTA 6 | Cano | 4,310,427 | 42.3 | 101,857 | x1.4 |
-| This GTA 6 Glitch Breaks Lucia's Outfit #shorts | Tarell | 3,267,005 | 34.4 | 95,010 | x17.0 |
-| Será la Canción de GTA 6 ?🚗🚨😱 #gta6 #gta | Los Salchi Hermanos | 2,322,864 | 24.6 | 94,333 | x0.4 |
-| Gifting PS 5 Gone Wrong😭 #playstation #gta6 #techiela #jagritipahwa #gamingvideos #gameplay | Jagriti Pahwa | 2,205,887 | 26.3 | 83,804 | x0.2 |
-| Ps5 is really struggling with GTA 6 #gta6 #grandtheftauto6 #grandfheftauto6 #xbox #ps5 | whistrey | 3,348,386 | 44.6 | 75,102 | x114.6 |
-| si quebramos el ala force del jet en #gta6 | gta2025 | 2,959,134 | 40.1 | 73,722 | x1.4 |
+| Togi plays GTA6 🎮 #togi | TogiToon  | 12,325,699 | 44.3 | 278,074 | x25.0 |
+| " YOU FINALLY FINISHED GTA 6 " | CONZO ZX | 5,692,471 | 26.8 | 212,641 | x48.4 |
+| When Your Own Dad Is In GTA 6 😱🎮 | SpinFactz | 4,014,183 | 27.8 | 144,149 | x1.4 |
+| GTA 6 vs GTA 5 Physics Comparasion | ViceCityX | 4,342,101 | 30.9 | 140,672 | x48.9 |
+| GTA 6 Online better come out fast | Verzen | 6,032,862 | 45.5 | 132,459 | x2.6 |
+| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 4,750,267 | 42.4 | 111,947 | x4.2 |
+| Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 | Game Forensics | 4,896,781 | 44.8 | 109,185 | x9.1 |
+| CaseOh is a menace in GTA 6 😭✌ | tentinpants_ | 3,232,618 | 29.8 | 108,324 | x2.1 |
+| GTA V vs GTA 6... PT. 2 | Dimucc | 4,720,528 | 45.9 | 102,955 | x0.6 |
+| ESTO PASA SI JASON SIGUE 24 HORAS A UN NPC EN GTA 6 | Cano | 4,347,107 | 43.3 | 100,327 | x1.4 |
+| RUGI GUA! #dellaseptt #dailyvlog #dailyshorts #funnyvideo #funnyshorts #gta6 #viral #trending | Della Septiani | 2,942,589 | 30.7 | 95,913 | x1.3 |
+| This GTA 6 Glitch Breaks Lucia's Outfit #shorts | Tarell | 3,345,155 | 35.4 | 94,505 | x12.0 |
+| Será la Canción de GTA 6 ?🚗🚨😱 #gta6 #gta | Los Salchi Hermanos | 2,389,329 | 25.6 | 93,206 | x0.4 |
+| When Your Lil Bro Breaks the TV on GTA 6 Release Day 💀 #meme #lol #funny #viral | NPCYoda | 3,933,362 | 47.9 | 82,200 | x5.8 |
+| Ps5 is really struggling with GTA 6 #gta6 #grandtheftauto6 #grandfheftauto6 #xbox #ps5 | whistrey | 3,404,690 | 45.6 | 74,672 | x116.5 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Mom Surprised Him With GTA 6 😱 | SpinFactz | 73,979,184 | 17,964,288 | x25.0 |
-| Togi plays GTA6 🎮 #togi | TogiToon  | 12,180,355 | 6,748,985 | x24.7 |
-| POV: One Of The Best Side Missions (GTA 6) 💀 | #shorts #gta6 | VertyGoose | 6,288,184 | 5,937,760 | x28.9 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 28,028,810 | 5,684,890 | x7.1 |
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 12,505,006 | 5,156,950 | x1.1 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,474,183 | 4,585,085 | x2.7 |
-| " YOU FINALLY FINISHED GTA 6 " | CONZO ZX | 4,907,439 | 4,572,247 | x42.1 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 21,237,358 | 4,559,377 | x0.3 |
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 14,228,060 | 3,740,182 | x5.8 |
-| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 13,739,900 | 3,708,753 | x59.0 |
-| GTA 6 Hidden Facts | Facts' Mine | 14,291,776 | 3,534,692 | x1.2 |
-| When Your Own Dad Is In GTA 6 😱🎮 | SpinFactz | 3,729,229 | 3,335,045 | x1.3 |
-| GTA 6 vs GTA 5 Physics Comparasion | ViceCityX | 4,059,772 | 3,263,470 | x45.7 |
-| GTA 6 Online better come out fast | Verzen | 6,008,536 | 3,238,073 | x2.6 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 18,292,129 | 3,231,798 | x0.3 |
+| Mom Surprised Him With GTA 6 😱 | SpinFactz | 74,287,365 | 17,856,496 | x26.0 |
+| Togi plays GTA6 🎮 #togi | TogiToon  | 12,325,699 | 6,673,772 | x25.0 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 28,036,704 | 5,638,325 | x7.1 |
+| " YOU FINALLY FINISHED GTA 6 " | CONZO ZX | 5,692,471 | 5,103,395 | x48.4 |
+| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 12,587,614 | 5,102,392 | x1.2 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,489,875 | 4,553,391 | x2.7 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 21,286,257 | 4,528,924 | x0.3 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 14,240,079 | 3,702,350 | x5.8 |
+| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 13,745,341 | 3,668,515 | x58.8 |
+| GTA 6 Hidden Facts | Facts' Mine | 14,307,416 | 3,502,080 | x1.2 |
+| When Your Own Dad Is In GTA 6 😱🎮 | SpinFactz | 4,014,183 | 3,459,571 | x1.4 |
+| GTA 6 vs GTA 5 Physics Comparasion | ViceCityX | 4,342,101 | 3,376,117 | x48.9 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 18,310,973 | 3,211,232 | x0.3 |
+| GTA 6 Online better come out fast | Verzen | 6,032,862 | 3,179,025 | x2.6 |
+| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 4,750,267 | 2,686,718 | x4.2 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6787 | 6839 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6787 | 6841 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | 1472 | 1473 |
 | 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | 1245 | 1253 |
 | 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1127 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| МЯУ | bratishkinOFF | 272 | 544 |
-| коллизия | frametamer666 | 7,425 | 333 |
-| в поле один столб и тот не обойти | TUSOVED | 257 | 218 |
-| EL COCHE | IlloJuan | 3,798 | 208 |
-| Putaaaaaaaaaa | shroud | 3,345 | 202 |
-| aplastado | Rubius | 3,517 | 167 |
-| ядрёная бомба и не выйдешь | TUSOVED | 167 | 165 |
-| Panzer Olleeeeeee | BauPenner | 2,656 | 154 |
-| Monte schafft es in den Bunker | MontanaBlack88 | 174 | 140 |
-| Viva el Nudismo!!! | IlloJuan | 1,925 | 121 |
-| для левы | bratishkinOFF | 495 | 102 |
-| In which it was time sensitive. | PatStaresAt | 2,141 | 92 |
-| колиззия 2 | frametamer666 | 1,829 | 89 |
-| Erste mal in der Militärbasis !!! | BauPenner | 1,324 | 78 |
-| Black no Kabum | alanzoka | 1,582 | 74 |
+| коллизия | frametamer666 | 8,230 | 353 |
+| Putaaaaaaaaaa | shroud | 3,753 | 214 |
+| МЯУ | bratishkinOFF | 285 | 211 |
+| EL COCHE | IlloJuan | 4,012 | 208 |
+| как врётся в единственный столб в поле | TUSOVED | 385 | 176 |
+| Panzer Olleeeeeee | BauPenner | 3,188 | 175 |
+| aplastado | Rubius | 3,760 | 171 |
+| Viva el Nudismo!!! | IlloJuan | 2,078 | 123 |
+| Monte schafft es in den Bunker | MontanaBlack88 | 256 | 114 |
+| колиззия 2 | frametamer666 | 2,044 | 95 |
+| для левы | bratishkinOFF | 519 | 88 |
+| Black no Kabum | alanzoka | 1,872 | 84 |
+| ядрёная бомба и не выйдешь | TUSOVED | 167 | 83 |
+| Erste mal in der Militärbasis !!! | BauPenner | 1,359 | 76 |
+| не получилось | frametamer666 | 1,641 | 70 |
 
