@@ -1,47 +1,47 @@
-# Dati raccolti il 2026-11-26T03:50:28Z (UTC)
+# Dati raccolti il 2026-11-26T06:50:29Z (UTC)
 
 ## Shorts partiti nelle ultime 48 ore (per views all'ora)
 | Titolo | Canale | Views | Ore | Views/ora | Outlier |
 |---|---|---|---|---|---|
-| Togi plays GTA6 🎮 #togi | TogiToon  | 10,501,512 | 31.3 | 335,360 | x26.5 |
-| Gangnam style Trend | VICE CITY | GTA 6 GAMEPLAY#shorts #viral | vikas magic | 11,108,670 | 42.8 | 259,316 | x50.0 |
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,908,558 | 46.2 | 257,778 | x1.1 |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,638,743 | 42.4 | 156,396 | x9.0 |
-| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 3,967,204 | 29.4 | 134,837 | x3.5 |
-| GTA V vs GTA 6... PT. 2 | Dimucc | 4,361,521 | 32.8 | 132,813 | x0.6 |
-| Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 | Game Forensics | 3,990,733 | 31.8 | 125,348 | x7.5 |
-| Can I Pet a Lion at the GTA 6 Zoo 😱 | Scalpo | 2,635,940 | 21.3 | 123,576 | x0.5 |
-| si quebramos el ala force del jet en #gta6 | gta2025 | 2,745,031 | 28.1 | 97,553 | x1.3 |
-| This GTA 6 Portal Takes You Back to Vice City 2002 | Tio Bit | 3,562,263 | 36.8 | 96,720 | x10.4 |
-| GTA 6 vs RDR 2 | Meat Cutting Animation Comparison | Pentoplanya | 3,328,597 | 39.3 | 84,724 | x19.7 |
-| GTA 5 VS GTA 6 NPC’s😭 | TheAnimeMen | 2,466,463 | 30.9 | 79,733 | x1.0 |
-| GTA 6 aura Part- 2.🫣 Bap ka paisa sai PS5 aur GTA6 #PS5 #GTA6 #FunnyReels #GamingMemes #IndianComedy | Akash Ghibliart Stories | 2,721,776 | 37.7 | 72,145 | x25.1 |
-| Original GTA 6 Leaker IS FREE | Ben Esherick | 2,267,793 | 31.5 | 72,107 | x4.1 |
-| CaseOh's timing is crazy in GTA 6 😭✌ | tentinpants_ | 2,804,871 | 40.8 | 68,687 | x1.9 |
+| Togi plays GTA6 🎮 #togi | TogiToon  | 10,977,048 | 34.3 | 319,896 | x23.5 |
+| Gangnam style Trend | VICE CITY | GTA 6 GAMEPLAY#shorts #viral | vikas magic | 11,264,533 | 45.8 | 245,743 | x49.9 |
+| GTA 6 Online better come out fast | Verzen | 5,770,080 | 35.5 | 162,381 | x2.5 |
+| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,683,991 | 45.4 | 147,067 | x9.0 |
+| Gangnam styleTrend | VICE CITY |GTA 6 GAMEPLAY#shorts #viral | Vishanji_Nanjar  | 6,140,670 | 44.8 | 136,971 | x17.8 |
+| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 4,259,969 | 32.4 | 131,389 | x3.7 |
+| GTA V vs GTA 6... PT. 2 | Dimucc | 4,424,649 | 35.8 | 123,457 | x0.6 |
+| Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 | Game Forensics | 4,119,851 | 34.8 | 118,259 | x7.7 |
+| Can I Pet a Lion at the GTA 6 Zoo 😱 | Scalpo | 2,823,185 | 24.3 | 116,033 | x0.5 |
+| This GTA 6 Glitch Breaks Lucia's Outfit #shorts | Tarell | 2,574,932 | 25.4 | 101,432 | x12.2 |
+| 🔴 LIVE! - GTA 6 FREE ROAM and EASTER EGGS! (PS5 PRO) | Typical Gamer | 478,161 | 5.1 | 93,315 | x0.6 |
+| si quebramos el ala force del jet en #gta6 | gta2025 | 2,864,017 | 31.1 | 91,975 | x1.4 |
+| This GTA 6 Portal Takes You Back to Vice City 2002 | Tio Bit | 3,619,568 | 39.8 | 90,874 | x9.6 |
+| GTA 6 vs RDR 2 | Meat Cutting Animation Comparison | Pentoplanya | 3,695,667 | 42.3 | 87,393 | x21.4 |
+| Ps5 is really struggling with GTA 6 #gta6 #grandtheftauto6 #grandfheftauto6 #xbox #ps5 | whistrey | 2,881,660 | 35.6 | 80,980 | x98.3 |
 
 ## Shorts degli ultimi 7 giorni (per views al giorno)
 | Titolo | Canale | Views | Al giorno | Outlier |
 |---|---|---|---|---|
-| Mom Surprised Him With GTA 6 😱 | SpinFactz | 69,451,353 | 19,195,460 | x29.5 |
-| Togi plays GTA6 🎮 #togi | TogiToon  | 10,501,512 | 8,048,635 | x26.5 |
-| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 27,965,558 | 6,312,206 | x7.1 |
-| Gangnam style Trend | VICE CITY | GTA 6 GAMEPLAY#shorts #viral | vikas magic | 11,108,670 | 6,223,587 | x50.0 |
-| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,908,558 | 6,186,673 | x1.1 |
-| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,359,101 | 5,015,776 | x2.6 |
-| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 20,586,067 | 4,951,026 | x0.3 |
-| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 13,682,955 | 4,269,638 | x58.8 |
-| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 14,012,453 | 4,240,932 | x5.7 |
-| GTA 6 Hidden Facts | Facts' Mine | 14,175,074 | 4,000,557 | x1.1 |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,638,743 | 3,753,500 | x9.0 |
-| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 18,157,461 | 3,518,864 | x0.3 |
-| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 3,967,204 | 3,236,088 | x3.5 |
-| GTA V vs GTA 6... PT. 2 | Dimucc | 4,361,521 | 3,187,524 | x0.6 |
-| Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 | Game Forensics | 3,990,733 | 3,008,353 | x7.5 |
+| Mom Surprised Him With GTA 6 😱 | SpinFactz | 70,764,213 | 18,905,116 | x25.2 |
+| Togi plays GTA6 🎮 #togi | TogiToon  | 10,977,048 | 7,677,500 | x23.5 |
+| Cuando Vas al TACÓN de GTA 6👠⚠️#comedia | YERRIKILLERXD | 27,994,086 | 6,145,246 | x7.1 |
+| Gangnam style Trend | VICE CITY | GTA 6 GAMEPLAY#shorts #viral | vikas magic | 11,264,533 | 5,897,840 | x49.9 |
+| That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts | Rahul Bhatia | 11,950,126 | 5,829,659 | x1.1 |
+| PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending | Akku Patil2 | 25,380,446 | 4,898,868 | x2.7 |
+| Walking Across The Entire Map In GTA 6! | MrBeast Gaming | 20,692,270 | 4,831,311 | x0.3 |
+| GTA 6 vs RDR2 - Gun Strap Comparison🎯 | GAMELXRD | 13,699,903 | 4,114,428 | x58.9 |
+| GTA 5 vs GTA 6 Cops😭 | TheAnimeMen | 14,039,913 | 4,094,333 | x5.7 |
+| GTA 6 Online better come out fast | Verzen | 5,770,080 | 3,897,148 | x2.5 |
+| GTA 6 Hidden Facts | Facts' Mine | 14,190,786 | 3,868,505 | x1.1 |
+| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | Anna Kursakina | 6,683,991 | 3,529,608 | x9.0 |
+| $1 v $1,000,000 Car In GTA 6 | MrBeast Gaming | 18,179,919 | 3,439,879 | x0.3 |
+| Gangnam styleTrend | VICE CITY |GTA 6 GAMEPLAY#shorts #viral | Vishanji_Nanjar  | 6,140,670 | 3,287,301 | x17.8 |
+| NUNCA MOLESTES A LUCIA EN GTA 6! | EdgarFtw | 4,259,969 | 3,153,343 | x3.7 |
 
 ## Nostri video: views a 24 e 48 ore
 | Pubblicato | Titolo | 24 h | 48 h | Ultime |
 |---|---|---|---|---|
-| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6787 | 6835 |
+| 2026-11-22T18:59 | KreekCraft Finally Cracked The Vault In GTA 6 💰 #GTA6 #shorts | 6627 | 6787 | 6836 |
 | 2026-11-21T20:59 | AsianJeff Was Still Learning The Controls When The Cops Showed Up In GTA 6 🎮 #GTA6 #shorts | 1437 | 1472 | 1473 |
 | 2026-11-21T19:00 | KreekCraft Took A Helicopter Straight Out Of The Hangar In GTA 6 🚁 #GTA6 #shorts | 1208 | 1245 | 1253 |
 | 2026-11-20T21:00 | Dylan Page Let Chat Pick His Haircut In GTA 6 ✂️ #GTA6 #shorts | 1039 | 1074 | 1127 |
@@ -65,19 +65,19 @@
 ## Twitch GTA VI: clip più forti delle ultime 24 ore (solo segnale, mai da ricaricare)
 | Titolo | Streamer | Views | Views/ora |
 |---|---|---|---|
-| I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE 🤣🏎️ | Tminnzy | 62,456 | 3,782 |
-| I TRIED TO HELP AN OLD LADY AND SHE KIDNAPPED ME?! 👵🏼🫨 | Tminnzy | 64,678 | 3,101 |
-| EL COCHE | IlloJuan | 1,631 | 261 |
-| aplastado | Rubius | 2,010 | 223 |
-| Viva el Nudismo!!! | IlloJuan | 872 | 223 |
-| Panzer Olleeeeeee | BauPenner | 1,139 | 217 |
-| Erste mal in der Militärbasis !!! | BauPenner | 1,059 | 214 |
-| коллизия | frametamer666 | 1,605 | 156 |
-| x | Gotaga | 2,148 | 155 |
-| Отлынивает | LRU_ROSE | 946 | 147 |
-| pero como? | Rubius | 792 | 147 |
-| In which it was time sensitive. | PatStaresAt | 1,496 | 133 |
-| 13 лет игра делалась(2) | rijom | 462 | 103 |
-| колиззия 2 | frametamer666 | 867 | 101 |
-| GTA 6 BRAQUAGE DAY LIVE 676h NON-STOP!! | Squeezie | 1,120 | 100 |
+| I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE 🤣🏎️ | Tminnzy | 92,773 | 4,754 |
+| I TRIED TO HELP AN OLD LADY AND SHE KIDNAPPED ME?! 👵🏼🫨 | Tminnzy | 94,781 | 3,973 |
+| LMFAOOOOO | TheBurntPeanut | 211 | 235 |
+| EL COCHE | IlloJuan | 2,163 | 234 |
+| aplastado | Rubius | 2,529 | 211 |
+| Viva el Nudismo!!! | IlloJuan | 1,134 | 164 |
+| x | Gotaga | 2,655 | 158 |
+| коллизия | frametamer666 | 2,022 | 152 |
+| Panzer Olleeeeeee | BauPenner | 1,216 | 148 |
+| Erste mal in der Militärbasis !!! | BauPenner | 1,106 | 139 |
+| In which it was time sensitive. | PatStaresAt | 1,646 | 115 |
+| HOW? HOW? | Vinesauce | 158 | 113 |
+| pero como? | Rubius | 920 | 109 |
+| Отлынивает | LRU_ROSE | 974 | 103 |
+| Finger Licking good apparently | bender1101 | 288 | 88 |
 
